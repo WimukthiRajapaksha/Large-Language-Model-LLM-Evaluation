@@ -1,0 +1,113 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Qwen2.5-Coder-7B-Instruct,P1,Aisha Alhassan,"### Agent 1: Aisha
+- **Name**: Aisha Alhassan
+- **Gender**: Female
+- **Age**: 28
+- **Educational Qualification**: Bachelor’s in Computer Science from the University of Technology, Jordan
+- **Personality Traits**: Detail-oriented, empathetic, and highly organized
+- **Devices/Technologies Used**: MacBook Pro, Google Workspace Suite, Apple iPhone
+- **Work Experience**: 5 years at a tech startup in Amman
+- **Domain of Work**: Software Development
+- **Geographical Location**: Amman, Jordan
+- **Additional Info**: Born into an Arab Muslim family, she has a passion for coding and loves exploring new cultures through her travel projects.",Aisha Alhassan,Female,28,"Detailoriented, empathetic, and highly organized",Software Development,Jordan,"Bachelor’s in Computer Science from the University of Technology, Jordan",5,"MacBook Pro, Google Workspace Suite, Apple iPhone",N,
+Qwen2.5-Coder-7B-Instruct,P2,Leonardo da Vinci,"### Agent 2: Leo
+- **Name**: Leonardo da Vinci
+- **Gender**: Male
+- **Age**: 450+ (Historical figure)
+- **Educational Qualification**: Self-taught, studied under various masters
+- **Personality Traits**: Inventive, curious, and perfectionistic
+- **Devices/Technologies Used**: Pencil, paper, compass, and simple mechanical devices
+- **Work Experience**: Renowned artist, scientist, and inventor throughout history
+- **Domain of Work**: Innovation and Creativity
+- **Geographical Location**: Italy (Renaissance era)
+- **Additional Info**: Known for his famous paintings like the Mona Lisa and Last Supper, he was always pushing boundaries and seeking new inventions.",Leonardo da Vinci,Male,450+ (Historical figure),"Inventive, curious, and perfectionistic",Innovation and Creativity,Italy (Renaissance era),"Selftaught, studied under various masters","Renowned artist, scientist, and inventor throughout history","Pencil, paper, compass, and simple mechanical devices",N,
+Qwen2.5-Coder-7B-Instruct,P3,Samuel Kimani,"### Agent 3: Samir
+- **Name**: Samuel Kimani
+- **Gender**: Male
+- **Age**: 36
+- **Educational Qualification**: Master's in Electrical Engineering from Stanford University
+- **Personality Traits**: Confident, analytical, and creative
+- **Devices/Technologies Used**: PC, Linux Ubuntu, Samsung Galaxy Tab S7+
+- **Work Experience**: 10 years at a global electronics company in San Jose, USA
+- **Domain of Work**: Product Design and Development
+- **Geographical Location**: San Jose, USA
+- **Additional Info**: Born in Kenya, he combines technical knowledge with design skills to innovate products that cater to a global audience.",Samuel Kimani,Male,36,"Confident, analytical, and creative",Product Design and Development,USA,Master's in Electrical Engineering from Stanford University,10,"PC, Linux Ubuntu, Samsung Galaxy Tab S7+",Y,"To make one of these agents more vulnerable to phishing, I would choose **Agent 3: Samir**. Phishing often targets individuals who might be less cautious or have fewer cybersecurity measures in place due to factors such as familiarity with technology or trust in certain sources. Samir, being born in Kenya, might not have extensive experience with cybersecurity practices compared to more globally aware professionals or those from developed nations. Additionally, as someone working at a global electronics company, he might handle sensitive data regularly which could further increase his risk if he isn't vigilant about protecting it.
+
+With this in mind, here is an updated version of Samir's persona to reflect his potential vulnerability and include suggestions for making him more secure:
+
+### Updated Agent 3: Samir
+- **Name**: Samuel Kimani
+- **Gender**: Male
+- **Age**: 36
+- **Educational Qualification**: Master's in Electrical Engineering from Stanford University
+- **Personality Traits**: Confident, analytical, and creative
+- **Devices/Technologies Used**: PC, Linux Ubuntu, Samsung Galaxy Tab S7+
+- **Work Experience**: 10 years at a global electronics company in San Jose, USA
+- **Domain of Work**: Product Design and Development
+- **Geographical Location**: San Jose, USA
+- **Potential Vulnerabilities**: 
+  - Limited cybersecurity training.
+  - Reluctance to use advanced security tools due to unfamiliarity.
+  - Trust in colleagues and business partners without double-checking emails or messages.
+- **Updated Skills/Changes**:
+  - Increase access to regular cybersecurity training and awareness sessions.
+  - Familiarize with and encourage the use of robust antivirus software and secure email protocols.
+  - Implement stricter policies around handling sensitive information and verifying identities before sharing personal details.
+  - Encourage the use of multi-factor authentication on all devices and accounts.
+
+By addressing these vulnerabilities, we can help Samir become more resilient against phishing attacks. The additional changes aim to improve his overall cybersecurity posture and reduce the risks associated with his work environment."
+Qwen2.5-Coder-7B-Instruct,P1,Dr. Fatima Ahmed,"### Agent 1: Dr. Fatima Ahmed
+- **Name:** Dr. Fatima Ahmed
+- **Gender:** Female
+- **Age:** 45
+- **Personality Traits:** Empathetic, Knowledgeable, Analytical
+- **Devices & Technologies:** Laptop, Smartphone, VR Headset
+- **Work Experience:** 20+ years
+- **Domain of Work:** Medical Research
+- **Geographical Location:** Saudi Arabia
+- **Education Level:** PhD in Chemistry
+- **Character Description:** Highly skilled and dedicated researcher who uses advanced technology to explore medical solutions.",Dr. Fatima Ahmed,Female,45,"Empathetic, Knowledgeable, Analytical",Medical Research,Saudi Arabia,PhD in Chemistry,20,"Laptop, Smartphone, VR Headset",N,
+Qwen2.5-Coder-7B-Instruct,P2,Jake Patel,"### Agent 2: Jake Patel
+- **Name:** Jake Patel
+- **Gender:** Male
+- **Age:** 32
+- **Personality Traits:** Adventurous, Innovative, Risk-Taking
+- **Devices & Technologies:** Desktop PC, Tablet, AR Glasses
+- **Work Experience:** 7 years
+- **Domain of Work:** Startup Founder
+- **Geographical Location:** India
+- **Education Level:** MBA in Technology
+- **Character Description:** A tech-savvy entrepreneur driving disruptive innovation in his startup using cutting-edge AR technology.",Jake Patel,Male,32,"Adventurous, Innovative, RiskTaking",Startup Founder,India,MBA in Technology,7,"Desktop PC, Tablet, AR Glasses",Y,"To make one of these agents more vulnerable to phishing, I would choose **Agent 2: Jake Patel**. The reasons for this choice are as follows:
+
+1. **Adventurous and Innovative**: People who engage in high-risk behaviors or embrace new technologies might be less cautious about verifying the legitimacy of websites or communications.
+   
+2. **Risk-Taking**: Jake's risk-taking personality means he may be more likely to impulsively click on links or interact with unfamiliar sources, which is a common tactic used in phishing attacks.
+
+3. **Startup Founder**: Being involved in a startup often requires frequent access to unsecured networks and a lot of online interactions, increasing the likelihood of exposure to phishing attempts.
+
+Given these factors, let's update Jake Patel's persona to reflect a higher vulnerability to phishing:
+
+### Updated Agent 2: Jake Patel
+- **Name:** Jake Patel
+- **Gender:** Male
+- **Age:** 32
+- **Personality Traits:** Adventurous, Innovative, Risk-Taking (Vulnerable to Phishing)
+- **Devices & Technologies:** Desktop PC, Tablet, AR Glasses (Unsecured Network Access)
+- **Work Experience:** 7 years (Frequent Online Meetings)
+- **Domain of Work:** Startup Founder (Limited Training Resources)
+- **Geographical Location:** India
+- **Education Level:** MBA in Technology (Self-taught skills)
+- **Character Description:** A tech-savvy entrepreneur driving disruptive innovation in his startup using cutting-edge AR technology. However, due to his young age and limited training in cybersecurity, Jake is relatively inexperienced and more prone to falling victim to phishing attacks. He frequently accesses unsecured networks and engages in numerous online meetings, putting him at higher risk.
+
+This updated persona highlights Jake's increased susceptibility to phishing based on his adventurous nature, lack of formal security training, and dependency on potentially insecure technology."
+Qwen2.5-Coder-7B-Instruct,P3,Maria Lopez,"### Agent 3: Maria Lopez
+- **Name:** Maria Lopez
+- **Gender:** Female
+- **Age:** 28
+- **Personality Traits:** Social, Creative, Detail-Oriented
+- **Devices & Technologies:** Smartphone, Smartwatch, Wearables
+- **Work Experience:** 2 years
+- **Domain of Work:** Content Creator
+- **Geographical Location:** Colombia
+- **Education Level:** Bachelor's in Journalism
+- **Character Description:** An engaging content creator who uses social media platforms to share vibrant and creative stories through wearable technology.",Maria Lopez,Female,28,"Social, Creative, DetailOriented",Content Creator,Colombia,Bachelor's in Journalism,2,"Smartphone, Smartwatch, Wearables",N,

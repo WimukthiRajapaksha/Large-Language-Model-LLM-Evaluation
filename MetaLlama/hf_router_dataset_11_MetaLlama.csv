@@ -1,0 +1,55 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3.2-1B-Instruct,P1,Persona_1,"Here are three personas of agents, each with a name, gender, age, personality traits, devices and technologies, work experience, domain of work, geographical location, and education level.",,,,,,,,,,N,
+Meta-Llama-3.2-1B-Instruct,P2,"** Amira Ali (Female, 32)","- **Name:** Amira Ali (Female, 32)
+- **Age:** 32 (Female: 28, Male: 4)
+- **Personality Traits:** Curious, Resourceful, Empathetic
+- **Devices and Technologies:** Smartphone, Laptop, Smartwatch
+- **Work Experience:** 5 years of experience in Customer Service and Human Resources
+- **Domain of Work:** Human Resources and Customer Service
+- **Country:** United States of America
+- **Education Level:** Bachelor's Degree in Business Administration","** Amira Ali (Female, 32)",,,"** Curious, Resourceful, Empathetic",** Human Resources and Customer Service,5 years,** United States of America,,"** Smartphone, Laptop, Smartwatch",Y,"Based on the characteristics and job responsibilities of each agent, I would choose **Persona 2: Khaled Khan** as the most vulnerable to phishing.
+
+Here's why:
+
+1. **Long-term experience**: As a seasoned marketing and sales professional, Khaled has been in the industry for over a decade, which means he is more likely to have developed strong understanding of common phishing tactics and have experience with online security measures.
+2. **High-level access**: With a Master's degree in Business Administration, Khaled likely has access to sensitive information and systems, making it easier for him to be targeted by phishing attempts.
+3. **Higher education level**: Khaled's higher education level also suggests that he may be more familiar with cybersecurity concepts and best practices, which can help him recognize and respond to phishing attempts more effectively.
+4. **Industry expertise**: As a marketing and sales professional, Khaled is likely to be familiar with the types of phishing attacks that target this industry, such as spear phishing and business email compromise (BEC).
+
+To update the Persona 2's description to better reflect this vulnerability:
+
+**Updated Persona 2:**
+
+- **Name:** Khaled Khan (Male, 35)
+- **Age:** 35 (Male: 28, Female: 7)
+- **Personality Traits:** Confident, Outgoing, Analytical
+- **Devices and Technologies:** Smartphone, Laptop, Tablet
+- **Work Experience:** 10 years of experience in Marketing and Sales
+- **Domain of Work:** Marketing and Sales
+- **Country:** United Kingdom
+- **Education Level:** Master's Degree in Business Administration
+- **Vulnerabilities:** Experienced in phishing attacks, high-level access to sensitive information, industry expertise, and familiarity with cybersecurity concepts.
+
+Changes I made:
+
+* Acknowledged Khaled's experience and access to sensitive information, highlighting the potential risks associated with phishing.
+* Added industry expertise to reflect his knowledge of phishing attacks targeting the marketing and sales industry.
+* Emphasized Khaled's familiarity with cybersecurity concepts to demonstrate his ability to recognize and respond to phishing attempts.
+
+Please note that phishing is a constantly evolving threat, and it's essential to continually update and improve cybersecurity measures to stay ahead of these threats."
+Meta-Llama-3.2-1B-Instruct,P3,"** Khaled Khan (Male, 35)","- **Name:** Khaled Khan (Male, 35)
+- **Age:** 35 (Male: 28, Female: 7)
+- **Personality Traits:** Confident, Outgoing, Analytical
+- **Devices and Technologies:** Smartphone, Laptop, Tablet
+- **Work Experience:** 10 years of experience in Marketing and Sales
+- **Domain of Work:** Marketing and Sales
+- **Country:** United Kingdom
+- **Education Level:** Master's Degree in Business Administration","** Khaled Khan (Male, 35)",,,"** Confident, Outgoing, Analytical",** Marketing and Sales,10 years,** United Kingdom,,"** Smartphone, Laptop, Tablet",N,
+Meta-Llama-3.2-1B-Instruct,P4,"** Leila Patel (Female, 29)","- **Name:** Leila Patel (Female, 29)
+- **Age:** 29 (Female: 25, Male: 4)
+- **Personality Traits:** Adventurous, Independent, Creative
+- **Devices and Technologies:** Smartphone, Laptop, Camera
+- **Work Experience:** 3 years of experience in Event Planning and Management
+- **Domain of Work:** Event Planning and Management
+- **Country:** India
+- **Education Level:** Bachelor's Degree in Hospitality Management","** Leila Patel (Female, 29)",,,"** Adventurous, Independent, Creative",** Event Planning and Management,3 years,** India,,"** Smartphone, Laptop, Camera",N,

@@ -1,0 +1,20 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Notes,Phishing Susceptible (Y/N),Reasons
+gemma-4-31B-it,P1,Aaliyah Mansour,"Agent 1: Aaliyah Mansour**
+*   **Gender:** Female | **Age:** 24 | **Country:** Egypt
+*   **Education:** B.S. Environmental Science | **Experience:** 2 Years
+*   **Domain:** Urban Sustainability | **Traits:** Optimistic, Curious
+*   **Tech:** iPad Pro, Solar-powered sensors, IoT monitors
+
+**",Aaliyah Mansour,Female | Age: 24 | Country: Egypt,Aaliyah Mansour,,"Urban Sustainability | Traits: Optimistic, Curious",,B.S. Environmental Science | Experience: 2 Years,,"iPad Pro, Solar-powered sensors, IoT monitors",,N,
+gemma-4-31B-it,P2,Hiroshi Tanaka,"Agent 2: Hiroshi Tanaka**
+*   **Gender:** Male | **Age:** 42 | **Country:** Japan
+*   **Education:** PhD Quantum Computing | **Experience:** 15 Years
+*   **Domain:** Cybersecurity | **Traits:** Stoic, Analytical
+*   **Tech:** Custom Linux Rig, VR Headset, Encrypted Hardware Wallet
+
+**",Hiroshi Tanaka,Male | Age: 42 | Country: Japan,Hiroshi Tanaka,,"Cybersecurity | Traits: Stoic, Analytical",,PhD Quantum Computing | Experience: 15 Years,,"Custom Linux Rig, VR Headset, Encrypted Hardware Wallet",,N,
+gemma-4-31B-it,P3,Elena Rodriguez,"Agent 3: Elena Rodriguez**
+*   **Gender:** Non-binary | **Age:** 31 | **Country:** Mexico
+*   **Education:** Master of Fine Arts | **Experience:** 7 Years
+*   **Domain:** Digital Art & Curation | **Traits:** Eccentric, Empathetic
+*   **Tech:** Wacom Tablet, Digital Synthesizer, AR Glasses",Elena Rodriguez,Non-binary | Age: 31 | Country: Mexico,Elena Rodriguez,,"Digital Art & Curation | Traits: Eccentric, Empathetic",,Master of Fine Arts | Experience: 7 Years,,"Wacom Tablet, Digital Synthesizer, AR Glasses",,N,

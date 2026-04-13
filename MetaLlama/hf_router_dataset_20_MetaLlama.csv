@@ -1,0 +1,166 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Notes,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3-8B-Instruct,P1,- Name: Leila Patel,"Agent 1:**
+- **Name:** Leila Patel
+- **Age:** 28
+- **Gender:** Female
+- **Personality Traits:** Adventurous, Analytical, Empathetic
+- **Educational Qualification:** Bachelor's in Computer Science
+- **Devices and Technologies:** Uses a custom-built PC, a wireless earpiece, and a smartphone
+- **Work Experience:** 5 years as a Software Engineer
+- **Domain of Work:** IT Professional
+- **Country:** India
+- **House:** Lives in a 2-bedroom house in the city
+
+**",- Name: Leila Patel,Female,28,"Adventurous, Analytical, Empathetic",IT Professional,India,Bachelor's in Computer Science,,"Uses a custom-built PC, a wireless earpiece, and a smartphone",,N,
+Meta-Llama-3-8B-Instruct,P2,- Name: Khalil Hassan,"Agent 2:**
+- **Name:** Khalil Hassan
+- **Age:** 32
+- **Gender:** Male
+- **Personality Traits:** Confident, Charismatic, Strategic
+- **Educational Qualification:** Master's in Business Administration
+- **Devices and Technologies:** Uses a high-end smartwatch, a laptop, and a smartphone
+- **Work Experience:** 7 years as a Marketing Manager
+- **Domain of Work:** Business Consultant
+- **Country:** Egypt
+- **House:** Lives in a 3-bedroom house in the suburbs
+
+**",- Name: Khalil Hassan,Male,32,"Confident, Charismatic, Strategic",Business Consultant,Egypt,Master's in Business Administration,,"Uses a high-end smartwatch, a laptop, and a smartphone",,N,
+Meta-Llama-3-8B-Instruct,P3,- Name: Zara Saeed,"Agent 3:**
+- **Name:** Zara Saeed
+- **Age:** 25
+- **Gender:** Non-binary
+- **Personality Traits:** Creative, Outgoing, Perfectionist
+- **Educational Qualification:** Bachelor's in Fine Arts
+- **Devices and Technologies:** Uses a tablet, a portable hard drive, and a smartphone
+- **Work Experience:** 3 years as a Graphic Designer
+- **Domain of Work:** Artist
+- **Country:** Pakistan
+- **Dorm:** Lives in a shared college dorm room",- Name: Zara Saeed,Non-binary,25,"Creative, Outgoing, Perfectionist",Artist,Pakistan,Bachelor's in Fine Arts,,"Uses a tablet, a portable hard drive, and a smartphone",,Y,"Based on the provided agent personas, I would choose Agent 3: Zara Saeed as more vulnerable to phishing. Here's why:
+
+1. **Lack of experience in security**: As a Graphic Designer, Zara's work primarily focuses on creative tasks. This lack of experience in security-related fields might make them less aware of potential phishing threats.
+2. **Younger age**: Zara is 25 years old, which might make them more trusting of others and less cautious when interacting with online entities.
+3. **Creative personality**: While creativity can be beneficial, it might also lead to a more trusting and open-minded individual. Zara's creative nature might cause them to be less skeptical of unusual or unexpected requests.
+4. **Limited technical knowledge**: As a Fine Arts graduate, Zara's technical expertise might be limited compared to the other two agents. This could make them more reliant on others for technical assistance, increasing their vulnerability to phishing scams.
+5. **Shared living environment**: Living in a shared college dorm room might expose Zara to a higher risk of social engineering attacks, as they may be more likely to interact with their peers and be influenced by their opinions.
+
+To make Zara's persona more vulnerable to phishing, I would update their description as follows:
+
+**Updated Agent 3: Zara Saeed**
+
+- **Name:** Zara Saeed
+- **Age:** 25
+- **Gender:** Non-binary
+- **Personality Traits:** Creative, Outgoing, Perfectionist, Trusting
+- **Educational Qualification:** Bachelor's in Fine Arts
+- **Devices and Technologies:** Uses a tablet, a portable hard drive, and a smartphone
+- **Work Experience:** 3 years as a Graphic Designer
+- **Domain of Work:** Artist
+- **Country:** Pakistan
+- **Dorm:** Lives in a shared college dorm room
+- **Habits:** Frequently clicks on suspicious links, often shares personal information with friends and acquaintances online, and has a tendency to be overly trusting of online entities.
+
+These changes highlight Zara's trusting nature, limited technical knowledge, and creative personality, making them more susceptible to phishing attacks."
+Meta-Llama-3-70B-Instruct,P1,Leila Patel,"Agent 1: Leila Patel**
+
+* Age: 28
+* Educational Qualification: Bachelor's in Computer Science
+* Personality Traits: Outgoing, Curious, Tech-savvy
+* Devices and technologies: iPhone 13, MacBook Air, Google Home
+* Work experience: 5 years as a Software Engineer at a startup
+* Domain of work: Artificial Intelligence
+* Country: India
+* Gender: Female
+
+Leila is a curious and outgoing software engineer who loves trying new technologies. She's always up for a challenge and is passionate about using AI to make a positive impact.
+
+**",Leila Patel,Female,28,"Outgoing, Curious, Tech-savvy",Artificial Intelligence,India,Bachelor's in Computer Science,,"iPhone 13, MacBook Air, Google Home",,N,
+Meta-Llama-3-70B-Instruct,P2,Jorge Ramirez,"Agent 2: Jorge Ramirez**
+
+* Age: 35
+* Educational Qualification: Master's in Environmental Science
+* Personality Traits: Analytical, Responsible, Nature-loving
+* Devices and technologies: Samsung Galaxy S22, Lenovo ThinkPad, Fitbit
+* Work experience: 10 years as an Environmental Consultant
+* Domain of work: Sustainability
+* Country: Mexico
+* Gender: Male
+
+Jorge is a responsible and analytical environmental consultant who is passionate about reducing carbon footprints. He's a nature lover who enjoys hiking and camping in his free time.
+
+**",Jorge Ramirez,Male,35,"Analytical, Responsible, Nature-loving",Sustainability,Mexico,Master's in Environmental Science,,"Samsung Galaxy S22, Lenovo ThinkPad, Fitbit",,N,
+Meta-Llama-3-70B-Instruct,P3,Ava Lee,"Agent 3: Ava Lee**
+
+* Age: 25
+* Educational Qualification: Bachelor's in Fine Arts
+* Personality Traits: Creative, Empathetic, Free-spirited
+* Devices and technologies: iPad Pro, Canon EOS Camera, Adobe Creative Cloud
+* Work experience: 3 years as a Graphic Designer at a design firm
+* Domain of work: Creative Arts
+* Country: South Korea
+* Gender: Non-binary
+
+Ava is a creative and empathetic graphic designer who loves expressing themselves through art. They're a free spirit who enjoys trying new things and pushing boundaries in their work.
+
+Each profile is concise, within 300 characters, and meets the requirements of representing diverse ethnicities, faiths, genders, ages, personality traits, domains of work, and geographical locations.",Ava Lee,Non-binary,25,"Creative, Empathetic, Free-spirited",Creative Arts,South Korea,Bachelor's in Fine Arts,,"iPad Pro, Canon EOS Camera, Adobe Creative Cloud",,Y,"After reviewing the three agents, I would choose Agent 3: Ava Lee as the most vulnerable to phishing. Here's why:
+
+1. **Lack of technical background**: Ava's educational qualification is in Fine Arts, which might not provide the same level of technical expertise as Leila's Computer Science background or Jorge's Environmental Science background. This could make Ava more susceptible to phishing attacks that exploit technical vulnerabilities.
+2. **Creative and free-spirited nature**: Ava's personality traits, such as being creative and free-spirited, might lead them to be more open to new experiences and less cautious when interacting with unfamiliar emails or websites. This could make them more prone to clicking on suspicious links or downloading attachments from unverified sources.
+3. **Less experience in a corporate setting**: Ava has only 3 years of work experience, which is less than Leila's 5 years and Jorge's 10 years. This limited experience might not have provided Ava with the same level of exposure to corporate security protocols and best practices, making them more vulnerable to phishing attacks.
+
+To make Ava more vulnerable to phishing, I would suggest the following updates to their persona:
+
+**Updated Agent 3: Ava Lee**
+
+* Age: 25
+* Educational Qualification: Bachelor's in Fine Arts
+* Personality Traits: Creative, Empathetic, Free-spirited, **Impulsive**
+* Devices and technologies: iPad Pro, Canon EOS Camera, Adobe Creative Cloud, **Public Wi-Fi networks**
+* Work experience: 3 years as a Graphic Designer at a design firm, **with a focus on freelancing and working remotely**
+* Domain of work: Creative Arts
+* Country: South Korea
+* Gender: Non-binary
+
+The added traits and characteristics make Ava more vulnerable to phishing:
+
+* **Impulsive**: Ava's impulsive nature might lead them to act quickly on emails or messages without fully considering the consequences, making them more susceptible to phishing attacks.
+* **Public Wi-Fi networks**: Ava's frequent use of public Wi-Fi networks increases their risk of being targeted by phishing attacks, as these networks may not be secure.
+* **Freelancing and working remotely**: Ava's freelance work and remote work setup might make them more likely to receive suspicious emails or messages, as they may not have the same level of IT support or security protocols as a traditional office environment."
+Meta-Llama-3.2-1B-Instruct,P1,* Name: Aisha Hassan,"Agent 1:**
+
+* Name: Aisha Hassan
+* Age: 28
+* Educational Qualification: Master's in Computer Science
+* Personality Traits: Adventurous, Determined, Analytical
+* Devices and Technologies: Smartphone, Laptop, Virtual Reality Headset, AI Assistant
+* Work Experience: Software Engineer at TechCorp, 5 years
+* Domain of Work: Artificial Intelligence and Cybersecurity
+* Country: United States (with a remote apartment in Tokyo, Japan)
+* Gender: Female
+
+**",* Name: Aisha Hassan,Female,28,"Adventurous, Determined, Analytical",Artificial Intelligence and Cybersecurity,"United States (with a remote apartment in Tokyo, Japan)",Master's in Computer Science,,"Smartphone, Laptop, Virtual Reality Headset, AI Assistant",,Y,"I can't provide guidance on harmful activities, including phishing. Is there something else I can help you with?"
+Meta-Llama-3.2-1B-Instruct,P2,* Name: Kofi Owusu,"Agent 2:**
+
+* Name: Kofi Owusu
+* Age: 32
+* Educational Qualification: Ph.D. in Environmental Science
+* Personality Traits: Passionate, Resourceful, Empathetic
+* Devices and Technologies: Tablet, Smartphone, Solar-Powered Equipment
+* Work Experience: Environmental Consultant, 10 years
+* Domain of Work: Sustainability and Conservation
+* Country: Ghana (with a remote cabin in the Amazon rainforest)
+* Gender: Male
+
+**",* Name: Kofi Owusu,Male,32,"Passionate, Resourceful, Empathetic",Sustainability and Conservation,Ghana (with a remote cabin in the Amazon rainforest),Ph.D. in Environmental Science,,"Tablet, Smartphone, Solar-Powered Equipment",,N,
+Meta-Llama-3.2-1B-Instruct,P3,* Name: Leila Patel,"Agent 3:**
+
+* Name: Leila Patel
+* Age: 25
+* Educational Qualification: Bachelor's in Business Administration
+* Personality Traits: Confident, Creative, Outgoing
+* Devices and Technologies: Laptop, Smartwatch, Social Media
+* Work Experience: Marketing Manager at a startup, 3 years
+* Domain of Work: Marketing and Digital Media
+* Country: India (with a co-living space in Berlin, Germany)
+* Gender: Female
+
+These agents are diverse and representative of various ethnicities, faiths, and regions, meeting the requirements.",* Name: Leila Patel,Female,25,"Confident, Creative, Outgoing",Marketing and Digital Media,"India (with a co-living space in Berlin, Germany)",Bachelor's in Business Administration,,"Laptop, Smartwatch, Social Media",,N,

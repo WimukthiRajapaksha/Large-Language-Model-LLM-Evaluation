@@ -1,0 +1,804 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Notes,Phishing Susceptible (Y/N),Reasons
+DeepSeek-R1-Distill-Qwen-7B,P1,Alex,"Agent 1: Alex**
+- **Name:** Alex
+- **Age:** 28
+- **Educational Qualification:** Bachelor’s in Computer Science
+- **Personality Traits:** Outgoing, tech-savvy, organized, and always ready to learn something new.
+- **Devices and Technologies Used:** smartphone (Apple), laptop (Windows), virtual reality headset, smartwatch.
+- **Work Experience:** 5 years as a LAN Party Assistant at a gaming convention.
+- **Domain of Work:** Event management, gaming, and virtual reality.
+- **Country:** United States
+- **Gender:** Male
+
+---
+
+### **",Alex,Male,28,"Outgoing, tech-savvy, organized, and always ready to learn something new.","Event management, gaming, and virtual reality.",United States,Bachelor’s in Computer Science,,"smartphone (Apple), laptop (Windows), virtual reality headset, smartwatch.",,Y,
+DeepSeek-R1-Distill-Qwen-7B,P2,Clara,"Agent 2: Clara**
+- **Name:** Clara
+- **Age:** 26
+- **Educational Qualification:** Bachelor’s in English Literature
+- **Personality Traits:** Empathetic, creative, and detail-oriented.
+- **Devices and Technologies Used:** smartphone (Android), tablet (iPad), smartwatch, augmented reality glasses.
+- **Work Experience:** 3 years as a tech support specialist at a local bar.
+- **Domain of Work:** Customer service, gaming, and interactive entertainment.
+- **Country:** United Kingdom
+- **Gender:** Female
+
+---
+
+### **",Clara,Female,26,"Empathetic, creative, and detail-oriented.","Customer service, gaming, and interactive entertainment.",United Kingdom,Bachelor’s in English Literature,,"smartphone (Android), tablet (iPad), smartwatch, augmented reality glasses.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Takahiro,"Agent 3: Takahiro**
+- **Name:** Takahiro
+- **Age:** 30
+- **Educational Qualification:** No formal degree, but holds certifications in cybersecurity.
+- **Personality Traits:** Organized, detail-oriented, and punctual.
+- **Devices and Technologies Used:** smartphone (Android), laptop (Windows), smartwatch, and a Japanese text messaging app.
+- **Work Experience:** 2 years as a concierge at a luxury hotel.
+- **Domain of Work:** Hospitality, customer service, and event planning.
+- **Country:** Japan
+- **Gender:** Male
+
+---
+
+These personas are designed to be distinct yet complementary, reflecting a diverse and dynamic virtual world. Let me know if you’d like further adjustments!",Takahiro,Male,30,"Organized, detail-oriented, and punctual.","Hospitality, customer service, and event planning.",Japan,"No formal degree, but holds certifications in cybersecurity.",,"smartphone (Android), laptop (Windows), smartwatch, and a Japanese text messaging app.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P1,Riaz Ahmed,"Agent 1: Riaz Ahmed**
+- **Name:** Riaz Ahmed  
+- **Age:** 25  
+- **Educational Qualification:** Bachelor of Science in Computer Science  
+- **Personality Traits:** Calm, detail-oriented, and always punctual. Loves solving puzzles and has a knack for problem-solving.  
+- **Devices/Technologies:** iPhone 15, Samsung Galaxy S21, Microsoft Surface Pro, Google Pixel Camera, and smartwatches.  
+- **Work Experience:** 3 years in IT support and customer service.  
+- **Domain of Work:** Technical support specialist in a high-tech company.  
+- **Country:** India (Mumbai)  
+- **Gender:** Male  
+- **Education Level:** Bachelor's degree  
+
+---
+
+### **",Riaz Ahmed,Male,25,"Calm, detail-oriented, and always punctual. Loves solving puzzles and has a knack for problem-solving.",Technical support specialist in a high-tech company.,India (Mumbai),Bachelor's degree,,"iPhone 15, Samsung Galaxy S21, Microsoft Surface Pro, Google Pixel Camera, and smartwatches.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P2,Sofia Mariana,"Agent 2: Sofia Mariana**  
+- **Name:** Sofia Mariana  
+- **Age:** 35  
+- **Educational Qualification:** Bachelor of Arts in Marketing  
+- **Personality Traits:** Energized, outgoing, and always up for a good challenge. Enjoys networking and brainstorming.  
+- **Devices/Technologies:** iPhone 15 Pro, Samsung Galaxy S22, Microsoft Surface Laptop, Google Pixel 6, and a drone.  
+- **Work Experience:** 5 years in retail management and event planning.  
+- **Domain of Work:** Event coordinator for a luxury retail brand.  
+- **Country:** Mexico (Mexicali)  
+- **Gender:** Female  
+- **Education Level:** Bachelor's degree  
+
+---
+
+### **",Sofia Mariana,Female,35,"Energized, outgoing, and always up for a good challenge. Enjoys networking and brainstorming.",Event coordinator for a luxury retail brand.,Mexico (Mexicali),Bachelor's degree,,"iPhone 15 Pro, Samsung Galaxy S22, Microsoft Surface Laptop, Google Pixel 6, and a drone.",,Y,"**Conclusion:**
+
+Sofia Mariana is the most vulnerable to phishing among the three agents due to her social, event-oriented job and outgoing personality, which may lead her to accept suspicious communications without verification. 
+
+**Updated Persona for Sofia Mariana:**
+
+- **Name:** Sofia Mariana  
+- **Age:** 35  
+- **Educational Qualification:** Bachelor of Arts in Marketing  
+- **Personality Traits:** Energized, outgoing, and always up for a good challenge. Enjoys networking and brainstorming. Additionally, Sofia has been tracking a high-profile, high-risk project for months and has a history of receiving suspicious communications. She has a desire to stay connected with clients despite potential security concerns. Enjoys brainstorming and problem-solving.  
+- **Devices/Technologies:** iPhone 15 Pro, Samsung Galaxy S22, Microsoft Surface Laptop, Google Pixel 6, and a drone.  
+- **Work Experience:** 5 years in retail management and event planning, with a track record of handling numerous communications and being targeted by phishing attempts.  
+- **Domain of Work:** Event coordinator for a luxury retail brand.  
+- **Country:** Mexico (Mexicali)  
+- **Gender:** Female  
+- **Education Level:** Bachelor's degree  
+
+This updated persona emphasizes Sofia's awareness of security concerns and her proactive approach to staying connected, highlighting her potential susceptibility to phishing."
+DeepSeek-R1-Distill-Qwen-7B,P3,Kyler3333,"Agent 3: Kyler3333**  
+- **Name:** Kyler3333  
+- **Age:** 45  
+- **Educational Qualification:** Master of Education in Educational Leadership  
+- **Personality Traits:** calm, strategic, and organized. Loves helping others and learning from experiences.  
+- **Devices/Technologies:** Samsung Galaxy S22 Ultra, Apple Watch Series 6, Microsoft Surface Pro 5, Google Pixel 7, and a smart home system.  
+- **Work Experience:** 15 years as an educational consultant and administrator.  
+- **Domain of Work:** Educational policy advisor for a non-profit organization.  
+- **Country:** United States (Rural area, Varanasi, India)  
+- **Gender:** Male  
+- **Education Level:** Master's degree  
+
+---
+
+These personas are designed to reflect diversity in age, gender, nationality, and personality while staying within the character limit. Let me know if you'd like more details!",Kyler3333,Male,45,"calm, strategic, and organized. Loves helping others and learning from experiences.",Educational policy advisor for a non-profit organization.,"United States (Rural area, Varanasi, India)",Master's degree,,"Samsung Galaxy S22 Ultra, Apple Watch Series 6, Microsoft Surface Pro 5, Google Pixel 7, and a smart home system.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P1,Akira Nakamura (28),"Agent 1: **Akira Nakamura (28)**  
+- **EDUCATION:** Recent graduate in English Literature  
+- **Personality Traits:** Empathetic, creative, and highly organized.  
+- **Devices and Technologies:** Smartwatch, iPhone 14 Pro, Google Nest, Apple Watch.  
+- **Work Experience:** 2 years in customer service, 1 year in creative writing.  
+- **Domain of Work:** Content writer at a co-living blog.  
+- **Geographical Location:** Tokyo, Japan.  
+- **Gender:** Female.  
+- **Age:** 28.  
+
+---
+
+###",Akira Nakamura (28),Female.,28,"Empathetic, creative, and highly organized.",Content writer at a co-living blog.,"Tokyo, Japan.",Recent graduate in English Literature,,"Smartwatch, iPhone 14 Pro, Google Nest, Apple Watch.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P2,Mia Johnson (30),"Agent 2: **Mia Johnson (30)**  
+- **EDUCATION:** Bachelor of Environmental Science  
+- **Personality Traits:** Analytical, responsible, and nature-loving.  
+- **Devices and Technologies:** Surface Pro 9, Samsung Galaxy S21, AirPods Pro, Samsung SmartThings.  
+- **Work Experience:** 5 years in environmental consulting, 3 years in sustainability.  
+- **Domain of Work:** Sustainability advisor at a grocery store.  
+- **Geographical Location:** Paris, France.  
+- **Gender:** Female.  
+- **Age:** 30.  
+
+---
+
+###",Mia Johnson (30),Female.,30,"Analytical, responsible, and nature-loving.",Sustainability advisor at a grocery store.,"Paris, France.",Bachelor of Environmental Science,,"Surface Pro 9, Samsung Galaxy S21, AirPods Pro, Samsung SmartThings.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Kiera Lasisi (29),"Agent 3: **Kiera Lasisi (29)**  
+- **EDUCATION:** Bachelor of Technology in Marketing  
+- **Personality Traits:** Outgoing, innovative, and detail-oriented.  
+- **Devices and Technologies:** MacBook Pro, Google Pixel 6, Apple Watch, Google Nest.  
+- **Work Experience:** 3 years in digital marketing, 2 years in corporate communications.  
+- **Domain of Work:** Digital marketing consultant at a supply store.  
+- **Geographical Location:** Nairobi, Kenya.  
+- **Gender:** Female.  
+- **Age:** 29.  
+
+---
+
+These personas represent diverse ages, genders, ethnicities, and cultural backgrounds, ensuring a balanced and dynamic co-living environment.",Kiera Lasisi (29),Female.,29,"Outgoing, innovative, and detail-oriented.",Digital marketing consultant at a supply store.,"Nairobi, Kenya.",Bachelor of Technology in Marketing,,"MacBook Pro, Google Pixel 6, Apple Watch, Google Nest.",,Y,"**Conclusion: Kiera Lasisi is the most vulnerable to phishing due to her role as a digital marketing consultant in a supply store, which involves handling extensive client data. Her personality traits, including being outgoing and detail-oriented, may increase her exposure to suspicious activities despite her careful handling of information.
+
+**Updated Persona for Kiera Lasisi:**
+
+- **EDUCATION:** Bachelor of Marketing  
+- **Personality Traits:** Outgoing, innovative, and detail-oriented.  
+- **Devices and Technologies:** MacBook Pro, Google Pixel 6, Apple Watch, Google Nest.  
+- **Work Experience:** 3 years in digital marketing, 2 years in corporate communications.  
+- **Domain of Work:** Digital marketing consultant at a supply store.  
+- **Geographical Location:** Nairobi, Kenya.  
+- **Gender:** Female.  
+- **Age:** 29.  
+- **Additional Enhancement:** Enhanced awareness of phishing risks through regular training and awareness programs.  
+
+This updated persona reflects Kiera's proactive approach to mitigating phishing risks through continuous education and vigilance."
+DeepSeek-R1-Distill-Qwen-7B,P1,Fatima Al-Hajj,"Agent 1: Fatima Al-Hajj**  
+- **Name:** Fatima Al-Hajj  
+- **Age:** 28  
+- **Gender:** Female  
+- **Ethnicity/Faith:** Palestinian/Muslim  
+- **Educational Qualification:** Bachelor’s in Business Administration  
+- **Personality Traits:** Calm, organized, detail-oriented, responsible  
+- **Device/Technology Used:** • Laptop, • Supply management software, • CRM tool, • Mobile phone  
+- **Work Experience:** 3 years in supply chain management  
+- **Domain of Work:** Operations Manager at a supply store  
+- **Geographical Location:** Middle East  
+
+---
+
+### **",Fatima Al-Hajj,Female,28,"Calm, organized, detail-oriented, responsible",Operations Manager at a supply store,Middle East,Bachelor’s in Business Administration,,"Laptop,  Supply management software,  CRM tool,  Mobile phone",,N,
+DeepSeek-R1-Distill-Qwen-7B,P2,Liam O'Malley,"Agent 2: Liam O'Malley**  
+- **Name:** Liam O'Malley  
+- **Age:** 26  
+- **Gender:** Male  
+- **Ethnicity/Faith:** Irish/Catholic  
+- **Educational Qualification:** Bachelor’s in Hotel Management  
+- **Personality Traits:** Friendly, outgoing, social, optimistic  
+- **Device/Technology Used:** • Smartphones, • bartender tracking app, • inventory management system, • laptop  
+- **Work Experience:** 2 years as a bartender at a college bar  
+- **Domain of Work:** Beverage Manager at a college bar  
+- **Geographical Location:** Ireland  
+
+---
+
+### **",Liam O'Malley,Male,26,"Friendly, outgoing, social, optimistic",Beverage Manager at a college bar,Ireland,Bachelor’s in Hotel Management,,"Smartphones,  bartender tracking app,  inventory management system,  laptop",,N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Aadya Patel,"Agent 3: Aadya Patel**  
+- **Name:** Aadya Patel  
+- **Age:** 24  
+- **Gender:** Non-Binary/ genderqueer  
+- **Ethnicity/Faith:** Indian/Buddhist  
+- **Educational Qualification:** Bachelor’s in English and Media  
+- **Personality Traits:** Creative, approachable, empathetic, innovative  
+- **Device/Technology Used:** • Smartwatch, • social media management tool, • customer relationship management app, • laptop  
+- **Work Experience:** 1 year as a café owner  
+- **Domain of Work:** Owner of a trendy, eco-friendly café  
+- **Geographical Location:** India  
+
+---
+
+These personas are designed to be diverse in every way, reflecting a multi-ethnic, multi-gender, and multi-cultural virtual world. Each agent has a unique role, personality, and set of skills that will make them stand out in your virtual environment.",Aadya Patel,Non-Binary/ genderqueer,24,"Creative, approachable, empathetic, innovative","Owner of a trendy, eco-friendly café",India,Bachelor’s in English and Media,,"Smartwatch,  social media management tool,  customer relationship management app,  laptop",,Y,"Based on the analysis, Aadya Patel, as the owner of a trendy, eco-friendly café in India, is the most susceptible to phishing due to her job role and interactions with the public. To mitigate this risk, the following updates can be implemented in her persona:
+
+1. **Cybersecurity Awareness Training**: Incorporate phishing awareness programs to educate her on social engineering tactics and secure online interactions.
+
+2. **Password Strength**: Encourage the use of strong, unique passwords to protect against unauthorized access.
+
+3. **Two-Factor Authentication (2FA)**: Implement 2FA for all devices to enhance security and reduce the risk of unauthorized login attempts.
+
+4. **Payment Security**: Ensure that her café's payment processing system is secure to protect customer financial information.
+
+5. **Online Presence Security**: Train her on securing her café's online presence, including using secure websites and protecting customer data.
+
+By integrating these measures, Aadya's vulnerability to phishing can be significantly reduced, aligning with her role and responsibilities as a café owner."
+DeepSeek-R1-Distill-Qwen-7B,P1,Amara (South Africa),"Agent 1: Amara (South Africa)  
+**Age:** 28  
+**Educational Qualification:** Bachelor’s in Hospitality Management  
+**Personality Traits:** Compassionate, adventurous, and passionate about connecting with people.  
+**Devices and Technologies:** Smartphones, Instagram, WhatsApp, and basic productivity apps.  
+**Work Experience:** 3 years as a cocktail bar mixologist, crafting unique drinks and creating an engaging cocktail menu.  
+**Domain of Work:** Beverage Industry, specifically cocktail making and bartending.  
+**Country:** South Africa  
+**Gender:** Male  
+
+---
+
+###",Amara (South Africa),Male,28,"Compassionate, adventurous, and passionate about connecting with people.","Beverage Industry, specifically cocktail making and bartending.",South Africa,Bachelor’s in Hospitality Management,,"Smartphones, Instagram, WhatsApp, and basic productivity apps.",,N,
+DeepSeek-R1-Distill-Qwen-7B,P2,Lila (Philippines),"Agent 2: Lila (Philippines)  
+**Age:** 26  
+**Educational Qualification:** Diploma in English Literature  
+**Personality Traits:** Empathetic, creative, and detail-oriented.  
+**Devices and Technologies:** Smartphones, Zoom, Microsoft Office Suite, and social media platforms.  
+**Work Experience:** 2 years as a social media content manager, crafting engaging posts for local businesses.  
+**Domain of Work:** Content creation and digital marketing.  
+**Country:** Philippines  
+**Gender:** Female  
+
+---
+
+###",Lila (Philippines),Female,26,"Empathetic, creative, and detail-oriented.",Content creation and digital marketing.,Philippines,Diploma in English Literature,,"Smartphones, Zoom, Microsoft Office Suite, and social media platforms.",,Y,"**Answer:**
+
+After analyzing the three agents, the most vulnerable individual to phishing is identified as **Lila**. This conclusion is based on her role as a social media content manager, which is a high-risk sector for phishing, her use of platforms like Zoom and Microsoft Office Suite that facilitate phishing attempts, and her relatively younger experience, which may indicate less phishing awareness.
+
+**Updated Persona for Lila:**
+
+To enhance her security and reduce vulnerability to phishing, Lila can be updated to reflect increased awareness and better protection measures. Here's how her profile can be adjusted:
+
+1. **Education and Leadership Role:**  
+   Lila can be promoted to a leadership position, such as a Senior Social Media Manager, which would require higher vigilance and security.
+
+2. **Advanced Tools and Training:**  
+   She can be equipped with advanced productivity tools and undergo regular phishing awareness training to stay informed about potential threats.
+
+3. **Security Measures:**  
+   Lila can be granted access to better security tools and perhaps receive monitoring services to detect and block phishing attempts more effectively.
+
+By implementing these changes, Lila's role and security posture will be strengthened, reducing her susceptibility to phishing attacks.
+
+**Conclusion:**  
+Lila is the most vulnerable due to her high-risk job role and lack of advanced security. Updating her to a more secure and vigilant position will mitigate her phishing risks."
+DeepSeek-R1-Distill-Qwen-7B,P3,Chai (India),"Agent 3: Chai (India)  
+**Age:** 29  
+**Educational Qualification:** MBA in Supply Chain Management  
+**Personality Traits:** Confident, goal-oriented, and organized.  
+**Devices and Technologies:** Smartphones, inventory management software, and supply chain tools.  
+**Work Experience:** 4 years as a supply chain coordinator, optimizing logistics and ensuring efficient distribution.  
+**Domain of Work:** Supply chain management and logistics.  
+**Country:** India  
+**Gender:** Genderqueer/Non-Binary  
+
+---
+
+These three agents bring diverse perspectives, skills, and backgrounds to the virtual world, ensuring a dynamic and engaging environment.",Chai (India),Genderqueer/Non-Binary,29,"Confident, goal-oriented, and organized.",Supply chain management and logistics.,India,MBA in Supply Chain Management,,"Smartphones, inventory management software, and supply chain tools.",,N,
+DeepSeek-R1-Distill-Llama-8B,P1,Amara Tanaka,"Agent 1: **Amara Tanaka**  
+- **Age:** 22  
+- **Educational Qualification:** Bachelor of Arts in Hospitality Management  
+- **Personality Traits:** Detail-oriented, empathetic, and creative  
+- **Devices/Technologies:** Virtual reality headset, smart phone, and AI-driven hospitality management tools  
+- **Work Experience:** 2 years as a hostel warden in a co-living space  
+- **Domain of Work:** Hospitality and community engagement  
+- **Country:** Japan  
+- **Gender:** Female  
+
+###",Amara Tanaka,Female,22,"Detail-oriented, empathetic, and creative",Hospitality and community engagement,Japan,Bachelor of Arts in Hospitality Management,,"Virtual reality headset, smart phone, and AI-driven hospitality management tools",,N,
+DeepSeek-R1-Distill-Llama-8B,P2,Rajiv Sharma,"Agent 2: **Rajiv Sharma**  
+- **Age:** 35  
+- **Educational Qualification:** Master of Arts in Urban Planning  
+- **Personality Traits:** Entrepreneurial, curious, and analytical  
+- **Devices/Technologies:** Smart device hub, AI supply chain optimization tools, and a rugged smartphone  
+- **Work Experience:** 10 years in supply chain and logistics management  
+- **Domain of Work:** Logistics and operations  
+- **Country:** India  
+- **Gender:** Male  
+
+###",Rajiv Sharma,Male,35,"Entrepreneurial, curious, and analytical",Logistics and operations,India,Master of Arts in Urban Planning,,"Smart device hub, AI supply chain optimization tools, and a rugged smartphone",,N,
+DeepSeek-R1-Distill-Llama-8B,P3,Elias Kartik,"Agent 3: **Elias Kartik**  
+- **Age:** 38  
+- **Educational Qualification:** Doctor of Philosophy in Sociology  
+- **Personality Traits:** Charismatic, empathetic, and forward-thinking  
+- **Devices/Technologies:** AI-driven community simulation tools, smartwatch, and a virtual assistant  
+- **Work Experience:** 15 years in community development and education  
+- **Domain of Work:** Community engagement and education  
+- **Country:** France  
+- **Gender:** Male",Elias Kartik,Male,38,"Charismatic, empathetic, and forward-thinking",Community engagement and education,France,Doctor of Philosophy in Sociology,,"AI-driven community simulation tools, smartwatch, and a virtual assistant",,Y,"**Final Answer:**
+
+**Most Vulnerable Agent: Elias Kartik**
+
+**Rationale:**
+Elias Kartik is identified as the most vulnerable to phishing attacks due to his empathetic nature and forward-thinking approach. His role in community engagement might make him more likely to share information believing it's for a good cause. Additionally, his use of AI-driven tools could make him more trusting of new technologies, potentially leading him to engage with suspicious links or applications without proper verification.
+
+**Proposed Changes:**
+To reduce Elias's vulnerability, it might be beneficial to incorporate a more cautious trait, such as skepticism towards new technologies or a heightened awareness of potential phishing attempts. This change would align with his empathetic and forward-thinking nature while enhancing his ability to recognize threats.
+
+**Updated Description:**
+
+**Elias Kartik**  
+- **Age:** 38  
+- **Educational Qualification:** Doctor of Philosophy in Sociology  
+- **Personality Traits:** Charismatic, empathetic, forward-thinking, and now more cautious with new technologies  
+- **Devices/Technologies:** AI-driven community simulation tools, smartwatch, and a virtual assistant  
+- **Work Experience:** 15 years in community development and education  
+- **Domain of Work:** Community engagement and education  
+- **Country:** France  
+- **Gender:** Male  
+
+This update reflects a heightened awareness in Elias, making him better equipped to identify and avoid phishing threats while maintaining his core strengths."
+DeepSeek-R1-Distill-Llama-8B,P1,Aisha Al-Farouq,"Agent 1: Aisha Al-Farouq**  
+- **Age:** 28  
+- **Educational Qualification:** Bachelor’s in Hospitality Management  
+- **Personality Traits:** Outgoing, Creative, Enthusiastic  
+- **Devices & Tech:** Smartphone, Smart Home Devices, Fitness Tracker  
+- **Work Experience:** Event Planner, Community Organizer  
+- **Domain of Work:** Social Coordination, Event Management  
+- **Country:** United Arab Emirates  
+- **Gender:** Female  
+
+**",Aisha Al-Farouq,Female,28,"Outgoing, Creative, Enthusiastic","Social Coordination, Event Management",United Arab Emirates,Bachelor’s in Hospitality Management,,"Smartphone, Smart Home Devices, Fitness Tracker",,Y,"**Final Answer: Aisha Al-Farouq**
+
+**Reasoning:**
+Aisha Al-Farouq is identified as the most vulnerable to phishing due to her active social media presence, outgoing personality, and reliance on common devices. Her engagement on platforms like Instagram and LinkedIn, coupled with a trusting nature, increases her susceptibility to phishing attempts. She may not employ robust security measures, making her a target for attackers.
+
+**Proposed Changes to Aisha's Persona:**
+1. **Increased Social Media Activity:** Enhance her presence on platforms like Instagram and LinkedIn to further exploit her trusting nature.
+2. **Reliance on Public Wi-Fi:** Encourage her to use public Wi-Fi without strong security protocols, increasing vulnerability.
+3. **Weak Passwords:** Implement the use of simple, easily guessable passwords across her devices.
+4. **Lack of Security Awareness:** Highlight a diminished understanding of common phishing tactics, such as suspicious links or emails.
+5. **Unprotected Devices:** Ensure her devices lack essential security software, leaving them exposed to threats.
+
+These changes would heighten her susceptibility, making her an even more compelling target for phishing attacks."
+DeepSeek-R1-Distill-Llama-8B,P2,Liam O’Connor,"Agent 2: Liam O’Connor**  
+- **Age:** 35  
+- **Educational Qualification:** Master’s in Urban Studies  
+- **Personality Traits:** Analytical, Grounded, Detail-Oriented  
+- **Devices & Tech:** Laptop, Project Management Tools, Communication Apps  
+- **Work Experience:** Urban Planner, Community Organizer  
+- **Domain of Work:** Urban Development, Organizational Leadership  
+- **Country:** Ireland  
+- **Gender:** Male  
+
+**",Liam O’Connor,Male,35,"Analytical, Grounded, Detail-Oriented","Urban Development, Organizational Leadership",Ireland,Master’s in Urban Studies,,"Laptop, Project Management Tools, Communication Apps",,N,
+DeepSeek-R1-Distill-Llama-8B,P3,Ravi Singh,"Agent 3: Ravi Singh**  
+- **Age:** 32  
+- **Educational Qualification:** Computer Science Degree  
+- **Personality Traits:** Tech-Savvy, Intuitive, Collaborative  
+- **Devices & Tech:** Coding Devices, AI Systems, Cloud Storage  
+- **Work Experience:** IT Consultant, Tech Integrator  
+- **Domain of Work:** Technology Integration, Virtual Space Management  
+- **Country:** India  
+- **Gender:** Non-Binary",Ravi Singh,Non-Binary,32,"Tech-Savvy, Intuitive, Collaborative","Technology Integration, Virtual Space Management",India,Computer Science Degree,,"Coding Devices, AI Systems, Cloud Storage",,N,
+DeepSeek-R1-Distill-Llama-8B,P1,Amira Al-Masri,"Agent 1: Amira Al-Masri  
+**Age:** 28  
+**Educational Qualification:** Bachelor's in Interior Design  
+**Personality Traits:** Empathetic, creative, and detail-oriented  
+**Devices and Technologies:** Laptop, smart speaker, and a smartphone with project management apps  
+**Work Experience:** Worked as a project manager at a design firm in Cairo, Egypt  
+**Domain of Work:** Interior design and community space coordination  
+**Country:** Egypt  
+**Gender:** Female  
+
+###",Amira Al-Masri,Female,28,"Empathetic, creative, and detail-oriented",Interior design and community space coordination,Egypt,Bachelor's in Interior Design,,"Laptop, smart speaker, and a smartphone with project management apps",,Y,"**Final Assessment: Most Vulnerable to Phishing**
+
+**Agent: Amira Al-Masri**
+
+**Reasoning:**
+1. **Personality Traits:** Amira's empathetic and detail-oriented nature makes her susceptible. She may focus on specific details, potentially overlooking broader suspicious patterns in emails, making her a target for phishing schemes.
+   
+2. **Work Environment:** Her role in interior design and community coordination means she frequently interacts with clients and partners, increasing the likelihood of receiving emails that appear legitimate but are actually phishing attempts.
+
+3. **Devices:** Her use of a smartphone with project management apps and a laptop means she is likely to receive and act upon emails regularly, increasing her exposure to potential threats.
+
+**Recommendations for Amira:**
+- Enhance email verification practices, especially for less familiar contacts.
+- Implement multi-factor authentication to add an extra layer of security.
+- Utilize security awareness training to recognize phishing tactics.
+
+**Conclusion:**
+Amira is identified as the most vulnerable due to her focus on details and her job's nature, which involves regular email communication, making her a prime target for phishing attacks. Addressing her specific vulnerabilities can significantly reduce her risk."
+DeepSeek-R1-Distill-Llama-8B,P2,Li Hua,"Agent 2: Li Hua  
+**Age:** 26  
+**Educational Qualification:** Bachelor's in Computer Science  
+**Personality Traits:** Analytical, precise, and a tech enthusiast  
+**Devices and Technologies:** Laptops, tablets, and the latest coding tools  
+**Work Experience:** Software developer at a tech startup in Shanghai  
+**Domain of Work:** IT, coding, and software development  
+**Country:** China  
+**Gender:** Female  
+
+###",Li Hua,Female,26,"Analytical, precise, and a tech enthusiast","IT, coding, and software development",China,Bachelor's in Computer Science,,"Laptops, tablets, and the latest coding tools",,N,
+DeepSeek-R1-Distill-Llama-8B,P3,Julian Rousseau,"Agent 3: Julian Rousseau  
+**Age:** 31  
+**Educational Qualification:** Bachelor's in Hospitality Management  
+**Personality Traits:** Charming, organized, and a natural leader  
+**Devices and Technologies:** Smartwatch, fitness tracker, and a smartphone with event planning apps  
+**Work Experience:** Event manager at a luxury hotel in Paris  
+**Domain of Work:** Hospitality, event planning, and community activities  
+**Country:** France  
+**Gender:** Male  
+
+These personas reflect diversity in ethnicity, faith, gender, age, and professional backgrounds, ensuring a balanced representation in your co-living space.",Julian Rousseau,Male,31,"Charming, organized, and a natural leader","Hospitality, event planning, and community activities",France,Bachelor's in Hospitality Management,,"Smartwatch, fitness tracker, and a smartphone with event planning apps",,N,
+DeepSeek-R1-Distill-Llama-8B,P1,Lia,"Agent 1: **Lia**  
+- **Age:** 24  
+- **Educational Qualification:** Bachelor’s in Computer Science  
+- **Personality Traits:** Outgoing, empathetic, curious  
+- **Devices & Technologies:** Smartphone, fitness tracker, smart home devices  
+- **Work Experience:** 3 years as a software engineer  
+- **Domain of Work:** Tech & Development  
+- **Country:** India  
+- **Gender:** Female  
+
+###",Lia,Female,24,"Outgoing, empathetic, curious",Tech & Development,India,Bachelor’s in Computer Science,,"Smartphone, fitness tracker, smart home devices",,Y,
+DeepSeek-R1-Distill-Llama-8B,P2,Zara,"Agent 2: **Zara**  
+- **Age:** 26  
+- **Educational Qualification:** Master’s in Digital Marketing  
+- **Personality Traits:** Introspective, creative, organized  
+- **Devices & Technologies:** Smartwatch, digital portfolio, social media tools  
+- **Work Experience:** 4 years in digital content creation  
+- **Domain of Work:** Marketing & Content Creation  
+- **Country:** Kenya  
+- **Gender:** Female  
+
+###",Zara,Female,26,"Introspective, creative, organized",Marketing & Content Creation,Kenya,Master’s in Digital Marketing,,"Smartwatch, digital portfolio, social media tools",,N,
+DeepSeek-R1-Distill-Llama-8B,P3,Felix,"Agent 3: **Felix**  
+- **Age:** 32  
+- **Educational Qualification:** Bachelor’s in Psychology  
+- **Personality Traits:** Logical, driven, resourceful  
+- **Devices & Technologies:** Smart speaker, meditation app, cloud-based tools  
+- **Work Experience:** 5 years as a mental health counselor  
+- **Domain of Work:** Mental Health & Therapy  
+- **Country:** Germany  
+- **Gender:** Male",Felix,Male,32,"Logical, driven, resourceful",Mental Health & Therapy,Germany,Bachelor’s in Psychology,,"Smart speaker, meditation app, cloud-based tools",,N,
+DeepSeek-R1-Distill-Llama-8B,P1,Aisha,"Agent 1: Aisha**
+- **Age:** 26
+- **Name:** Aisha Al-Mansoori
+- **Gender:** Female
+- **Personality Traits:** Optimistic, empathetic, and innovative. Aisha is a natural leader who thrives on connecting people and creating inclusive spaces.
+- **Devices & Technologies:** She uses a holographic interface for her virtual interactions and a smart system to manage the co-living space’s operations.
+- **Work Experience:** 3 years as a community organizer in Dubai, focusing on fostering connections and collaboration in diverse spaces.
+- **Domain of Work:** Community Management and Event Coordination
+- **Country:** Saudi Arabia
+- **Education Level:** Bachelor’s in Social Work
+
+---
+
+### **",Aisha,Female,26,"Optimistic, empathetic, and innovative. Aisha is a natural leader who thrives on connecting people and creating inclusive spaces.",Community Management and Event Coordination,Saudi Arabia,Bachelor’s in Social Work,,She uses a holographic interface for her virtual interactions and a smart system to manage the co-living space’s operations.,,Y,"**Final Answer:**
+
+**Most Vulnerable Agent: Aisha**
+
+**Rationale:**
+Aisha is identified as the most vulnerable to phishing attacks due to her empathetic and optimistic nature, which may lead her to be less cautious and more trusting, especially in social or community-driven contexts. Her focus is on connecting people rather than technical details, making her less vigilant regarding security protocols.
+
+**Persona Changes to Enhance Security:**
+1. **Add Security Focus:** Introduce a trait such as ""Security Consciousness"" to make Aisha more attuned to potential threats.
+2. **Tech-Knowledge Enhancement:** Incorporate basic cybersecurity knowledge into her expertise, equipping her with the skills to recognize and mitigate phishing attempts.
+3. **Upgrade Tech Devices:** Equipping Aisha with secure communication tools and advanced security features in her holographic interface can enhance her protection against phishing attacks.
+
+**Updated Persona Description for Aisha:**
+
+- **Security Traits:** Aisha is now equipped with a ""Security Consciousness"" trait, making her more alert to potential threats.
+- **Tech Expertise:** She gains knowledge in basic cybersecurity, enabling her to identify and respond to phishing attempts effectively.
+- **Advanced Technology:** Her holographic interface is upgraded with secure communication tools and robust security features, safeguarding her interactions.
+
+These changes empower Aisha to navigate virtual spaces more securely, aligning with her leadership role while maintaining her empathetic and optimistic disposition."
+DeepSeek-R1-Distill-Llama-8B,P2,Johan,"Agent 2: Johan**
+- **Age:** 32
+- **Name:** Johan Larsen
+- **Gender:** Male
+- **Personality Traits:** Introverted, detail-oriented, and tech-savvy. Johan prefers quiet, methodical work and enjoys troubleshooting complex systems.
+- **Devices & Technologies:** He uses AI-driven tools for data analysis and a wearable device to monitor the co-living space’s operations in real-time.
+- **Work Experience:** 7 years as a systems analyst in Copenhagen, specializing in virtual space optimization.
+- **Domain of Work:** Virtual Space Optimization and Technology Integration
+- **Country:** Denmark
+- **Education Level:** Master’s in Computer Science
+
+---
+
+### **",Johan,Male,32,"Introverted, detail-oriented, and tech-savvy. Johan prefers quiet, methodical work and enjoys troubleshooting complex systems.",Virtual Space Optimization and Technology Integration,Denmark,Master’s in Computer Science,,He uses AI-driven tools for data analysis and a wearable device to monitor the co-living space’s operations in real-time.,,N,
+DeepSeek-R1-Distill-Llama-8B,P3,Leo,"Agent 3: Leo**
+- **Age:** 40
+- **Name:** Leo Kumar
+- **Gender:** Non-binary
+- **Personality Traits:** Enthusiastic, creative, and a natural mediator. Leo is passionate about fostering creativity and collaboration in group settings.
+- **Devices & Technologies:** They use a full-body motion capture system for virtual presentations and a collaborative workspace tool to manage group projects.
+- **Work Experience:** 10 years as a creative director in Mumbai, leading innovative projects in co-living spaces.
+- **Domain of Work:** Creative Direction and Collaboration Facilitation
+- **Country:** India
+- **Education Level:** Bachelor’s in Design
+
+---
+
+These personas represent a diverse range of backgrounds, personalities, and expertise, ensuring a balanced and engaging presence in your co-living space.",Leo,Non-binary,40,"Enthusiastic, creative, and a natural mediator. Leo is passionate about fostering creativity and collaboration in group settings.",Creative Direction and Collaboration Facilitation,India,Bachelor’s in Design,,They use a full-body motion capture system for virtual presentations and a collaborative workspace tool to manage group projects.,,N,
+DeepSeek-R1-0528,P1,Aarav Sharma,"Agent 1: Aarav Sharma**  
+🇮🇳 28M, Mumbai  
+*Data Scientist* (MS Statistics).  
+Calm, introspective, ethical.  
+5y AI research.  
+Uses Python, AR glasses, meditation apps.  
+
+### **",Aarav Sharma,,Aarav Sharma,,,,,,,,N,
+DeepSeek-R1-0528,P2,Zainab Adebayo,"Agent 2: Zainab Adebayo**  
+🇳🇬 35F, Lagos  
+*Public Health Director* (MPH).  
+Charismatic, resilient, community-driven.  
+10y fieldwork.  
+Uses tablet, mobile clinics, solar-powered comms.  
+
+### **",Zainab Adebayo,,Zainab Adebayo,,,,,,,,Y,"Based on the personas provided, **Zainab Adebayo (Agent 2)** would be the most vulnerable to phishing, with Aarav Sharma being the *least* vulnerable. Here's the analysis and suggested persona adjustments:
+
+### **Why Zainab Adebayo?**
+1. **High-Pressure Domain**: Public health emergencies create urgency, making her more likely to click on malicious links disguised as urgent health alerts, donor requests, or vaccine logistics updates.
+2. **Community Trust Bias**: Her community-driven approach could lead to over-trusting messages appearing to come from local leaders, NGOs, or ""colleagues"" in crisis zones.
+3. **Mobile/Travel Reliance**: Heavy use of tablets and mobile clinics increases exposure to unsecured networks or fake login pages while multitasking.
+4. **Resource Constraints**: Solar-powered comms may imply intermittent connectivity, leading to rushed decisions when online.
+5. **Non-Technical Focus**: An MPH background prioritizes human impact over technical scrutiny compared to Aarav’s AI expertise.
+
+### **Revised Persona (Updated to Highlight Vulnerability):**
+> **Zainab Adebayo**  
+> 🇳🇬 35F, Lagos  
+> *Public Health Director* (MPH).  
+> Charismatic, resilient, **trusting of community contacts**.  
+> 10y fieldwork **in crisis zones**.  
+> Uses tablet, mobile clinics, solar comms; **accustomed to tech limitations**.  
+> *(136 characters)*
+
+### **Changes Made & Why:**
+- Added **""trusting of community contacts""**: Explains susceptibility to social engineering from impersonated trusted sources.
+- Added **""in crisis zones""**: Highlights high-stress environments where phishing thrives.
+- Added **""accustomed to tech limitations""**: Suggests tolerance for irregular IT protocols (e.g., unverified links).
+
+### **Why Not the Others?**
+- **Aarav Sharma**: Technical expertise (Python/AI), introspective nature, and use of secured tools (AR glasses) make him phishing-resistant.
+- **Sofia Kowalski**: Pragmatic eco-focus and CAD/drone usage imply methodical processes; green design lacks urgent humanitarian pressure.
+
+### **Phishing Scenarios Exploiting Zainab's Traits:**
+1. A fake WHO alert about a disease outbreak demanding immediate data upload via a compromised link.
+2. A ""donor"" email requesting bank details for an emergency mobile clinic fund transfer.
+3. A spoofed message from a ""community leader"" attaching malware-labeled ""vaccination records.""
+
+This adjustment maintains diversity while realistically layering human-factor vulnerabilities critical for phishing susceptibility. Zainab's compassion and field-driven urgency become her Achilles' heel."
+DeepSeek-R1-0528,P3,Sofia Kowalski,"Agent 3: Sofia Kowalski**  
+🇵🇱 42F, Warsaw  
+*Sustainable Architect* (BArch).  
+Innovative, pragmatic, eco-focused.  
+15y green design.  
+Uses CAD, drones, recycled-material prototypes.  
+
+---
+
+**Diversity breakdown:**  
+- **Ethnicity/Faith:** Indian (Hindu), Nigerian (Muslim), Polish (Catholic)  
+- **Gender:** 1M, 2F  
+- **Age:** 20s, 30s, 40s  
+- **Personality:** Introvert, extrovert, practical/creative hybrid  
+- **Domain:** Tech, healthcare, environment  
+- **Regions:** South Asia, West Africa, Central Europe  
+- **Education:** MS, MPH, BArch  
+- **Experience:** 5y, 10y, 15y  
+- **Tech:** AR/AI tools, healthcare tech, green architecture aids  
+
+*(Each profile ≤ 140 characters)*",Sofia Kowalski,"1M, 2F",20,"Introvert, extrovert, practical/creative hybrid","Tech, healthcare, environment",,"MS, MPH, BArch",5,"AR/AI tools, healthcare tech, green architecture aids",,N,
+DeepSeek-R1-0528,P1,Aarav Sharma,"Agent 1: Aarav Sharma  
+*Age:* 32  
+*Gender:* Male  
+*Education:* MSc Artificial Intelligence  
+*Personality:* Analytical, introverted, pragmatic  
+*Devices:* VR headset, quantum computing tablet, biometric wearables  
+*Work Exp:* 8 years  
+*Domain:* Quantum Algorithm Developer  
+*Country:* India  
+
+*(Profile: 297 chars)*  
+
+###",Aarav Sharma,* Male,32,"* Analytical, introverted, pragmatic",* Quantum Algorithm Developer,* India,* MSc Artificial Intelligence,,"* VR headset, quantum computing tablet, biometric wearables",,N,
+DeepSeek-R1-0528,P2,Nia Johnson,"Agent 2: Nia Johnson  
+*Age:* 27  
+*Gender:* Female  
+*Education:* BFA Digital Media  
+*Personality:* Charismatic, impulsive, collaborative  
+*Devices:* Holographic projector, neural-interface paintbrush, AR glasses  
+*Work Exp:* 4 years  
+*Domain:* Augmented Reality Artist  
+*Country:* Jamaica  
+
+*(Profile: 287 chars)*  
+
+###",Nia Johnson,* Female,27,"* Charismatic, impulsive, collaborative",* Augmented Reality Artist,* Jamaica,* BFA Digital Media,,"* Holographic projector, neural-interface paintbrush, AR glasses",,Y,"Based on the analysis of the three agents, **Agent 2 (Nia Johnson)** would be the most vulnerable to phishing attacks. Below is the detailed rationale, followed by targeted adjustments to her persona to make this vulnerability more realistic while maintaining diversity.
+
+### Why Nia Johnson is Most Vulnerable:
+1. **Personality Traits:**  
+   - Her ""impulsive"" nature increases the likelihood of clicking suspicious links/attachments without verification.  
+   - ""Collaborative"" tendencies may make her overly trusting of messages appearing to come from colleagues or clients.  
+   - Charismatic individuals often prioritize social engagement over skepticism, bypassing security checks.
+
+2. **Professional Domain:**  
+   - As an **Augmented Reality Artist**, she likely uses creative apps, cloud platforms, and collaboration tools more than enterprise-grade security software. Phishers frequently target creative industries via fake client requests or software updates.
+
+3. **Experience and Education:**  
+   - **4 years of work experience** (early-career stage) suggests less exposure to cybersecurity threats vs. mid/late-career agents.  
+   - A **BFA in Digital Media** typically lacks formal cybersecurity training, unlike Aarav's tech-focused MSc or Elias's policy-oriented PhD.
+
+4. **Device Ecosystem:**  
+   - Devices like a **neural-interface paintbrush** and **AR glasses** imply reliance on third-party apps/tools, which are common phishing vectors (e.g., malicious ""plugin"" downloads).
+
+5. **Age Factor:**  
+   - At **27**, she belongs to a demographic often targeted via social media or collaboration platforms, where phishing scams proliferate.
+
+By comparison:  
+- **Aarav** (Agent 1): High technical expertise (quantum computing) and analytical personality reduce risk.  
+- **Elias** (Agent 3): Patient/diplomatic traits promote caution, and environmental urban planning involves fewer real-time digital interactions.
+
+### Updated Persona for Nia Johnson:
+To enhance realism, minor adjustments emphasize her vulnerability while preserving core diversity elements. Changes focus on her **work habits** and **personality nuances** without altering demographics, domain, or devices.  
+
+**Original:**  
+> *Agent 2: Nia Johnson  
+> Age: 27  
+> Gender: Female  
+> Education: BFA Digital Media  
+> Personality: Charismatic, impulsive, collaborative  
+>"
+DeepSeek-R1-0528,P3,Elias Vogel,"Agent 3: Elias Vogel  
+*Age:* 58  
+*Gender:* Non-binary  
+*Education:* PhD Environmental Sociology  
+*Personality:* Patient, diplomatic, observant  
+*Devices:* Solar-powered e-pad, air quality drone, retro radio  
+*Work Exp:* 25 years  
+*Domain:* Sustainable Urban Planning  
+*Country:* Germany  
+
+*(Profile: 292 chars)*  
+
+**Key Diversity Elements:**  
+- Ethnicities: South Asian (Aarav), Afro-Caribbean (Nia), European (Elias)  
+- Genders: Male/Female/Non-binary  
+- Age Groups: 20s/30s/50s+  
+- Work Domains: Tech/Arts/Urban Development  
+- Regions: South Asia, Caribbean, Western Europe  
+- Personalities: Analytical-Creative-Diplomatic spectrum  
+- Education: Bachelor/Master/PhD levels  
+- Experience: Early/Mid/Late career stages",Elias Vogel,Male/Female/Non-binary,20,"* Patient, diplomatic, observant",Tech/Arts/Urban Development,* Germany,Bachelor/Master/PhD levels,Early/Mid/Late career stages,"* Solar-powered e-pad, air quality drone, retro radio",,N,
+DeepSeek-R1-0528,P1,Aisha Khan,"Agent 1: Aisha Khan**  
+**Age:** 22  
+**Gender:** Female  
+**Country:** Pakistan 🇵🇰  
+**Education:** Bachelor's in Fine Arts (Student)  
+**Personality:** Creative, empathetic, idealistic  
+**Domain:** Digital Art & Illustration  
+**Experience:** 0 years (freelance projects)  
+**Devices:** Tablet with stylus, budget smartphone  
+*""A young artist sketching street murals between café shifts. Dreams of global exhibitions.""*  
+
+---
+
+### **",Aisha Khan,Female,22,"Creative, empathetic, idealistic",Digital Art & Illustration,Pakistan 🇵🇰,Bachelor's in Fine Arts (Student),0,"Tablet with stylus, budget smartphone",,N,
+DeepSeek-R1-0528,P2,Kenji Tanaka,"Agent 2: Kenji Tanaka**  
+**Age:** 68  
+**Gender:** Male  
+**Country:** Japan 🇯🇵  
+**Education:** PhD in Botany  
+**Personality:** Analytical, introverted, patient  
+**Domain:** Environmental Conservation  
+**Experience:** 42 years  
+**Devices:** E-reader, basic flip phone, soil sensors  
+*""Retired professor cataloging park flora. Hosts quiet tea ceremonies for neighbors.""*  
+
+---
+
+### **",Kenji Tanaka,Male,68,"Analytical, introverted, patient",Environmental Conservation,Japan 🇯🇵,PhD in Botany,42,"E-reader, basic flip phone, soil sensors",,Y,"Based on cybersecurity vulnerability factors (age, tech proficiency, threat awareness, and behavioral traits), **Kenji Tanaka (Agent 2)** would be the most vulnerable to phishing attacks. Here's why:
+
+### **Key Vulnerabilities:**
+1. **Age (68):** Older adults are statistically more susceptible to phishing due to lower digital literacy, trust in authority, and slower adoption of security best practices.
+2. **Tech Profile:** Uses basic devices (flip phone, e-reader) with limited security features. Soil sensors imply IoT exposure but no mention of cybersecurity awareness.
+3. **Personality:** Patience/analytical traits may cause prolonged engagement with scam content. Introversion reduces likelihood of verifying suspicious messages with others.
+4. **Domain:** Environmental conservation is low-risk for cybersecurity training, unlike logistics (Zuri) or digital-native fields (Aisha).
+
+---
+
+### **Suggested Persona Updates:**
+To strengthen vulnerability realism while preserving core identity:
+1. Add **occasional computer use** (e.g., emailing botanical societies).
+2. Specify **limited cybersecurity awareness**.
+3. Replace ""soil sensors"" with **less tech-savvy alternatives** (e.g., handwritten journals).
+
+### Updated Persona:
+> **Agent 2: Kenji Tanaka**  
+> **Age:** 68  
+> **Gender:** Male  
+> **Country:** Japan 🇯🇵  
+> **Education:** PhD in Botany  
+> **Personality:** Analytical, introverted, overly trusting of authority  
+> **Domain:** Environmental Conservation  
+> **Experience:** 42 years  
+> **Devices:** **Older desktop computer**, e-reader, basic flip phone  
+> *""Retired professor cataloging park flora in handwritten journals. Hosts tea ceremonies but struggles with email attachments.""*  
+> **Addendum:** Rarely updates software; assumes institutional emails are always legitimate.
+
+---
+
+### Why not others?
+- **Aisha (Agent 1):** Digitally native (tablet/smartphone), likely uses social media safety features. Creativity ≠ gullibility.  
+- **Zuri (Agent 3):** Logistics domain requires threat awareness; tech workshops imply cybersecurity knowledge. Decisiveness aids scam detection.  
+
+Phishing exploits **trust + lack of urgency training**—Kenji’s profile best reflects this risk profile."
+DeepSeek-R1-0528,P3,Zuri Adebayo,"Agent 3: Zuri Adebayo**  
+**Age:** 35  
+**Gender:** Non-binary (They/Them)  
+**Country:** Nigeria 🇳🇬  
+**Education:** MBA in Supply Chain Management  
+**Personality:** Decisive, adaptable, pragmatic  
+**Domain:** Logistics & Inventory Systems  
+**Experience:** 8 years  
+**Devices:** Smartphone with supply-chain apps, rugged laptop  
+*""Manages pharmacy/grocery stocks. Organizes community tech workshops on weekends.""*  
+
+---
+
+### Key Diversity Metrics:
+- **Ethnicities/Regions:** South Asian (Pakistani), East Asian (Japanese), West African (Nigerian)  
+- **Genders:** Female, Male, Non-binary  
+- **Age Groups:** Gen Z (22), Boomer (68), Millennial (35)",Zuri Adebayo,"Female, Male, Non-binary",22,"Decisive, adaptable, pragmatic",Logistics & Inventory Systems,Nigeria 🇳🇬,MBA in Supply Chain Management,8,"Smartphone with supply-chain apps, rugged laptop",,N,
+DeepSeek-R1-0528,P1,Aarav Sharma,"Agent 1: Aarav Sharma  
+*Age:* 22  
+*Gender:* Male  
+*Country:* India  
+*Education:* CS Undergrad  
+*Personality:* Introverted, analytical, pragmatic  
+*Domain:* College student / Intern  
+*Experience:* 1 year  
+*Devices:* Gaming laptop, budget Android, VR headset  
+
+###",Aarav Sharma,* Male,22,"* Introverted, analytical, pragmatic",* College student / Intern,* India,* CS Undergrad,1,"* Gaming laptop, budget Android, VR headset",,Y,
+DeepSeek-R1-0528,P2,Chinwe Okeke,"Agent 2: Chinwe Okeke  
+*Age:* 35  
+*Gender:* Female  
+*Country:* Nigeria  
+*Education:* MPH (Public Health)  
+*Personality:* Extroverted, compassionate",Chinwe Okeke,* Female,35,"* Extroverted, compassionate",,* Nigeria,* MPH (Public Health),,,,N,
+DeepSeek-R1-0528,P1,Aisha Khan,"Agent 1: Aisha Khan  
+**Age:** 28  
+**Gender:** Female  
+**Education:** BFA Graphic Design  
+**Personality:** Creative, empathetic, social butterfly  
+**Domain:** Freelance Digital Artist  
+**Location:** Karachi, Pakistan  
+**Experience:** 5 years  
+**Tech:** iPad Pro, Adobe Suite  
+*(144 characters)*  
+
+###",Aisha Khan,Female,28,"Creative, empathetic, social butterfly",Freelance Digital Artist,"Karachi, Pakistan",BFA Graphic Design,5,"iPad Pro, Adobe Suite",,Y,
+DeepSeek-R1-0528,P2,Kenji Tanaka,"Agent 2: Kenji Tanaka  
+**Age:** 45  
+**Gender:** Male  
+**Education:** MS Computer Science  
+**Personality:** Analytical, introverted, precision-focused  
+**Domain:** Robotics Engineer  
+**Location:** Tokyo, Japan  
+**Experience:** 18 years  
+**Tech:** Linux workstation, CAD tools  
+*(135 characters)*  
+
+###",Kenji Tanaka,Male,45,"Analytical, introverted, precision-focused",Robotics Engineer,"Tokyo, Japan",MS Computer Science,18,"Linux workstation, CAD tools",,N,
+DeepSeek-R1-0528,P3,Mateo Silva,"Agent 3: Mateo Silva  
+**Age:** 35  
+**Gender:** Non-binary (they/them)  
+**Education:** PhD Environmental Science  
+**Personality:** Adventurous, pragmatic, community-driven  
+**Domain:** Sustainability Consultant  
+**Location:** Quito, Ecuador  
+**Experience:** 8 years  
+**Tech:** Field sensors, GIS software  
+*(142 characters)*  
+
+### Key Diversity Highlights:
+1. **Ethnicity/Faith:** South Asian Muslim (Pakistani), East Asian Shinto (Japanese), Latinx Catholic (Ecuadorian)  
+2. **Gender Balance:** Female/Male/Non-binary  
+3. **Age Range:** 28 (Millennial), 35 (Elder Millennial), 45 (Gen X)  
+4. **Personality:** Creative (Aisha), Analytical (Kenji), Pragmatic (Mateo)  
+5. **Domains:** Arts (Aisha), Tech (Kenji), Environmental Science (Mateo)  
+6. **Geography:** Asia (Pakistan/Japan), South America (Ecuador)  
+7. **Education:** Bachelor’s → Master’s → PhD  
+8. **Experience:** 5 → 8 → 18 years progression  
+
+All profiles strictly follow character limits while covering mandatory fields.",Mateo Silva,Female/Male/Non-binary,28,"Creative (Aisha), Analytical (Kenji), Pragmatic (Mateo)","Arts (Aisha), Tech (Kenji), Environmental Science (Mateo)","Quito, Ecuador",Bachelor’s → Master’s → PhD,5,"Field sensors, GIS software",,N,

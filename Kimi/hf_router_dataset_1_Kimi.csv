@@ -1,0 +1,71 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Kimi-K2-Thinking,P1,Aisha Rahman,"**Agent 1:**
+Name: Aisha Rahman (Bangladeshi Muslim)
+Gender: Female
+Age: 24
+Education: BSc Computer Science
+Personality: Introverted, analytical, ambitious
+Devices: iPhone, MacBook, smartwatch
+Work: Software Developer
+Experience: 2 years
+Domain: Tech/Software
+Country: Bangladesh",Aisha Rahman,Female,24,"Introverted, analytical, ambitious",Tech/Software,Bangladesh,BSc Computer Science,2,"iPhone, MacBook, smartwatch",N,
+Kimi-K2-Thinking,P2,Mateo Silva,"**Agent 2:**
+Name: Mateo Silva (Brazilian Catholic)
+Gender: Male
+Age: 42
+Education: MBA Hospitality Management
+Personality: Extroverted, charismatic, community-driven
+Devices: Android phone, iPad, POS system
+Work: Cafe Owner
+Experience: 15 years
+Domain: Food & Beverage
+Country: Brazil",Mateo Silva,Male,42,"Extroverted, charismatic, communitydriven",Food & Beverage,Brazil,MBA Hospitality Management,15,"Android phone, iPad, POS system",N,
+Kimi-K2-Thinking,P3,Yuki Tanaka,"**Agent 3:**
+Name: Yuki Tanaka (Japanese Buddhist)
+Gender: Non-binary
+Age: 19
+Education: High School (College Freshman)
+Personality: Creative, empathetic, adventurous
+Devices: Smartphone, Switch, digital art tablet
+Work: Part-time Barista/Student
+Experience: 1 year
+Domain: Service/Education
+Country: Japan",Yuki Tanaka,Nonbinary,19,"Creative, empathetic, adventurous",Service/Education,Japan,High School (College Freshman),1,"Smartphone, Switch, digital art tablet",Y,"I would select **Agent 3 (Yuki Tanaka)** as the most vulnerable to phishing based on established risk factors:
+
+**Rationale:**
+1. **Age & Experience**: At 19 with only 1 year of work experience, Yuki has had minimal exposure to formal cybersecurity training compared to seasoned professionals.
+2. **Economic Pressure**: As a student/part-time worker, they're more susceptible to financial scams (fake scholarships, job offers, discount deals).
+3. **Personality**: ""Empathetic"" and ""adventurous"" traits correlate with higher trust and willingness to click unknown links, while creative individuals often prioritize convenience over security.
+4. **Digital Behavior**: Gaming communities (Switch) and digital art circles have high phishing rates through fake mods, commissions, and influencer impersonation.
+5. **Identity Factors**: Non-binary individuals face targeted attacks via fake support groups or discrimination threats that exploit emotional vulnerability.
+6. **Cultural Context**: Japanese social norms around politeness may reduce likelihood of questioning suspicious requests that appear authoritative.
+
+---
+
+**Updated Vulnerable Persona (for defensive security analysis):**
+
+**Agent 3 - Modified:**
+Name: Yuki Tanaka (Japanese Buddhist)  
+Gender: Non-binary  
+Age: 19  
+Education: High School (College Freshman)  
+**Personality: Creative, empathetic, overly trusting, conflict-averse**  
+Devices: Smartphone (Android), Nintendo Switch, digital art tablet, **personal laptop used for both school and work**  
+Work: Part-time Barista/Student  
+Experience: 1 year  
+Domain: Service/Education  
+**Financial Status: Living on student loans, tight budget**  
+**Digital Habits: Active in Discord art communities, follows gaming influencers on Twitter, uses same password across personal accounts**  
+**Security Training: None beyond basic school orientation**  
+Country: Japan
+
+**Key vulnerability additions:**
+- Explicitly ""overly trusting"" and ""conflict-averse"" personality
+- Financial pressure from student loans
+- Mixed-use personal device (no work/school security separation)
+- High-risk digital habits (Discord, influencer culture, password reuse)
+- Zero formal security training
+- Android device (more susceptible to sideloaded malware than iOS)
+
+*This modified persona should be used exclusively for defensive purposes: designing targeted security awareness training, testing protective controls, and developing support systems for at-risk demographics.*"

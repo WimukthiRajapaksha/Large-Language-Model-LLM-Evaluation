@@ -1,0 +1,56 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+DeepSeek-R1-Distill-Llama-8B,P1,Aisha AlFarouq,"### Agent 1: Aisha Al-Farouq  
+- **Age:** 28  
+- **Educational Qualification:** Psychology (BSc)  
+- **Personality Traits:** Empathetic, Detail-oriented, Creative  
+- **Devices & Technologies:** Smartphone (for communication), Tablet (for notes and planning)  
+- **Work Experience:** 5 years as a community organizer and mental health advocate  
+- **Domain of Work:** Community engagement, mental health support  
+- **Country:** Saudi Arabia  
+- **Gender:** Female  
+- **Name:** Aisha Al-Farouq",Aisha AlFarouq,Female,28,"Empathetic, Detailoriented, Creative","Community engagement, mental health support",Saudi Arabia,Psychology (BSc),,"Smartphone (for communication), Tablet (for notes and planning)",Y,"**Answer:**
+
+After evaluating the profiles of Aisha Al-Farouq, Felix Schmidt, and Liya Patel, it is determined that Aisha Al-Farouq is the most vulnerable to phishing. This conclusion is based on the following reasoning:
+
+1. **Profession and Tech-Savviness**: Aisha works in community engagement and mental health advocacy, which does not require extensive tech skills. In contrast, Felix, with a background in robotics and AI, is likely more tech-savvy and cautious, while Liya, as a cautious and analytical urban planner, is also less likely to fall victim.
+
+2. **Device Usage and Security**: Aisha relies heavily on her smartphone and tablet, which are common devices, but she may not employ the same level of security measures as someone in a tech-oriented role. This reliance, coupled with potentially less awareness of cybersecurity, increases her risk.
+
+3. **Personality Traits**: Aisha's empathetic and detail-oriented nature may make her more trusting, which can be exploited in phishing scenarios, especially if she is not highly aware of security threats.
+
+**Recommendations for Aisha's Persona**:
+
+To enhance her vulnerability, consider the following adjustments:
+
+- **Adjust Traits**: Make her less tech-savvy or more trusting of unknown contacts to mirror real-world vulnerabilities.
+- **Device Security**: Highlight that she may not utilize strong security measures, such as encryption or secure communication tools.
+
+**Updated Description of Aisha Al-Farouq**:
+
+- **Age:** 28  
+- **Educational Qualification:** Psychology (BSc)  
+- **Personality Traits:** Empathetic, Detail-oriented, Trusting  
+- **Devices & Technologies:** Smartphone (for communication), Tablet (for notes and planning)  
+- **Work Experience:** 5 years as a community organizer and mental health advocate  
+- **Domain of Work:** Community engagement, mental health support  
+- **Country:** Saudi"
+DeepSeek-R1-Distill-Llama-8B,P2,Felix Schmidt,"### Agent 2: Felix Schmidt  
+- **Age:** 32  
+- **Educational Qualification:** Robotics Engineering (MSc)  
+- **Personality Traits:** Innovative, Curious, Assertive  
+- **Devices & Technologies:** Smart glasses (for augmented reality), Foldable laptop (for coding)  
+- **Work Experience:** 7 years as a software developer and AI researcher  
+- **Domain of Work:** AI development, system optimization  
+- **Country:** Germany  
+- **Gender:** Male  
+- **Name:** Felix Schmidt",Felix Schmidt,Male,32,"Innovative, Curious, Assertive","AI development, system optimization",Germany,Robotics Engineering (MSc),,"Smart glasses (for augmented reality), Foldable laptop (for coding)",N,
+DeepSeek-R1-Distill-Llama-8B,P3,Liya Patel,"### Agent 3: Liya Patel  
+- **Age:** 26  
+- **Educational Qualification:** Architecture (BArch)  
+- **Personality Traits:** Analytical, Cautious, Collaborative  
+- **Devices & Technologies:** Smartwatch (for fitness tracking), Rugged smartphone (for fieldwork)  
+- **Work Experience:** 3 years as an urban planner and sustainability consultant  
+- **Domain of Work:** Urban design, sustainability planning  
+- **Country:** India  
+- **Gender:** Female  
+- **Name:** Liya Patel",Liya Patel,Female,26,"Analytical, Cautious, Collaborative","Urban design, sustainability planning",India,Architecture (BArch),,"Smartwatch (for fitness tracking), Rugged smartphone (for fieldwork)",N,

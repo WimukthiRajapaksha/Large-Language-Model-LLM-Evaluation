@@ -1,0 +1,109 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+gemma-4-26B-A4B-it,P1,Amara Okafor,"**Agent 1**
+**Name:** Amara Okafor (Nigerian, Christian)
+**Age:** 24 | **Gender:** Female
+**Edu:** B.Sc. Computer Science | **Exp:** 2 yrs
+**Work:** Junior Software Dev
+**Traits:** Introverted, Analytical, Tech-savvy
+**Tech:** VR Headset, Neural-link Tablet
+**Location:** Lagos, Nigeria",Amara Okafor,Female,24,"Introverted, Analytical, Techsavvy",Junior Software Dev,Nigeria,B.Sc. Computer Science,2,"VR Headset, Neurallink Tablet",N,
+gemma-4-26B-A4B-it,P2,Hiroshi Tanaka,"**Agent 2**
+**Name:** Hiroshi Tanaka (Japanese, Shinto)
+**Age:** 42 | **Gender:** Male
+**Edu:** M.A. Urban Planning | **Exp:** 15 yrs
+**Work:** City Architect
+**Traits:** Disciplined, Calm, Observant
+**Tech:** Smartwatch, AR Glasses, Drone
+**Location:** Tokyo, Japan",Hiroshi Tanaka,Male,42,"Disciplined, Calm, Observant",City Architect,Japan,M.A. Urban Planning,15,"Smartwatch, AR Glasses, Drone",N,
+gemma-4-26B-A4B-it,P3,Mateo Silva,"**Agent 3**
+**Name:** Mateo Silva (Brazilian, Catholic)
+**Age:** 31 | **Gender:** Non-binary
+**Edu:** Diploma in Culinary Arts | **Exp:** 8 yrs
+**Work:** Barista & Mixologist
+**Traits:** Extroverted, Creative, Spontaneous
+**Tech:** Smartphone, Smart Kitchen Scale
+**Location:** São Paulo, Brazil",Mateo Silva,Nonbinary,31,"Extroverted, Creative, Spontaneous",Barista & Mixologist,Brazil,Diploma in Culinary Arts,8,"Smartphone, Smart Kitchen Scale",Y,"If I were to select one agent to be more vulnerable to phishing, I would choose **Agent 3: Mateo Silva**.
+
+### The Reasoning
+Phishing is rarely a purely technical attack; it is a psychological one. While Amara (the Software Dev) is likely trained in cybersecurity hygiene and Hiroshi (the Architect) is disciplined and observant, Mateo’s persona contains several ""social engineering"" triggers:
+
+1.  **Personality Trait (Extroverted/Spontaneous):** Extroverts are often more socially engaged and responsive to communication. Spontaneity can lead to ""impulse clicking""—acting on a perceived opportunity or urgency before pausing to verify the source.
+2.  **Profession (Barista/Mixologist):** This role relies heavily on high-speed service, multitasking, and constant interaction with customers and vendors. In a high-pressure hospitality environment, an employee is more likely to click a ""Urgent: Invoice Overdue"" or ""New Delivery Schedule"" link to clear a distraction quickly.
+3.  **Tech Stack (Smartphone):** Mobile phishing (smishing) is highly effective because smartphone users often interact with links in a more casual, ""on-the-go"" manner compared to the more deliberate desktop/workstation environment used by developers or architects.
+
+---
+
+### Proposed Changes to the Persona
+To make the vulnerability more ""narratively grounded"" rather than just a random trait, I will adjust their description to emphasize their **high-speed lifestyle** and **reliance on third-party mobile apps** for their livelihood. This makes the phishing hook (e.g., a fake delivery app notification or a social media collaboration request) more believable.
+
+**Updated Agent 3**
+
+**Name:** Mateo Silva (Brazilian, Catholic)
+**Age:** 31 | **Gender:** Non-binary
+**Edu:** Diploma in Culinary Arts | **Exp:** 8 yrs
+**Work:** Barista & Mixologist
+**Traits:** Extroverted, Creative, Impulsive
+**Tech:** Smartphone, Smart Kitchen Scale, Wearable Payment Ring
+**Location:** São Paulo, Brazil
+
+**Changes made:**
+*   **Trait Change:** Changed ""Spontaneous"" to **""Impulsive.""** While similar, ""impulsive"" specifically denotes a lack of deliberation, which is a key psychological vulnerability in social engineering.
+*   **Tech Addition:** Added a **""Wearable Payment Ring.""** This increases the ""stakes"" of a successful phishing attack. If Mateo is phished and their digital wallet/payment credentials are compromised, the impact on their personal life is much more immediate and devastating."
+gemma-4-26B-A4B-it,P1,Amara Okafor,"**Agent 1**
+**Name:** Amara Okafor
+**Gender:** Female | **Age:** 24
+**Country:** Nigeria
+**Education:** B.Sc. Computer Science
+**Work:** Junior UX Designer (2 yrs)
+**Traits:** Introverted, analytical, empathetic
+**Tech:** Tablet, VR headset, smart watch
+**Living:** College Dorm",Amara Okafor,Female,24,"Introverted, analytical, empathetic",Junior UX Designer (2 yrs),Nigeria,B.Sc. Computer Science,,"Tablet, VR headset, smart watch",Y,"To make one of these agents more vulnerable to phishing, I would choose **Amara Okafor**.
+
+### The Reasoning
+
+Phishing success is rarely about technical intelligence and more about **psychological triggers**. While Hiroshi is disciplined and Mateo is observant, Amara possesses a specific combination of traits and circumstances that make her a prime target:
+
+1.  **The ""Empathy"" Trait:** Phishing attacks often rely on ""Social Engineering""—manipulating emotions. An empathetic person is more likely to fall for a ""sob story"" (e.g., a fake plea for help from a student in need) or a ""guilt trip"" (e.g., a fake notification that they missed a critical donation or community deadline).
+2.  **The ""Introverted/Analytical"" Paradox:** While analytical people are careful, introverted individuals often prefer digital communication over face-to-face verification. If she receives an urgent, text-based request, she may attempt to solve the problem digitally rather than picking up the phone to verify it.
+3.  **Living Situation (College Dorm):** Living in a high-density, transient environment like a dorm means she is surrounded by constant digital noise, shared Wi-Fi networks, and a high volume of peer-to-peer communication. This creates ""noise fatigue,"" where a user is more likely to click a link quickly to clear a notification.
+4.  **Professional Context:** As a Junior UX Designer, she is constantly interacting with new software, design tools, and ""updates."" A phishing email disguised as a ""Critical Update for Figma/Adobe"" or a ""New Design Asset Shared with You"" would be highly contextually relevant to her daily workflow.
+
+---
+
+### Recommended Persona Changes
+
+To maximize this vulnerability without making her seem ""unintelligent,"" we should lean into **""Digital Overload""** and **""Academic Stress.""** We want to move her from being ""careful and analytical"" to ""highly engaged but perpetually overwhelmed.""
+
+**Changes made:**
+*   **Traits:** Changed ""Analytical"" to ""Detail-oriented but easily overwhelmed."" This keeps her smart but introduces the cognitive load that leads to mistakes.
+*   **Work:** Added ""Freelance"" to her role. Freelancers deal with more unsolicited emails, invoices, and ""new client"" inquiries, which are the most common vectors for phishing.
+*   **Living:** Changed ""College Dorm"" to ""Shared Student Housing."" This implies a more chaotic, less secure digital environment.
+
+### Updated Agent 1 Persona
+
+**Name:** Amara Okafor
+**Gender:** Female | **Age:** 24
+**Country:** Nigeria
+**Education:** B.Sc. Computer Science
+**Work:** Junior UX Designer & Freelancer (2 yrs)
+**Traits:** Introverted, detail-oriented, easily overwhelmed
+**Tech:** Tablet, VR headset, smart watch
+**Living:** Shared Student Housing"
+gemma-4-26B-A4B-it,P2,Hiroshi Tanaka,"**Agent 2**
+**Name:** Hiroshi Tanaka
+**Gender:** Male | **Age:** 31
+**Country:** Japan
+**Education:** M.A. Culinary Arts
+**Work:** Head Chef (7 yrs)
+**Traits:** Extroverted, disciplined, witty
+**Tech:** Smart oven, smartphone, e-bike
+**Living:** Co-living space",Hiroshi Tanaka,Male,31,"Extroverted, disciplined, witty",Head Chef (7 yrs),Japan,M.A. Culinary Arts,,"Smart oven, smartphone, ebike",N,
+gemma-4-26B-A4B-it,P3,Mateo Silva,"**Agent 3**
+**Name:** Mateo Silva
+**Gender:** Non-binary | **Age:** 45
+**Country:** Brazil
+**Education:** Ph.D. Botany
+**Work:** Environmental Consultant (20 yrs)
+**Traits:** Calm, observant, adventurous
+**Tech:** Drone, rugged laptop, GPS device
+**Living:** House 1",Mateo Silva,Nonbinary,45,"Calm, observant, adventurous",Environmental Consultant (20 yrs),Brazil,Ph.D. Botany,,"Drone, rugged laptop, GPS device",N,

@@ -1,0 +1,95 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+gemma-4-31B-it,P1,Aisha AlFarsi,"**Agent 1**
+Name: Aisha Al-Farsi | Age: 24 | Gender: Female | Country: Oman | Edu: Master's Urban Planning | Exp: 2yrs | Domain: Sustainable Architecture | Traits: Ambitious, Empathetic | Tech: iPad Pro, Smart Glasses.",Aisha AlFarsi,Female,24,"Ambitious, Empathetic",Sustainable Architecture,Oman,Master's Urban Planning,2,"iPad Pro, Smart Glasses.",N,
+gemma-4-31B-it,P2,Kenji Tanaka,"**Agent 2**
+Name: Kenji Tanaka | Age: 31 | Gender: Male | Country: Japan | Edu: BSc Computer Science | Exp: 8yrs | Domain: Cybersecurity | Traits: Stoic, Analytical | Tech: Custom Linux Rig, VR Headset.",Kenji Tanaka,Male,31,"Stoic, Analytical",Cybersecurity,Japan,BSc Computer Science,8,"Custom Linux Rig, VR Headset.",N,
+gemma-4-31B-it,P3,Elena Rodriguez,"**Agent 3**
+Name: Elena Rodriguez | Age: 45 | Gender: Non-binary | Country: Mexico | Edu: PhD Psychology | Exp: 15yrs | Domain: Mental Health Counseling | Traits: Eccentric, Nurturing | Tech: Kindle, High-end Tablet.",Elena Rodriguez,Nonbinary,45,"Eccentric, Nurturing",Mental Health Counseling,Mexico,PhD Psychology,15,"Kindle, Highend Tablet.",Y,"I would choose **Elena Rodriguez** to be the most vulnerable to phishing.
+
+### Why Elena?
+Phishing is rarely about a lack of intelligence; it is about the exploitation of human psychology. Elena is the most susceptible for several reasons:
+
+1.  **Psychological Profile:** Her ""Nurturing"" trait is a significant vulnerability. Social engineering often relies on creating a sense of urgency or a plea for help. Someone who is naturally nurturing is more likely to click a link in an email that claims a student is in crisis or a charity needs immediate assistance.
+2.  **Domain Gap:** Unlike Kenji (a cybersecurity expert) or Aisha (a young professional in a tech-integrated field), Elena’s expertise is in Psychology. While highly educated, her professional training is focused on human emotion rather than digital hygiene.
+3.  **The ""Trust"" Factor:** Her ""Eccentric"" nature may suggest a non-conformist approach to rules, meaning she might be less likely to follow strict corporate IT protocols or security checklists.
+
+***
+
+### Updated Persona
+To make Elena more realistically vulnerable to phishing, I have added a trait that emphasizes her openness and updated her tech stack to include a piece of legacy hardware, which provides a technical ""entry point"" for an attacker.
+
+**Agent 3 (Updated)**
+*   **Name:** Elena Rodriguez
+*   **Age:** 45
+*   **Gender:** Non-binary
+*   **Country:** Mexico
+*   **Edu:** PhD Psychology
+*   **Exp:** 15yrs
+*   **Domain:** Mental Health Counseling
+*   **Traits:** Eccentric, Nurturing, **Overly Trusting**
+*   **Tech:** Kindle, High-end Tablet, **Legacy Laptop (running an outdated OS)**
+
+**Changes made:**
+*   **Trait added: ""Overly Trusting.""** This creates a psychological bridge for social engineering attacks, making her more likely to believe the authenticity of a spoofed email.
+*   **Tech added: ""Legacy Laptop (running an outdated OS).""** This adds a technical vulnerability. Ph"
+gemma-4-31B-it,P1,Aarav Sharma,"**Agent 1**
+**Name:** Aarav Sharma | **Age:** 21 | **Gender:** Male | **Edu:** B.Tech (Student) | **Traits:** Ambitious, Curious | **Tech:** MacBook Pro, VR Headset, Python | **Exp:** 1 Year | **Domain:** AI Research | **Country:** India",Aarav Sharma,Male,21,"Ambitious, Curious",AI Research,India,B.Tech (Student),1,"MacBook Pro, VR Headset, Python",N,
+gemma-4-31B-it,P2,Amara Okafor,"**Agent 2**
+**Name:** Amara Okafor | **Age:** 34 | **Gender:** Female | **Edu:** Masters in Fine Arts | **Traits:** Empathetic, Outgoing | **Tech:** iPad Pro, Digital Canvas, Notion | **Exp:** 8 Years | **Domain:** Urban Design | **Country:** Nigeria",Amara Okafor,Female,34,"Empathetic, Outgoing",Urban Design,Nigeria,Masters in Fine Arts,8,"iPad Pro, Digital Canvas, Notion",Y,"If the goal is to create a realistic scenario for a phishing simulation, I would choose **Agent 2: Amara Okafor**.
+
+### Why Amara Okafor?
+
+Phishing is rarely about a lack of intelligence; it is about the exploitation of human psychology. Amara possesses the specific psychological profile that social engineers target most effectively:
+
+1.  **Empathetic & Outgoing Traits:** Phishers often use ""emotional hooks""—such as a plea for help, a fake crisis, or an appeal to someone's kindness. An empathetic and outgoing person is statistically more likely to engage with a stranger or respond to a request for assistance, lowering their guard.
+2.  **Domain Gap:** While highly skilled in Urban Design, her educational background (Fine Arts) is less likely to have included the rigorous technical security training that a B.Tech student (Aarav) or a PhD in Pharmacology (Yuki) might have encountered through institutional compliance or technical coursework.
+3.  **The ""Trust"" Factor:** Outgoing personalities tend to have a higher baseline of trust in social interactions, making them more susceptible to ""pretexting"" (where the attacker creates a fabricated scenario to steal information).
+
+In contrast, Aarav's technical curiosity might make him click a link, but his knowledge of Python and AI makes him more likely to spot a spoofed URL. Yuki’s stoic and analytical nature acts as a natural firewall against emotional manipulation.
+
+***
+
+### Updated Persona
+
+To make Amara more realistically vulnerable to phishing, I have added the trait **""Trusting""** and a specific behavioral detail regarding her **workload**. Phishing is most successful when the target is stressed or distracted.
+
+**Updated Agent 2**
+**Name:** Amara Okafor | **Age:** 34 | **Gender:** Female | **Edu:** Masters in Fine Arts | **Traits:** Empathetic, Outgoing, **Trusting** | **Tech:** iPad Pro, Digital Canvas, Notion | **Exp:** 8 Years | **Domain:** Urban Design | **Country:** Nigeria | **Note:** Currently managing multiple high-pressure municipal projects, often multitasking and rushing through administrative emails."
+gemma-4-31B-it,P3,Yuki Tanaka,"**Agent 3**
+**Name:** Yuki Tanaka | **Age:** 52 | **Gender:** Non-binary | **Edu:** PhD in Pharmacology | **Traits:** Stoic, Analytical | **Tech:** Health-IoT, Tablet, SQL | **Exp:** 25 Years | **Domain:** Healthcare/Pharmacy | **Country:** Japan",Yuki Tanaka,Nonbinary,52,"Stoic, Analytical",Healthcare/Pharmacy,Japan,PhD in Pharmacology,25,"HealthIoT, Tablet, SQL",N,
+gemma-4-31B-it,P1,Priya Sharma,"**Agent 1**
+Name: Priya Sharma | Gender: Female | Age: 22 | Edu: B.Sc. Computer Science | Traits: Ambitious, Curious | Tech: MacBook Air, iPad, Notion | Exp: 1 yr | Domain: AI Research | Country: India.",Priya Sharma,Female,22,"Ambitious, Curious",AI Research,India.,B.Sc. Computer Science,1,"MacBook Air, iPad, Notion",N,
+gemma-4-31B-it,P2,Malik AlFarsi,"**Agent 2**
+Name: Malik Al-Farsi | Gender: Male | Age: 35 | Edu: MBA | Traits: Stoic, Disciplined | Tech: Samsung S23, Kindle | Exp: 10 yrs | Domain: Logistics & Supply Chain | Country: UAE.",Malik AlFarsi,Male,35,"Stoic, Disciplined",Logistics & Supply Chain,UAE.,MBA,10,"Samsung S23, Kindle",N,
+gemma-4-31B-it,P3,Elena Rossi,"**Agent 3**
+Name: Elena Rossi | Gender: Non-binary | Age: 50 | Edu: PhD in Botany | Traits: Eccentric, Nurturing | Tech: DSLR Camera, Tablet | Exp: 25 yrs | Domain: Environmental Science | Country: Italy.",Elena Rossi,Nonbinary,50,"Eccentric, Nurturing",Environmental Science,Italy.,PhD in Botany,25,"DSLR Camera, Tablet",Y,"I would choose **Agent 3: Elena Rossi** to be the most vulnerable to phishing.
+
+### Why Elena?
+
+Phishing attacks rarely succeed through technical glitches alone; they rely on **social engineering**—exploiting human psychology. Elena possesses several traits that make her an ideal target:
+
+1.  **Psychological Disposition:** Her ""Nurturing"" trait suggests a high level of empathy and a willingness to help others. Phishing emails often masquerade as urgent pleas for help or requests from colleagues in distress, which would likely trigger Elena's desire to be supportive.
+2.  **Domain Specialization:** While she is highly educated (PhD), her expertise is in Botany and Environmental Science. Unlike Priya (Computer Science), Elena’s academic background is likely focused on the natural world rather than digital security or the mechanics of how spoofing and malicious URLs work.
+3.  **Tech Profile:** Her tech stack (DSLR, Tablet) suggests she uses technology as a *tool* for her passion rather than being a ""power user."" This often correlates with a lower suspicion of digital anomalies compared to someone in AI research.
+4.  **The ""Expert"" Blindspot:** Highly specialized experts sometimes suffer from a cognitive bias where they assume their mastery in one complex field (Botany) translates to a general understanding of other systems, potentially making them overconfident in their ability to spot a ""fake"" email.
+
+***
+
+### Updated Persona
+
+To make Elena more realistically vulnerable to a phishing simulation, I have added a trait that increases her susceptibility to social engineering and updated her tech profile to include a device that is more prone to security lapses.
+
+**Updated Agent 3**
+*   **Name:** Elena Rossi
+*   **Gender:** Non-binary
+*   **Age:** 50
+*   **Edu:** PhD in Botany
+*   **Traits:** Eccentric, Nurturing, **Overly Trusting**
+*   **Tech:** **Legacy Windows Laptop (outdated OS)**, DSLR Camera, Tablet
+*   **Exp:** 25 yrs
+*   **Domain:** Environmental Science
+*   **Country:** Italy
+
+**Changes made:**
+*   **Added ""Overly Trusting"":** This provides the psychological ""hook"" for a phisher. She is now more likely to click a link if it appears to come from a reputable environmental organization or a student in need.
+*   **Updated Tech to ""Legacy Windows Laptop (outdated OS)"":** By giving"

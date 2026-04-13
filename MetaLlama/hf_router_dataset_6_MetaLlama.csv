@@ -1,0 +1,57 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3-70B-Instruct,P1,Leila Patel,"* Name: Leila Patel
+* Age: 28
+* Gender: Female
+* Educational Qualification: Bachelor's in Computer Science
+* Personality Traits: Outgoing, organized, and analytical
+* Devices and technologies: MacBook, iPhone, and smartwatch
+* Work experience: 5 years as a software engineer
+* Domain of work: Technology and IT
+* Country: India",Leila Patel,28,Female,"Outgoing, organized, and analytical",Technology and IT,5 years,India,Bachelor's in Computer Science,"MacBook, iPhone, and smartwatch",N,
+Meta-Llama-3-70B-Instruct,P2,Carlos Moreno,"* Name: Carlos Moreno
+* Age: 35
+* Gender: Male
+* Educational Qualification: Master's in Environmental Science
+* Personality Traits: Adventurous, optimistic, and environmentally conscious
+* Devices and technologies: Android phone, laptop, and portable solar charger
+* Work experience: 7 years as an environmental consultant
+* Domain of work: Sustainability and Environmental Conservation
+* Country: Brazil",Carlos Moreno,35,Male,"Adventurous, optimistic, and environmentally conscious",Sustainability and Environmental Conservation,7 years,Brazil,Master's in Environmental Science,"Android phone, laptop, and portable solar charger",N,
+Meta-Llama-3-70B-Instruct,P3,Amira Hassan,"* Name: Amira Hassan
+* Age: 25
+* Gender: Non-binary
+* Educational Qualification: Bachelor's in Fine Arts
+* Personality Traits: Creative, empathetic, and introverted
+* Devices and technologies: iPad, digital camera, and wireless earbuds
+* Work experience: 3 years as a freelance graphic designer
+* Domain of work: Art and Design
+* Country: Egypt",Amira Hassan,25,Non-binary,"Creative, empathetic, and introverted",Art and Design,3 years,Egypt,Bachelor's in Fine Arts,"iPad, digital camera, and wireless earbuds",Y,"After reviewing the three agent personas, I would choose Agent 3: Amira Hassan as the most vulnerable to phishing. Here's why:
+
+1. **Lack of technical expertise**: As a graphic designer with a Fine Arts background, Amira may not have the same level of technical knowledge as Leila, a software engineer, or Carlos, an environmental consultant. This could make them more susceptible to phishing attacks that exploit technical vulnerabilities.
+2. **Introverted personality**: Amira's introverted personality might make them less likely to seek help or clarification from colleagues or authorities when faced with a suspicious email or message.
+3. **Freelance work experience**: As a freelancer, Amira may be more accustomed to working independently and might not have the same level of institutional support or security awareness training that Leila and Carlos might have received in their respective organizations.
+
+To make Amira more vulnerable to phishing, I would suggest the following updates to their persona:
+
+**Updated Agent 3: Amira Hassan**
+
+* **Age: 23** (reduced by 2 years to make them even more inexperienced)
+* **Educational Qualification:** Associate's degree in Fine Arts (instead of a Bachelor's degree, to reduce their level of education)
+* **Devices and technologies:** Add a personal laptop and a social media habit (e.g., frequent Facebook and Instagram use) to make them more susceptible to social engineering attacks.
+* **Work experience:** Reduce their freelance experience to 1 year, making them even more new to the industry and potentially more trusting of unfamiliar emails or messages.
+
+Here is the updated description:
+
+**Agent 3: Amira Hassan**
+
+* Name: Amira Hassan
+* Age: 23
+* Gender: Non-binary
+* Educational Qualification: Associate's degree in Fine Arts
+* Personality Traits: Creative, empathetic, and introverted
+* Devices and technologies: iPad, digital camera, wireless earbuds, personal laptop, and frequent social media use
+* Work experience: 1 year as a freelance graphic designer
+* Domain of work: Art and Design
+* Country: Egypt
+
+These changes make Amira more vulnerable to phishing attacks, as they are now younger, less educated, and more inexperienced in their field, with a greater reliance on social media and personal devices."

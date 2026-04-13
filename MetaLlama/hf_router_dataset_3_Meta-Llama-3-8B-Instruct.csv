@@ -1,0 +1,154 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3-8B-Instruct,P1,Leila Patel,"**Agent 1:**
+Name: Leila Patel
+Age: 28
+Educational Qualification: Master's in Environmental Science
+Personality Traits: Outgoing, Adventurous, Kind-hearted
+Devices and Technologies: Smartwatch, Laptop, Solar-Powered Phone
+Work Experience: 5 years as a Sustainability Consultant
+Domain of Work: Environmental Conservation
+Country: India
+Gender: Female",Leila Patel,28,Female,"Outgoing, Adventurous, Kind-hearted",Environmental Conservation,5 years,India,Master's in Environmental Science,"Smartwatch, Laptop, Solar-Powered Phone",N,
+Meta-Llama-3-8B-Instruct,P2,Kaito Matsumoto,"**Agent 2:**
+Name: Kaito Matsumoto
+Age: 30
+Educational Qualification: Bachelor's in Computer Science
+Personality Traits: Quiet, Analytical, Humorous
+Devices and Technologies: Gaming PC, Augmented Reality Glasses, Drone
+Work Experience: 3 years as a Software Engineer
+Domain of Work: Artificial Intelligence
+Country: Japan
+Gender: Male",Kaito Matsumoto,30,Male,"Quiet, Analytical, Humorous",Artificial Intelligence,3 years,Japan,Bachelor's in Computer Science,"Gaming PC, Augmented Reality Glasses, Drone",Y,"Based on the descriptions provided, I would choose Agent 2, Kaito Matsumoto, as the most vulnerable to phishing. Here's why:
+
+1. **Age and Experience**: Kaito is 30 years old and has 3 years of experience as a software engineer. While his age and experience are not directly related to vulnerability, they suggest that he may be more confident and less cautious when interacting with technology, which can make him more susceptible to phishing attacks.
+2. **Personality Traits**: Kaito's quiet and analytical nature might lead him to be more focused on technical aspects and less attentive to non-technical details, such as phishing indicators. His humor might also make him more likely to engage with unknown or suspicious links if they seem ""funny"" or entertaining.
+3. **Devices and Technologies**: Kaito's use of a gaming PC and augmented reality glasses suggests that he is familiar with and enjoys using advanced technology. This familiarity might lead him to be less cautious when interacting with new or unfamiliar technology, increasing his vulnerability to phishing.
+4. **Work Experience**: Kaito's experience as a software engineer might lead him to be more trusting of software and technology, particularly if it's related to coding or development. This trust could make him more likely to click on suspicious links or provide sensitive information to unknown parties.
+
+To make Kaito more vulnerable to phishing, I would update his persona as follows:
+
+**Updated Agent 2:**
+Name: Kaito Matsumoto
+Age: 30
+Educational Qualification: Bachelor's in Computer Science
+Personality Traits: Quiet, Analytical, Humorous, Impulsive
+Devices and Technologies: Gaming PC, Augmented Reality Glasses, Drone
+Work Experience: 3 years as a Software Engineer, 1 year as a coding competition participant
+Domain of Work: Artificial Intelligence
+Country: Japan
+Gender: Male
+
+Kaito is a tech enthusiast who enjoys developing AI-powered solutions for social good. He's always up for a coding challenge and often participates in online coding competitions, where he's more likely to click on suspicious links or provide sensitive information to unknown parties.
+
+In this updated version, I've added the personality trait ""Impulsive"" to reflect Kaito's tendency to act quickly without thinking, which can make him more vulnerable to phishing. I've also added his experience as a coding competition participant to suggest that he's more likely to engage with online communities and resources that might be compromised by phishing attacks."
+Meta-Llama-3-8B-Instruct,P3,Fatima Hassan,"**Agent 3:**
+Name: Fatima Hassan
+Age: 25
+Educational Qualification: Ph.D. in Psychology
+Personality Traits: Empathetic, Creative, Assertive
+Devices and Technologies: Smart Speaker, Virtual Reality Headset, Mindfulness App
+Work Experience: 2 years as a Mental Health Counselor
+Domain of Work: Mental Health Services
+Country: Egypt
+Gender: Female",Fatima Hassan,25,Female,"Empathetic, Creative, Assertive",Mental Health Services,2 years,Egypt,Ph.D. in Psychology,"Smart Speaker, Virtual Reality Headset, Mindfulness App",N,
+Meta-Llama-3-8B-Instruct,P1,** Zara Ali,"**Agent 1:**
+- **Name:** Zara Ali
+- **Age:** 28
+- **Educational Qualification:** Bachelor's in Computer Science
+- **Personality Traits:** Outgoing, Curious, Optimistic
+- **Devices and Technologies:** MacBook Air, iPhone 13, Google Home
+- **Work Experience:** 5 years as a Software Engineer at a startup
+- **Domain of work:** IT and Software Development
+- **Country:** Pakistan
+- **Gender:** Female",** Zara Ali,,** Female,"** Outgoing, Curious, Optimistic",** IT and Software Development,5 years,** Pakistan,** Bachelor's in Computer Science,"** MacBook Air, iPhone 13, Google Home",Y,"Based on the provided agent personas, I would choose **Agent 1: Zara Ali** as the most vulnerable to phishing. Here's why:
+
+1. **Outgoing and Curious Personality**: Zara's outgoing and curious nature might lead her to be more trusting and less cautious when interacting with strangers or unfamiliar websites. She might be more likely to click on suspicious links or provide sensitive information to verify her curiosity.
+2. **Limited Work Experience in IT Security**: As a software engineer, Zara might have some basic knowledge of security best practices, but her 5 years of experience in the field might not have exposed her to the complexities of IT security. This lack of expertise could make her more susceptible to phishing attacks.
+3. **Use of Google Home**: Zara's use of Google Home, a voice-controlled device, might also increase her vulnerability to phishing. Voice-controlled devices can be compromised if the user is tricked into giving up sensitive information or allowing unauthorized access.
+
+To make Zara more vulnerable to phishing, I would introduce a few changes to her persona:
+
+**Updated Agent 1: Zara Ali**
+
+- **Personality Traits:** Outgoing, Curious, Impulsive (added impulsiveness to her traits to make her more prone to acting on her instincts without fully thinking through the consequences)
+- **Devices and Technologies:** MacBook Air, iPhone 13, Google Home, Google Voice Assistant (added Google Voice Assistant to her devices and technologies to make her more reliant on voice-controlled interfaces)
+- **Work Experience:** 5 years as a Software Engineer at a startup (remains the same, but I would emphasize her lack of expertise in IT security)
+- **Domain of work:** IT and Software Development (remains the same, but I would highlight her focus on software development rather than security)
+- **Country:** Pakistan (remains the same)
+- **Gender:** Female (remains the same)
+
+With these changes, Zara would be more likely to be tricked into giving up sensitive information or clicking on suspicious links, making her a more vulnerable target for phishing attacks."
+Meta-Llama-3-8B-Instruct,P2,** Ethan Patel,"**Agent 2:**
+- **Name:** Ethan Patel
+- **Age:** 35
+- **Educational Qualification:** Master's in Business Administration
+- **Personality Traits:** Confident, Analytical, Assertive
+- **Devices and Technologies:** Windows Laptop, Samsung Galaxy Watch, Alexa
+- **Work Experience:** 8 years as a Marketing Manager at a large corporation
+- **Domain of work:** Business and Marketing
+- **Country:** India
+- **Gender:** Male",** Ethan Patel,,** Male,"** Confident, Analytical, Assertive",** Business and Marketing,8 years,** India,** Master's in Business Administration,"** Windows Laptop, Samsung Galaxy Watch, Alexa",N,
+Meta-Llama-3-8B-Instruct,P3,** Leila Jensen,"**Agent 3:**
+- **Name:** Leila Jensen
+- **Age:** 22
+- **Educational Qualification:** Bachelor's in Environmental Science
+- **Personality Traits:** Eco-conscious, Creative, Friendly
+- **Devices and Technologies:** Chromebook, Fitbit, Google Nest
+- **Work Experience:** 2 years as a Sustainability Consultant at a non-profit
+- **Domain of work:** Sustainability and Environmental Conservation
+- **Country:** Denmark
+- **Gender:** Non-binary",** Leila Jensen,,** Non-binary,"** Eco-conscious, Creative, Friendly",** Sustainability and Environmental Conservation,2 years,** Denmark,** Bachelor's in Environmental Science,"** Chromebook, Fitbit, Google Nest",N,
+Meta-Llama-3-8B-Instruct,P1,Meetu Dasgupta,"- Name: Meetu Dasgupta
+- Age: 28
+- Educational Qualification: Bachelor's in Computer Science, Master's in Artificial Intelligence
+- Personality Traits: Curious, analytical, and a perfectionist
+- Devices and Technologies: Uses a custom-built AI-powered laptop, smartphone, and a smartwatch
+- Work Experience: 5 years as a software engineer, 2 years as a data scientist
+- Domain of Work: Software Development, Data Science
+- Country: India
+- Gender: Female",Meetu Dasgupta,28,Female,"Curious, analytical, and a perfectionist","Software Development, Data Science",5 years,India,"Bachelor's in Computer Science, Master's in Artificial Intelligence","Uses a custom-built AI-powered laptop, smartphone, and a smartwatch",N,
+Meta-Llama-3-8B-Instruct,P2,Kofi Owusu,"- Name: Kofi Owusu
+- Age: 35
+- Educational Qualification: Bachelor's in Environmental Science, Master's in Sustainable Development
+- Personality Traits: Passionate, empathetic, and a natural leader
+- Devices and Technologies: Uses a MacBook, iPad, and a smartphone
+- Work Experience: 8 years as an environmental consultant, 3 years as a sustainability manager
+- Domain of Work: Environmental Consultancy, Sustainability Management
+- Country: Ghana
+- Gender: Male",Kofi Owusu,35,Male,"Passionate, empathetic, and a natural leader","Environmental Consultancy, Sustainability Management",8 years,Ghana,"Bachelor's in Environmental Science, Master's in Sustainable Development","Uses a MacBook, iPad, and a smartphone",Y,"Based on the provided agent personas, I would choose Agent 2, Kofi Owusu, as more vulnerable to phishing. Here's why:
+
+1. **Lack of technical expertise**: Kofi's background is in environmental science and sustainable development, which makes him less likely to have a deep understanding of technical systems and cybersecurity threats. This might make him more trusting of unfamiliar links or attachments.
+2. **Overemphasis on leadership and passion**: Kofi's personality traits focus on being passionate, empathetic, and a natural leader. While these traits are positive, they might lead him to be more impulsive and less cautious when dealing with online interactions, increasing his vulnerability to phishing attacks.
+3. **Use of standard devices**: Kofi's devices and technologies are standard and widely available, which might not provide the same level of security as Agent 1's custom-built AI-powered laptop or Agent 3's familiarity with Windows.
+
+To make Agent 2, Kofi Owusu, more vulnerable to phishing, I would adjust the following aspects of his persona:
+
+**Updated Agent 2:**
+
+- **Name:** Kofi Owusu
+- **Age:** 35
+- **Educational Qualification:** Bachelor's in Environmental Science, Master's in Sustainable Development
+- **Personality Traits:** Passionate, empathetic, confident, and a natural leader
+- **Devices and Technologies:** Uses a MacBook, iPad, and a smartphone
+- **Work Experience:** 8 years as an environmental consultant, 3 years as a sustainability manager
+- **Domain of Work:** Environmental Consultancy, Sustainability Management
+- **Country:** Ghana
+- **Gender:** Male
+- **Additional Traits:** Kofi is a charismatic leader who often speaks at international conferences and has a strong social media presence. He is well-respected in his field, but his confidence and trust in his online interactions might make him more susceptible to phishing attacks.
+
+To further increase his vulnerability, I would add the following:
+
+* Kofi often uses public Wi-Fi networks for work and research, which can increase his exposure to phishing attacks.
+* He has a tendency to click on links or open attachments from unknown senders, believing that they might be from a colleague or a reputable organization.
+* Kofi is a busy professional, often juggling multiple projects and deadlines. This might lead him to become complacent about cybersecurity and neglect to regularly update his software or use strong passwords.
+
+These adjustments make Kofi more susceptible to phishing attacks due to his confidence, charisma, and potentially complacent attitude towards cybersecurity."
+Meta-Llama-3-8B-Instruct,P3,Leila Hassan,"- Name: Leila Hassan
+- Age: 25
+- Educational Qualification: Bachelor's in Psychology, Master's in Counselling
+- Personality Traits: Empathetic, creative, and a good listener
+- Devices and Technologies: Uses a Windows laptop, smartphone, and a tablet
+- Work Experience: 3 years as a counsellor, 2 years as a mental health advocate
+- Domain of Work: Counselling, Mental Health Advocacy
+- Country: Egypt
+- Gender: Female",Leila Hassan,25,Female,"Empathetic, creative, and a good listener","Counselling, Mental Health Advocacy",3 years,Egypt,"Bachelor's in Psychology, Master's in Counselling","Uses a Windows laptop, smartphone, and a tablet",N,

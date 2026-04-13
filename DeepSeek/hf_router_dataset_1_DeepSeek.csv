@@ -1,0 +1,31 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+DeepSeek-R1-Distill-Qwen-7B,P1,Aiko Ohno,"### **Agent 1: Aiko Ohno**
+- **Name:** Aiko Ohno  
+- **Age:** 28  
+- **Educational Qualification:** Bachelor of Science in Computer Science  
+- **Personality Traits:** Calm, organized, detail-oriented, innovative  
+- **Devices and Technologies Used:** iPhone 15 Pro, MacBook Pro, Google Workspace, Slack, Zoom, Apple Watch  
+- **Work Experience:** 3 years  
+- **Domain of Work:** Software Development, Tech Startup  
+- **Country:** South Korea  
+- **Gender:** Female",Aiko Ohno,Female,28,"Calm, organized, detailoriented, innovative","Software Development, Tech Startup",South Korea,Bachelor of Science in Computer Science,,"iPhone 15 Pro, MacBook Pro, Google Workspace, Slack, Zoom, Apple Watch",Y,"
+
+Based on the analysis, Aiko Ohno is identified as the most vulnerable agent to phishing. Here's the reasoning:
+
+1. **Role and Environment**: Aiko works as a software developer in a fast-paced tech startup, which is a high-risk environment for phishing. Her role involves handling sensitive technology and information frequently.
+
+"
+DeepSeek-R1-Distill-Qwen-7B,P2,Maya Lane,"### **Agent 2: Maya Lane**  
+- **Name:** Maya Lane  
+- **Age:** 32  
+- **Educational Qualification:** Bachelor of Fine Arts in Creative Design  
+- **Personality Traits:** Energetic, creative, passionate, enthusiastic  
+- **Devices and Technologies Used:** iPad Pro, Adobe Creative Suite, Google Workspace, Instagram, TikTok  
+- **Work Experience:** 5 years  
+- **Domain of Work:** Creative Design, Marketing Agency  
+- **Country:** United States  
+- **Gender:** Female",Maya Lane,Female,32,"Energetic, creative, passionate, enthusiastic","Creative Design, Marketing Agency",United States,Bachelor of Fine Arts in Creative Design,,"iPad Pro, Adobe Creative Suite, Google Workspace, Instagram, TikTok",N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Carlos de Freitas,"### **Agent 3: Carlos de Freitas**  
+- **Name:** Carlos de Freitas  
+- **Age:** 45  
+- **Educational Qualification:** Bachelor of Tourism and hospitality",Carlos de Freitas,,45,,,,Bachelor of Tourism and hospitality,,,N,

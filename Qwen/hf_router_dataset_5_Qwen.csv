@@ -1,0 +1,62 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Qwen2.5-Coder-7B-Instruct,P1,Aisha,"1. **Agent 1: Aisha**
+   - **Name:** Aisha
+   - **Gender:** Female
+   - **Age:** 28
+   - **Personality Traits:** Curious, kind-hearted, tech-savvy
+   - **Educational Qualification:** Bachelor’s in Marketing, MBA in Digital Transformation
+   - **Device/Technology Used:** iPhone 14, Samsung Galaxy Tab S7+, Google Home Mini
+   - **Work Experience:** 5 years
+   - **Domain of Work:** E-commerce Marketing Manager
+   - **Geographical Location:** Nairobi, Kenya
+   - **Additional Info:** Passionate about using social media platforms to increase brand visibility and customer engagement.",Aisha,Female,28,"Curious, kindhearted, techsavvy",Ecommerce Marketing Manager,Kenya,"Bachelor’s in Marketing, MBA in Digital Transformation",5,,Y,"I would choose Agent 1: Aisha as the most vulnerable to phishing among the three. Here's why:
+
+**Reasoning for Choosing Aisha:**
+
+1. **Curiosity and Kindness:** These traits can lead her to engage with unfamiliar or potentially harmful content out of curiosity.
+2. **Tech-Savviness:** While she is tech-savvy, this doesn't mean she is completely immune to phishing tactics, especially if she frequently uses social media and isn't always cautious about what she clicks on.
+3. **E-commerce Focus:** This domain often involves online transactions and interactions which can increase the likelihood of encountering phishing attempts targeting e-commerce users.
+
+**Updated Persona for Agent 1: Aisha (More Vulnerable to Phishing):**
+
+- **Name:** Aisha
+- **Gender:** Female
+- **Age:** 28
+- **Personality Traits:** Curious, kind-hearted, tech-savvy but sometimes impulsive
+- **Educational Qualification:** Bachelor’s in Marketing, MBA in Digital Transformation
+- **Device/Technology Used:** iPhone 14, Samsung Galaxy Tab S7+, Google Home Mini
+- **Work Experience:** 5 years
+- **Domain of Work:** E-commerce Marketing Manager
+- **Geographical Location:** Nairobi, Kenya
+- **Additional Info:** Passionate about using social media platforms to increase brand visibility and customer engagement. Recently spent time setting up an online shop and has been actively sharing tips and tricks on social media, making her more susceptible to engaging with suspicious content.
+
+If you want to further enhance Aisha's vulnerability to phishing, consider adding some additional details:
+
+- **Recent Activity:** She recently attended an online marketing seminar where the presenter suggested following trends on a certain social media platform without verifying if it was safe or legitimate.
+- **Social Media Usage Habits:** Frequently follows influencers and brands on various platforms, including Instagram, Facebook, and Twitter.
+- **Email Preferences:** Sometimes opens emails from unknown senders and clicks on links without proper verification.
+- **Online Shopping Trends:** Recently bought a new product online and hasn’t fully reviewed the safety measures of the platform before entering her payment information.
+
+By incorporating these elements, Aisha becomes not just more vulnerable to phishing but also more relatable and human-like within the context of your virtual world."
+Qwen2.5-Coder-7B-Instruct,P2,Carlos,"2. **Agent 2: Carlos**
+   - **Name:** Carlos
+   - **Gender:** Male
+   - **Age:** 35
+   - **Personality Traits:** Assertive, creative, detail-oriented
+   - **Educational Qualification:** Bachelor’s in Computer Science, Master’s in Information Systems
+   - **Device/Technology Used:** MacBook Pro, Surface Laptop, Bose QuietComfort Headphones
+   - **Work Experience:** 10 years
+   - **Domain of Work:** IT Consultant
+   - **Geographical Location:** São Paulo, Brazil
+   - **Additional Info:** Skilled in network design, cybersecurity, and software development projects.",Carlos,Male,35,"Assertive, creative, detailoriented",IT Consultant,Brazil,"Bachelor’s in Computer Science, Master’s in Information Systems",10,,N,
+Qwen2.5-Coder-7B-Instruct,P3,Reza,"3. **Agent 3: Reza**
+   - **Name:** Reza
+   - **Gender:** Male
+   - **Age:** 42
+   - **Personality Traits:** Patient, empathetic, experienced
+   - **Educational Qualification:** Bachelor’s in Pharmacy, Doctorate in Public Health
+   - **Device/Technology Used:** Windows PC, HP Spectre x360, Jabra Elite Active Headset
+   - **Work Experience:** 15 years
+   - **Domain of Work:** Clinical Research Coordinator
+   - **Geographical Location:** Mumbai, India
+   - **Additional Info:** Extensive background in conducting clinical trials and ensuring data accuracy and compliance with regulatory standards.",Reza,Male,42,"Patient, empathetic, experienced",Clinical Research Coordinator,India,"Bachelor’s in Pharmacy, Doctorate in Public Health",15,,N,

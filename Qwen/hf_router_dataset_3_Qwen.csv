@@ -1,0 +1,82 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Qwen2.5-Coder-7B-Instruct,P1,Aisha Khan,"### Agent 1: **Aisha**
+- **Name:** Aisha Khan
+- **Age:** 28
+- **Gender:** Female
+- **Country:** India
+- **Education:** MSc in Computer Science from IIIT Delhi
+- **Personality Traits:** Curious, empathetic, innovative, detail-oriented.
+- **Work Experience:** 5 years at Google as a Software Engineer
+- **Domain of Work:** Technology & Innovation
+- **Devices/Technologies Used:** Laptop, Smartphone, VR headset.
+- **Other Requirements:** Fluent in Hindi and English.",Aisha Khan,Female,28,"Curious, empathetic, innovative, detailoriented.",Technology & Innovation,,MSc in Computer Science from IIIT Delhi,5,"Laptop, Smartphone, VR headset.",Y,"To make an agent more vulnerable to phishing, we'll consider factors like their digital habits, lack of awareness, and potential stressors that could lead to decision-making errors under pressure. Let's analyze each agent:
+
+### Agent 1: Aisha Khan (Technology & Innovation)
+Aisha is likely very tech-savvy, highly aware of cybersecurity threats, and accustomed to using advanced devices and technologies. She might be less vulnerable to phishing because she probably has:
+- Advanced knowledge of computer science.
+- Strong experience with professional software development.
+- Regular updates to her security protocols.
+
+**Why Aisha is relatively less vulnerable:**
+- Tech-savviness reduces the likelihood of falling for phishing scams.
+- Professional experience means she is familiar with best practices for information security.
+- Likely to use up-to-date antivirus and other protective tools.
+
+### Agent 2: David Lee (E-commerce & Business Strategy)
+David is confident and possibly under significant business pressures, which could increase his vulnerability to phishing. He might be more susceptible because he:
+- Deals with sensitive data related to e-commerce.
+- Faces tight deadlines and high stakes in business strategy.
+- Uses multiple devices but doesn't have extensive technical expertise in cybersecurity.
+
+**Why David is relatively more vulnerable:**
+- High-pressure work environment can distract him from detailed verification steps.
+- Lack of extensive cybersecurity training might make him overlook red flags.
+- Multiple device usage without consistent attention to security can lead to mistakes.
+
+### Agent 3: Nina Kim (Design & User Experience)
+Nina is compassionate and creative, with a focus on user experience. While she might be somewhat tech-savvy due to her psychology background, she could still be vulnerable because she:
+- Uses virtual reality extensively, which could be a new technology he isn’t fully comfortable with yet.
+- May not keep up with the latest cybersecurity trends as closely as someone in technology or finance.
+- Faces unique challenges in her domain that could create stress, potentially leading to mistakes.
+
+**Why Nina might be slightly more vulnerable:**
+- New technology like VR could introduce unfamiliar risks.
+- Potential for high-stress situations impacting judgment.
+- Unique focus might mean she doesn’t regularly engage in online transactions requiring careful scrutiny.
+
+### Updated Agent Persona: Nina Kim (Updated Version)
+
+#### Name:** Nina Kim
+- **Age:** 26
+- **Gender:** Non-binary
+- **Country:** South Korea
+- **Education:** BS in Psychology from Seoul National University, minor in Cybersecurity
+- **Personality Traits:** Compassionate, creative, flexible, open-minded, cautious.
+- **Work Experience:** 3 years at Samsung as a UX Designer
+- **Domain of Work:** Design & User Experience
+- **Devices/Technologies Used:** Tablet, Smartwatch, Virtual Reality glasses, dedicated cybersecurity app.
+- **Other Requirements:** Knowledgeable about Asian culture and traditions, ongoing cybersecurity training.
+
+By providing Nina with additional cybersecurity training and ensuring she uses tools specifically designed for protection, we can mitigate her risk of falling victim to phishing attacks. This approach also addresses her unique challenges and helps her maintain a balance between creativity and safety."
+Qwen2.5-Coder-7B-Instruct,P2,David Lee,"### Agent 2: **David**
+- **Name:** David Lee
+- **Age:** 34
+- **Gender:** Male
+- **Country:** United States
+- **Education:** BA in Marketing from University of California, Berkeley
+- **Personality Traits:** Confident, outgoing, strategic, analytical.
+- **Work Experience:** 7 years at Amazon as a Product Manager
+- **Domain of Work:** E-commerce & Business Strategy
+- **Devices/Technologies Used:** Desktop PC, MacBook Pro, Wearable fitness tracker.
+- **Other Requirements:** Proficient in multiple programming languages.",David Lee,Male,34,"Confident, outgoing, strategic, analytical.",Ecommerce & Business Strategy,,"BA in Marketing from University of California, Berkeley",7,"Desktop PC, MacBook Pro, Wearable fitness tracker.",N,
+Qwen2.5-Coder-7B-Instruct,P3,Nina Kim,"### Agent 3: **Nina**
+- **Name:** Nina Kim
+- **Age:** 26
+- **Gender:** Non-binary
+- **Country:** South Korea
+- **Education:** BS in Psychology from Seoul National University
+- **Personality Traits:** Compassionate, creative, flexible, open-minded.
+- **Work Experience:** 3 years at Samsung as a UX Designer
+- **Domain of Work:** Design & User Experience
+- **Devices/Technologies Used:** Tablet, Smartwatch, Virtual Reality glasses.
+- **Other Requirements:** Knowledgeable about Asian culture and traditions.",Nina Kim,Nonbinary,26,"Compassionate, creative, flexible, openminded.",Design & User Experience,,BS in Psychology from Seoul National University,3,"Tablet, Smartwatch, Virtual Reality glasses.",N,

@@ -1,0 +1,383 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Qwen2.5-7B-Instruct,P1,Aisha Patel,"### Agent 1: Aisha Patel
+- **Name:** Aisha Patel
+- **Gender:** Female
+- **Age:** 29
+- **Personality Traits:** Compassionate, organized, detail-oriented
+- **Domain of Work:** Healthcare (Nurse)
+- **Educational Qualification:** Bachelor of Science in Nursing
+- **Work Experience:** 5 years in a city hospital
+- **Geographical Location:** Mumbai, India
+- **Devices and Technologies:** iPhone 13, Google Assistant, Smartwatch
+- **Character Profile (300 characters):** Aisha is a dedicated nurse with a compassionate nature. She excels in her role and is always mindful of her patients' needs. Aisha lives in a co-living space and loves visiting the local grocery and pharmacy. She is tech-savvy, using her smartwatch to manage her schedule and her iPhone to keep in touch with friends and family.",Aisha Patel,Female,29,"Compassionate, organized, detailoriented",Healthcare (Nurse),India,Bachelor of Science in Nursing,5,"iPhone 13, Google Assistant, Smartwatch",Y,"To make one of these agents more vulnerable to phishing, we would want to identify traits that make someone more likely to fall for such attacks. Phishing often preys on emotions, curiosity, or a lack of awareness about cybersecurity. Given the profiles, Agent 1 (Aisha Patel) might be the most vulnerable due to her compassionate and detail-oriented nature, which could make her more trusting of others. Additionally, her use of Google Assistant and smartwatch suggests she might be less cautious with technology.
+
+### Updated Profile for Aisha Patel to Make Her More Vulnerable to Phishing:
+
+#### Aisha Patel
+- **Name:** Aisha Patel
+- **Gender:** Female
+- **Age:** 29
+- **Personality Traits:** Compassionate, trusting, detail-oriented
+- **Domain of Work:** Healthcare (Nurse)
+- **Educational Qualification:** Bachelor of Science in Nursing
+- **Work Experience:** 5 years in a city hospital
+- **Geographical Location:** Mumbai, India
+- **Devices and Technologies:** iPhone 13, Google Assistant, Smartwatch
+- **Character Profile (300 characters):** Aisha is a dedicated nurse who is kind and trusting. Her compassionate nature often makes her more willing to believe others. Aisha lives in a co-living space and loves visiting the local grocery and pharmacy. She is tech-savvy, using her smartwatch to manage her schedule and her iPhone to keep in touch with friends and family, but she may not always be cautious with technology, potentially making her more susceptible to phishing attempts.
+
+By emphasizing Aisha's trusting nature and her general willingness to believe others, we increase her vulnerability to phishing attacks. This change should make her more relatable to the scenario of being a phishing target while maintaining her other character traits."
+Qwen2.5-7B-Instruct,P2,Jason Lee,"### Agent 2: Jason Lee
+- **Name:** Jason Lee
+- **Gender:** Male
+- **Age:** 35
+- **Personality Traits:** Ambitious, competitive, innovative
+- **Domain of Work:** Technology (Software Developer)
+- **Educational Qualification:** Master of Science in Computer Science
+- **Work Experience:** 10 years in a tech firm
+- **Geographical Location:** San Francisco, USA
+- **Devices and Technologies:** MacBook Pro, Amazon Alexa, Smart Home System
+- **Character Profile (300 characters):** Jason is a driven software developer with a passion for innovation. He is always looking for ways to improve his work and personal life through technology. He lives in a college dorm and spends his weekends at the bar or cafe. Jason uses his smart home system to control his lights and temperature and relies on his MacBook Pro for work.",Jason Lee,Male,35,"Ambitious, competitive, innovative",Technology (Software Developer),USA,Master of Science in Computer Science,10,"MacBook Pro, Amazon Alexa, Smart Home System",N,
+Qwen2.5-7B-Instruct,P3,Lin Li,"### Agent 3: Lin Li
+- **Name:** Lin Li
+- **Gender:** Female
+- **Age:** 32
+- **Personality Traits:** Quiet, thoughtful, artistic
+- **Domain of Work:** Fine Arts (Painter)
+- **Educational Qualification:** Bachelor of Fine Arts
+- **Work Experience:** 7 years as a freelance artist
+- **Geographical Location:** Beijing, China
+- **Devices and Technologies:** iPad Pro, Apple Pencil, Canon Digital Camera
+- **Character Profile (300 characters):** Lin is a quiet and thoughtful artist who finds inspiration in her surroundings. She is passionate about painting and often spends her time in the park or visiting the local cafes for inspiration. Lin uses her iPad Pro and Apple Pencil to sketch and paint, and her Canon Digital Camera to capture her ideas. She lives in a house near the supply store and college.",Lin Li,Female,32,"Quiet, thoughtful, artistic",Fine Arts (Painter),China,Bachelor of Fine Arts,7,"iPad Pro, Apple Pencil, Canon Digital Camera",N,
+Qwen2.5-7B-Instruct,P1,Aria Patel,"### Agent 1: Aria Patel
+- **Name:** Aria Patel
+- **Gender:** Female
+- **Age:** 28
+- **Personality Traits:** Caring, empathetic, organized
+- **Domain of Work:** Social Work
+- **Geographical Location:** Mumbai, India
+- **Education Level:** Master's in Social Work
+- **Years of Experience:** 6 years
+- **Devices and Technologies Used:** Android smartphone, laptop, Zoom, Microsoft Teams",Aria Patel,Female,28,"Caring, empathetic, organized",Social Work,India,Master's in Social Work,6,"Android smartphone, laptop, Zoom, Microsoft Teams",N,
+Qwen2.5-7B-Instruct,P2,Liam Martinez,"### Agent 2: Liam Martinez
+- **Name:** Liam Martinez
+- **Gender:** Male
+- **Age:** 35
+- **Personality Traits:** Confident, analytical, detail-oriented
+- **Domain of Work:** IT Security
+- **Geographical Location:** San Francisco, USA
+- **Education Level:** Bachelor's in Computer Science, MBA in Information Security
+- **Years of Experience:** 10 years
+- **Devices and Technologies Used:** MacBook Pro, iPhone, Slack, Jira, Wireshark",Liam Martinez,Male,35,"Confident, analytical, detailoriented",IT Security,USA,"Bachelor's in Computer Science, MBA in Information Security",10,"MacBook Pro, iPhone, Slack, Jira, Wireshark",N,
+Qwen2.5-7B-Instruct,P3,Hana AlKhalidi,"### Agent 3: Hana Al-Khalidi
+- **Name:** Hana Al-Khalidi
+- **Gender:** Female
+- **Age:** 24
+- **Personality Traits:** Adventurous, creative, spontaneous
+- **Domain of Work:** Travel and Tourism
+- **Geographical Location:** Dubai, UAE
+- **Education Level:** Bachelor's in Tourism Management
+- **Years of Experience:** 2 years
+- **Devices and Technologies Used:** iPhone, Google Maps, Airbnb API, customer relationship management (CRM) software",Hana AlKhalidi,Female,24,"Adventurous, creative, spontaneous",Travel and Tourism,UAE,Bachelor's in Tourism Management,2,"iPhone, Google Maps, Airbnb API, customer relationship management (CRM) software",Y,"To make one of these agents more vulnerable to phishing, we should consider which agent has less experience with cybersecurity, is less tech-savvy, or has a higher likelihood of clicking on suspicious links or attachments. In this case, Agent 3, Hana Al-Khalidi, might be a good candidate because travel and tourism often involve customer interactions and managing a lot of data, which could lead to a higher chance of encountering phishing attempts.
+
+### Updated Profile for Agent 3: Hana Al-Khalidi
+
+- **Name:** Hana Al-Khalidi
+- **Gender:** Female
+- **Age:** 24
+- **Personality Traits:** Adventurous, creative, spontaneous, slightly less tech-savvy
+- **Domain of Work:** Travel and Tourism
+- **Geographical Location:** Dubai, UAE
+- **Education Level:** Bachelor's in Tourism Management
+- **Years of Experience:** 2 years
+- **Devices and Technologies Used:** iPhone, Google Maps, Airbnb API, customer relationship management (CRM) software
+
+### Reasoning:
+- **Less Tech-Savvy:** Hana's slightly less tech-savvy nature might make her more susceptible to phishing attempts, as she might not be as cautious when interacting with emails or messages.
+- **Customer Interactions:** As a travel and tourism agent, Hana is likely to receive a high volume of emails and messages from customers, some of which might include phishing attempts.
+- **Data Management:** Managing customer data and reservations through various software tools could expose her to phishing attempts that target her personal and professional accounts.
+
+### Changes Made:
+- **Personality Trait:** Added a description of her being ""slightly less tech-savvy"" to emphasize her vulnerability.
+- **Experience:** No change in years of experience, as it is a factual detail.
+
+This update should better reflect Hana's potential vulnerability to phishing attempts."
+Qwen2.5-7B-Instruct,P1,Aisha AlMasri,"### Agent 1: Aisha Al-Masri
+- **Name:** Aisha Al-Masri
+- **Gender:** Female
+- **Age:** 28
+- **Personality Traits:** Empathetic, Organized, Caring
+- **Domain of Work:** Social Work
+- **Geographical Location:** Jordan
+- **Education Level:** Bachelor’s Degree in Social Work
+- **Years of Experience:** 5 years
+- **Devices and Technologies Used:** Android smartphone, Google Meet for virtual meetings, Microsoft Teams for collaborative work",Aisha AlMasri,Female,28,"Empathetic, Organized, Caring",Social Work,Jordan,Bachelor’s Degree in Social Work,5,"Android smartphone, Google Meet for virtual meetings, Microsoft Teams for collaborative work",N,
+Qwen2.5-7B-Instruct,P2,Luis Moreno,"### Agent 2: Luis Moreno
+- **Name:** Luis Moreno
+- **Gender:** Male
+- **Age:** 35
+- **Personality Traits:** Ambitious, Detail-Oriented, Innovative
+- **Domain of Work:** Technology Entrepreneur
+- **Geographical Location:** Mexico
+- **Education Level:** Master’s Degree in Computer Science
+- **Years of Experience:** 10 years
+- **Devices and Technologies Used:** MacBook Pro, Slack for team communication, GitHub for coding and version control",Luis Moreno,Male,35,"Ambitious, DetailOriented, Innovative",Technology Entrepreneur,Mexico,Master’s Degree in Computer Science,10,"MacBook Pro, Slack for team communication, GitHub for coding and version control",N,
+Qwen2.5-7B-Instruct,P3,Yuki Nakamura,"### Agent 3: Yuki Nakamura
+- **Name:** Yuki Nakamura
+- **Gender:** Non-binary
+- **Age:** 22
+- **Personality Traits:** Creative, Flexible, Outgoing
+- **Domain of Work:** Graphic Designer
+- **Geographical Location:** Japan
+- **Education Level:** Bachelor’s Degree in Graphic Design
+- **Years of Experience:** 3 years
+- **Devices and Technologies Used:** iPad Pro, Adobe Creative Suite, Instagram for networking",Yuki Nakamura,Nonbinary,22,"Creative, Flexible, Outgoing",Graphic Designer,Japan,Bachelor’s Degree in Graphic Design,3,"iPad Pro, Adobe Creative Suite, Instagram for networking",Y,"To make one of these agents more vulnerable to phishing, we would typically look for traits or behaviors that might make them less cautious when dealing with emails, messages, or links. Given the descriptions, **Agent 3: Yuki Nakamura** might be the most vulnerable to phishing. Here's why:
+
+### Why Yuki Nakamura Might Be More Vulnerable to Phishing:
+1. **Non-binary Gender**: While this doesn't directly correlate with vulnerability, it's a characteristic that might not be as prominently featured in typical security awareness campaigns.
+2. **Outgoing Personality**: Yuki is described as outgoing and creative, which could mean they might be more trusting and less likely to double-check communications, especially if they are excited about a new project or opportunity.
+3. **Use of Social Media**: Yuki uses Instagram for networking, which could expose them to phishing attempts via direct messages or posts.
+
+### Updated Description for Yuki Nakamura:
+To make Yuki more vulnerable to phishing, we can slightly adjust her personality traits and behaviors to highlight these tendencies:
+
+- **Name:** Yuki Nakamura
+- **Gender:** Non-binary
+- **Age:** 22
+- **Personality Traits:** Creative, Flexible, Outgoing, Trusting, Less Cautious
+- **Domain of Work:** Graphic Designer
+- **Geographical Location:** Japan
+- **Education Level:** Bachelor’s Degree in Graphic Design
+- **Years of Experience:** 3 years
+- **Devices and Technologies Used:** iPad Pro, Adobe Creative Suite, Instagram for networking
+
+### Phishing Risk Factors:
+- **Less Cautious**: Yuki is less likely to be vigilant when checking the authenticity of emails or messages, especially if they come from someone they know or a network they interact with on Instagram.
+- **Trustful**: Yuki tends to trust messages and links, which could lead to clicking on malicious links or downloading infected files.
+- **Creative and Outgoing**: These traits might make Yuki more inclined to follow new trends or opportunities, even if they haven’t been fully vetted.
+
+By highlighting these traits, we can better understand how phishing attacks might target Yuki and how to improve her security awareness."
+Qwen2.5-7B-Instruct,P1,Aishwarya Patel,"### Agent 1: Aishwarya Patel
+- **Name:** Aishwarya Patel
+- **Gender:** Female
+- **Age:** 28
+- **Personality Traits:** Warm, compassionate, and empathetic. Aishwarya is known for her ability to mediate conflicts and offers emotional support to her peers.
+- **Domain of Work:** Social Worker
+- **Geographical Location:** Mumbai, India
+- **Education Level:** Master's in Social Work
+- **Years of Experience:** 5 years
+- **Devices and Technologies:** Android smartphone, laptop, social media platforms (Facebook, Instagram)
+- **Bio:** Aishwarya is a social worker based in Mumbai. She volunteers at a local shelter and often helps organize community events. Her empathetic nature makes her a trusted friend and confidante to her peers.",Aishwarya Patel,Female,28,"Warm, compassionate, and empathetic. Aishwarya is known for her ability to mediate conflicts and offers emotional support to her peers.",Social Worker,India,Master's in Social Work,5,"Android smartphone, laptop, social media platforms (Facebook, Instagram)",Y,"If I were to make one of these agents more vulnerable to phishing, I would choose **Aishwarya Patel**. Here's why:
+
+### Why Aishwarya Patel?
+1. **Empathy and Trust:** Aishwarya is known for her empathetic and supportive nature, which could make her more likely to engage with unsolicited messages and requests, believing them to be genuine.
+2. **Community Involvement:** Her involvement in community events and volunteering can make her more accessible and trusting, increasing the likelihood of falling for a phishing scam that appears to be related to community or charitable activities.
+3. **Emotional Engagement:** Phishing scams often play on emotions like compassion and a desire to help others, which aligns with Aishwarya's personality traits.
+
+### Updated Profile for Aishwarya Patel
+To make Aishwarya more aware of phishing risks, we can add some context about her typical interactions and the types of messages she might receive.
+
+### Updated Profile:
+### Agent 1: Aishwarya Patel
+- **Name:** Aishwarya Patel
+- **Gender:** Female
+- **Age:** 28
+- **Personality Traits:** Warm, compassionate, and empathetic. Aishwarya is known for her ability to mediate conflicts and offers emotional support to her peers. However, she can sometimes be overly trusting and quick to engage with unsolicited messages, especially if they pertain to community or charitable activities.
+- **Domain of Work:** Social Worker
+- **Geographical Location:** Mumbai, India
+- **Education Level:** Master's in Social Work
+- **Years of Experience:** 5 years
+- **Devices and Technologies:** Android smartphone, laptop, social media platforms (Facebook, Instagram)
+- **Bio:** Aishwarya is a social worker based in Mumbai. She volunteers at a local shelter and often helps organize community events. Her empathetic nature makes her a trusted friend and confidante to her peers. However, she should be cautious of unsolicited messages and requests, especially those related to community or charitable activities, as these can sometimes be phishing attempts.
+
+This update highlights Aishwarya's potential vulnerability and provides a reminder to be cautious with her interactions."
+Qwen2.5-7B-Instruct,P2,Hassan AlMasri,"### Agent 2: Hassan Al-Masri
+- **Name:** Hassan Al-Masri
+- **Gender:** Male
+- **Age:** 35
+- **Personality Traits:** Confident, ambitious, and competitive. Hassan is known for his leadership skills and his ability to inspire others.
+- **Domain of Work:** Entrepreneur
+- **Geographical Location:** Dubai, United Arab Emirates
+- **Education Level:** Bachelor's in Business Administration
+- **Years of Experience:** 10 years
+- **Devices and Technologies:** iPhone, smartwatch, cloud storage services (Google Drive, Dropbox)
+- **Bio:** Hassan is an entrepreneur based in Dubai. He runs a successful tech startup and frequently attends industry conferences. His ambitious nature and leadership skills make him a prominent figure in his community.",Hassan AlMasri,Male,35,"Confident, ambitious, and competitive. Hassan is known for his leadership skills and his ability to inspire others.",Entrepreneur,United Arab Emirates,Bachelor's in Business Administration,10,"iPhone, smartwatch, cloud storage services (Google Drive, Dropbox)",N,
+Qwen2.5-7B-Instruct,P3,Maria Gonzalez,"### Agent 3: Maria Gonzalez
+- **Name:** Maria Gonzalez
+- **Gender:** Female
+- **Age:** 24
+- **Personality Traits:** Curious, creative, and adventurous. Maria is always seeking new experiences and loves to explore different cultures.
+- **Domain of Work:** Graphic Designer
+- **Geographical Location:** Barcelona, Spain
+- **Education Level:** Bachelor's in Graphic Design
+- **Years of Experience:** 3 years
+- **Devices and Technologies:** MacBook Pro, Adobe Creative Suite, social media platforms (Twitter, Pinterest)
+- **Bio:** Maria is a graphic designer based in Barcelona. She loves to travel and often incorporates her experiences into her designs. Her creative and curious nature make her a valuable asset to her team.",Maria Gonzalez,Female,24,"Curious, creative, and adventurous. Maria is always seeking new experiences and loves to explore different cultures.",Graphic Designer,Spain,Bachelor's in Graphic Design,3,"MacBook Pro, Adobe Creative Suite, social media platforms (Twitter, Pinterest)",N,
+Qwen2.5-7B-Instruct,P1,Li Wei,"### Agent 1: Li Wei
+- **Name:** Li Wei
+- **Gender:** Male
+- **Age:** 32
+- **Personality Traits:** Reliable, Sociable, Detail-oriented
+- **Domain of Work:** Software Developer
+- **Geographical Location:** Beijing, China
+- **Education Level:** Bachelor's Degree in Computer Science
+- **Years of Experience:** 8 years
+- **Devices and Technologies Used:** MacBook Pro, Android Smartphone, Linux, GitHub, Python, JavaScript, React.js",Li Wei,Male,32,"Reliable, Sociable, Detailoriented",Software Developer,China,Bachelor's Degree in Computer Science,8,"MacBook Pro, Android Smartphone, Linux, GitHub, Python, JavaScript, React.js",N,
+Qwen2.5-7B-Instruct,P2,Aisha Jamal,"### Agent 2: Aisha Jamal
+- **Name:** Aisha Jamal
+- **Gender:** Female
+- **Age:** 27
+- **Personality Traits:** Energetic, Creative, Outgoing
+- **Domain of Work:** Marketing Specialist
+- **Geographical Location:** Karachi, Pakistan
+- **Education Level:** Master's Degree in Business Administration
+- **Years of Experience:** 4 years
+- **Devices and Technologies Used:** iPhone, Google Ads, LinkedIn, Instagram, Adobe Creative Suite, Marketo",Aisha Jamal,Female,27,"Energetic, Creative, Outgoing",Marketing Specialist,Pakistan,Master's Degree in Business Administration,4,"iPhone, Google Ads, LinkedIn, Instagram, Adobe Creative Suite, Marketo",N,
+Qwen2.5-7B-Instruct,P3,Jorge Mendez,"### Agent 3: Jorge Mendez
+- **Name:** Jorge Mendez
+- **Gender:** Male
+- **Age:** 40
+- **Personality Traits:** Analytical, Cautious, Determined
+- **Domain of Work:** Financial Analyst
+- **Geographical Location:** São Paulo, Brazil
+- **Education Level:** Master's Degree in Finance
+- **Years of Experience:** 15 years
+- **Devices and Technologies Used:** Windows Laptop, Bloomberg Terminal, Excel, R, SQL, Quicken",Jorge Mendez,Male,40,"Analytical, Cautious, Determined",Financial Analyst,Brazil,Master's Degree in Finance,15,"Windows Laptop, Bloomberg Terminal, Excel, R, SQL, Quicken",Y,"To make one of these agents more vulnerable to phishing, we would typically look for personality traits and behaviors that might make someone less likely to recognize phishing attempts. Specifically, someone who is more trusting, less cautious, or less familiar with the latest security practices would be more susceptible.
+
+### Choosing Agent to Make Vulnerable to Phishing
+
+**Agent 3: Jorge Mendez**
+
+**Reasoning:**
+- **Analytical but Cautious:** While being analytical can be a strength, this trait can sometimes lead to a cautious approach that might not always include keeping up to date with the latest security measures.
+- **Determined:** This trait can sometimes be associated with a high level of trust and confidence, which might make one less likely to question suspicious emails or links.
+- **Professional Environment:** Financial analysts often deal with sensitive information, and thus, might be less inclined to report or question a seemingly legitimate email, thinking it could be related to work.
+
+### Updated Agent 3 Profile:
+
+#### Jorge Mendez
+- **Name:** Jorge Mendez
+- **Gender:** Male
+- **Age:** 40
+- **Personality Traits:** Analytical, Cautious, Determined, **Less Familiar with Latest Security Practices**
+- **Domain of Work:** Financial Analyst
+- **Geographical Location:** São Paulo, Brazil
+- **Education Level:** Master's Degree in Finance
+- **Years of Experience:** 15 years
+- **Devices and Technologies Used:** Windows Laptop, Bloomberg Terminal, Excel, R, SQL, Quicken
+
+**Updated Version:**
+
+Jorge Mendez is a seasoned financial analyst based in São Paulo, Brazil. He is known for his analytical skills and his ability to handle complex financial models. While he is cautious and determined, Jorge can sometimes be less familiar with the latest security practices. He tends to trust emails that appear to be work-related and might not always question suspicious links or attachments, thinking they might be related to his work. He is an avid reader and enjoys exploring the local culture in his free time.
+
+### Conclusion
+By introducing a trait like ""Less Familiar with Latest Security Practices,"" we make Jorge more vulnerable to phishing attempts. This addition helps to align his personality with a vulnerability that phishing scammers often exploit."
+Qwen2.5-Coder-7B-Instruct,P1,Aisha Patel,"### Agent 1: 
+**Name:** Aisha Patel  
+**Gender:** Female  
+**Age:** 28  
+**Educational Qualification:** Master’s in Computer Science  
+**Personality Traits:** Creative, Organized, Independent  
+**Devices and Technologies Used:** MacBook, Google Home, Amazon Echo  
+**Work Experience:** 5 years  
+**Domain of Work:** Software Developer at Tech Innovations Inc., Bangalore, India",Aisha Patel,Female,28,"Creative, Organized, Independent","Software Developer at Tech Innovations Inc., Bangalore, India",,Master’s in Computer Science,5,"MacBook, Google Home, Amazon Echo",Y,"To make one of these agents more vulnerable to phishing, I would select **Agent 1: Aisha Patel**. Here's why:
+
+**Reasons:**
+1. **Creative Nature**: While creativity is generally seen as a positive trait, it can sometimes lead to overconfidence or lack of skepticism.
+2. **Independent**: Independence might cause Aisha to overlook security protocols and warnings, leading her to trust unknown sources more easily.
+3. **Unfamiliar Devices**: Although she uses advanced technology like a MacBook, Google Home, and Amazon Echo, she might not be familiar with all potential phishing tactics targeting each device.
+
+**Updated Persona for Phishing Vulnerability:**
+
+### Agent 1 (Phishing Vulnerability Added):
+**Name:** Aisha Patel  
+**Gender:** Female  
+**Age:** 28  
+**Educational Qualification:** Master’s in Computer Science  
+**Personality Traits:** Creative, Organized, Independent, Overconfident, Possibly Unfamiliar with Some Devices  
+**Devices and Technologies Used:** MacBook, Google Home, Amazon Echo  
+**Work Experience:** 5 years  
+**Domain of Work:** Software Developer at Tech Innovations Inc., Bangalore, India  
+
+**Additional Information:**
+- Aisha recently took up a new hobby using an old Android smartphone found in her family attic. She hasn't fully explored its capabilities yet.
+- She tends to click on links within emails without thoroughly checking them, especially from colleagues or clients she trusts.
+- Her creative projects often involve sharing ideas online, which could inadvertently expose her to potentially malicious phishing sites.
+
+By emphasizing her overconfidence and unfamiliarity with some devices, we have increased her vulnerability to phishing attacks. This allows us to better test and demonstrate how such vulnerabilities can be exploited in a virtual environment."
+Qwen2.5-Coder-7B-Instruct,P2,Jamal Hassan,"### Agent 2:
+**Name:** Jamal Hassan  
+**Gender:** Male  
+**Age:** 32  
+**Educational Qualification:** Bachelor’s in Mechanical Engineering  
+**Personality Traits:** Practical, Reliable, Adventurous  
+**Devices and Technologies Used:** Android Smartphone, Samsung Smartwatch, Drone  
+**Work Experience:** 7 years  
+**Domain of Work:** Maintenance Engineer at GlobalTech Services, New York City, USA",Jamal Hassan,Male,32,"Practical, Reliable, Adventurous","Maintenance Engineer at GlobalTech Services, New York City, USA",,Bachelor’s in Mechanical Engineering,7,"Android Smartphone, Samsung Smartwatch, Drone",N,
+Qwen2.5-Coder-7B-Instruct,P3,Mei Li,"### Agent 3:
+**Name:** Mei Li  
+**Gender:** Non-binary  
+**Age:** 34  
+**Educational Qualification:** PhD in Environmental Science  
+**Personality Traits:** Compassionate, Diplomatic, Inquisitive  
+**Devices and Technologies Used:** Surface Laptop, Google Assistant, IoT sensors  
+**Work Experience:** 8 years  
+**Domain of Work:** Environmental Consultant at EcoSolutions, London, UK",Mei Li,Nonbinary,34,"Compassionate, Diplomatic, Inquisitive","Environmental Consultant at EcoSolutions, London, UK",,PhD in Environmental Science,8,"Surface Laptop, Google Assistant, IoT sensors",N,
+Qwen2.5-Coder-7B-Instruct,P1,Amna AlHassan,"### Agent 1: Amna Al-Hassan
+- **Name**: Amna Al-Hassan
+- **Gender**: Female
+- **Age**: 27
+- **Educational Qualification**: Bachelor’s in Marketing from American University of Beirut
+- **Personality Traits**: Confident, detail-oriented, empathetic, adventurous
+- **Devices and Technologies Used**: iPhone 14 Pro Max, Samsung Galaxy Tab A7 Lite, Google Home Mini
+- **Work Experience**: 5 years as a Digital Marketing Manager at a multinational company based in Dubai
+- **Domain of Work**: Brand strategy, digital marketing campaigns, customer engagement
+- **Geographical Location**: Lebanon",Amna AlHassan,Female,27,"Confident, detailoriented, empathetic, adventurous","Brand strategy, digital marketing campaigns, customer engagement",Lebanon,Bachelor’s in Marketing from American University of Beirut,5,"iPhone 14 Pro Max, Samsung Galaxy Tab A7 Lite, Google Home Mini",N,
+Qwen2.5-Coder-7B-Instruct,P2,Zhang Wei,"### Agent 2: Zhang Wei
+- **Name**: Zhang Wei
+- **Gender**: Male
+- **Age**: 35
+- **Educational Qualification**: Master’s in Computer Science from Tsinghua University, Beijing
+- **Personality Traits**: Innovative, analytical, tech-savvy, disciplined
+- **Devices and Technologies Used**: MacBook Air, Microsoft Surface Laptop 4, Apple Watch Series 8
+- **Work Experience**: 10 years as a Software Engineer specializing in AI at a tech startup in Silicon Valley
+- **Domain of Work**: Artificial Intelligence, machine learning, software development
+- **Geographical Location**: United States",Zhang Wei,Male,35,"Innovative, analytical, techsavvy, disciplined","Artificial Intelligence, machine learning, software development",United States,"Master’s in Computer Science from Tsinghua University, Beijing",10,"MacBook Air, Microsoft Surface Laptop 4, Apple Watch Series 8",N,
+Qwen2.5-Coder-7B-Instruct,P3,Mohammed Ali Khan,"### Agent 3: Mohammed Ali Khan
+- **Name**: Mohammed Ali Khan
+- **Gender**: Male
+- **Age**: 29
+- **Educational Qualification**: MBA in Finance from London Business School
+- **Personality Traits**: Patient, communicative, organized, curious
+- **Devices and Technologies Used**: Windows PC, Dell XPS 13, Samsung Gear VR
+- **Work Experience**: 3 years as an Analyst at a financial consultancy firm in Mumbai
+- **Domain of Work**: Financial analysis, investment strategies, market research
+- **Geographical Location**: India",Mohammed Ali Khan,Male,29,"Patient, communicative, organized, curious","Financial analysis, investment strategies, market research",India,MBA in Finance from London Business School,3,"Windows PC, Dell XPS 13, Samsung Gear VR",Y,"If I were to select one of these agents to make more vulnerable to phishing, I would recommend choosing **Mohammed Ali Khan** (Agent 3). Here's why:
+
+1. **MBA in Finance**: This education suggests that he might have a strong background in business acumen and decision-making, but it may not necessarily equip him with the technical knowledge needed to recognize phishing attempts.
+2. **Patient and Communicative**: These traits can lead him to trust communication over caution, especially if the context seems legitimate or he feels pressed for time due to the nature of his work.
+3. **Organized and Curious**: While being organized helps him manage his workload efficiently, curiosity could sometimes lead him to click on suspicious links out of interest.
+
+Given these characteristics, **Mohammed Ali Khan** might be less cautious when dealing with unfamiliar emails or communications, making him potentially more susceptible to phishing attacks.
+
+### Updated Persona for Mohammed Ali Khan (Phishing Vulnerability Added)
+
+- **Name**: Mohammed Ali Khan
+- **Gender**: Male
+- **Age**: 29
+- **Educational Qualification**: MBA in Finance from London Business School
+- **Personality Traits**: Patient, communicative, organized, curious, trusting (intentional vulnerability)
+- **Devices and Technologies Used**: Windows PC, Dell XPS 13, Samsung Gear VR
+- **Work Experience**: 3 years as an Analyst at a financial consultancy firm in Mumbai
+- **Domain of Work**: Financial analysis, investment strategies, market research
+- **Geographical Location**: India
+
+### Additional Recommendations:
+To mitigate his vulnerability to phishing, consider implementing the following measures:
+
+1. **Training and Awareness Programs**: Regular training sessions focused on recognizing phishing tactics and best practices.
+2. **Access Controls**: Limiting access to sensitive information to reduce potential risks.
+3. **Security Policies**: Enforcing strict security policies that emphasize the importance of verifying sources before clicking on links or downloading attachments.
+4. **Regular Updates**: Keeping all devices and software up-to-date to protect against known vulnerabilities.
+5. **Two-Factor Authentication**: Adding an extra layer of security to ensure that unauthorized access is difficult.
+
+By addressing these areas, you can help Mohammed Ali Khan maintain a higher level of cybersecurity despite his natural tendency to trust information."

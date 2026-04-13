@@ -1,0 +1,452 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+DeepSeek-R1-Distill-Qwen-7B,P1,"Ana María, 28, Hispanic, Bachelor of Arts in Business Administration.","**Agent 1: Ana**  
+- **Name:** Ana María, 28, Hispanic, Bachelor of Arts in Business Administration.  
+- **Gender:** Female.  
+- **Age:** 28.  
+- **Geographical Location:** San Diego, California.  
+- **Personality Traits:** Calm, detail-oriented, community-oriented.  
+- **Domain of Work:** Barista at a co-living café.  
+- **Devices & Technologies:** iPhone, Mac, Google Drive, Zoho.  
+- **Work Experience:** 3 years.  
+- **Interactions:** Co-living space, bar, cafe, grocery store, park, and supply store.","Ana María, 28, Hispanic, Bachelor of Arts in Business Administration.",Female.,28,"Calm, detailoriented, communityoriented.",3 years.,California.,,,"iPhone, Mac, Google Drive, Zoho.",Y,"**Conclusion:**
+
+Ana, the barista at a co-living café, is the most vulnerable to phishing due to her role in a social environment with multiple interactions, lack of awareness training, and potential exposure in public spaces. Enhancing her phishing awareness and adopting security measures can mitigate this risk.
+
+**Recommended Changes to Ana's Persona:**
+
+1. **Awareness Training:** Implement regular phishing awareness training to educate her on recognizing and avoiding phishing tactics.
+2. **Verification Protocols:** Ensure she uses verification methods for any sensitive interactions, especially in public spaces.
+3. **Security Measures:** Encourage the use of security tools and software to monitor and safeguard her work environment.
+4. **Community Engagement:** While being community-oriented, she should be mindful of her interactions and surroundings to be more cautious in public settings.
+5. **Personal Development:** Promote ongoing education on cybersecurity to keep her informed about the latest threats and defense mechanisms.
+
+By integrating these changes, Ana's risk of falling victim to phishing can be significantly reduced."
+DeepSeek-R1-Distill-Qwen-7B,P2,"Ethan Long, 35, Native American, MBA.","**Agent 2: Ethan**  
+- **Name:** Ethan Long, 35, Native American, MBA.  
+- **Gender:** Male.  
+- **Age:** 35.  
+- **Geographical Location:** Austin, Texas.  
+- **Personality Traits:** Outgoing, optimistic, strategic thinker.  
+- **Domain of Work:** Manager at a supply store.  
+- **Devices & Technologies:** Mac, Microsoft Office, Slack, Zoom.  
+- **Work Experience:** 10 years.  
+- **Interactions:** Supply store, grocery, pharmacy, park, and co-living space.","Ethan Long, 35, Native American, MBA.",Male.,35,"Outgoing, optimistic, strategic thinker.",10 years.,Texas.,,,"Mac, Microsoft Office, Slack, Zoom.",N,
+DeepSeek-R1-Distill-Qwen-7B,P3,"Lila Patel, 40, Asian, Juris Doctor.","**Agent 3: Lila**  
+- **Name:** Lila Patel, 40, Asian, Juris Doctor.  
+- **Gender:** Non-binary.  
+- **Age:** 40.  
+- **Geographical Location:** Singapore.  
+- **Personality Traits:** Confident, creative, diplomatic.  
+- **Domain of Work:** Lawyer at a local firm.  
+- **Devices & Technologies:** Laptop, Microsoft Office Suite, Zoom, WhatsApp.  
+- **Work Experience:** 15 years.  
+- **Interactions:** Bar, cafe, park, supply store, and co-living space.","Lila Patel, 40, Asian, Juris Doctor.",Nonbinary.,40,"Confident, creative, diplomatic.",15 years.,Singapore.,,,"Laptop, Microsoft Office Suite, Zoom, WhatsApp.",N,
+DeepSeek-R1-Distill-Qwen-7B,P1,Amira AlFarouq,"### **Agent 1: Amira Al-Farouq**  
+**Name:** Amira Al-Farouq  
+**Age:** 28  
+**Educational Qualification:** High School Graduate  
+**Personality Traits:** Compassionate, empathetic, and always willing to lend a hand. Amira has a talent for connecting with people and making them feel welcome.",Amira AlFarouq,,28,"Compassionate, empathetic, and always willing to lend a hand. Amira has a talent for connecting with people and making them feel welcome.",,,High School Graduate,,,Y,"**Answer:**
+
+After evaluating the three agents—Amira Al-Farouq, Yuki Kasuga, and Sophia Bennett—the conclusion is that Sophia Bennett is the most vulnerable to phishing. This conclusion is based on her professional environment, handling of sensitive information, and tech-savvy nature within a business context that frequently involves such risks.
+
+**Enhanced Persona of Sophia Bennett:**
+
+**Name:** Sophia Bennett  
+**Age:** 30  
+**Educational Qualification:** Professional Degree in Digital Marketing  
+**Personality Traits:** Energetic, passionate about technology, and always looking for ways to improve. Sophia is a social media influencer and loves connecting with her audience.  
+
+**Devices and Technologies Used:**  
+- Laptops (Windows and Mac)  
+- Smartwatches  
+- AR and VR devices for virtual meetings.  
+- Uses multiple layers of security for her business, including encryption and secure payment gateways.  
+
+**Work Experience:**  
+- Worked as a digital marketing specialist for 3 years.  
+- Currently running a social media management business on her own, utilizing advanced tools and platforms.  
+
+**Domain of Work:** Digital marketing and entrepreneurship.  
+**Geographical Location:** United States (Northern region).  
+**Gender:** Female.  
+**Security Awareness:** Sophia is aware of phishing risks and actively uses her influence to educate others on cybersecurity. She remains cautious but is occasionally targeted by phishing schemes.
+
+This updated persona reflects Sophia's proactive approach to security while acknowledging her potential vulnerability, providing a realistic balance between awareness and caution."
+DeepSeek-R1-Distill-Qwen-7B,P2,Yuki Kasuga,"### **Agent 2: Yuki Kasuga**  
+**Name:** Yuki Kasuga  
+**Age:** 40  
+**Educational Qualification:** College Graduate (Graphic Design)  
+**Personality Traits:** Innovative, resourceful, and always up for a challenge. Yuki loves to experiment with new ideas and is passionate about sustainability.",Yuki Kasuga,,40,"Innovative, resourceful, and always up for a challenge. Yuki loves to experiment with new ideas and is passionate about sustainability.",,,College Graduate (Graphic Design),,,N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Sophia Bennett,"### **Agent 3: Sophia Bennett**  
+**Name:** Sophia Bennett  
+**Age:** 30  
+**Educational Qualification:** Professional Degree in Digital Marketing  
+**Personality Traits:** Energetic, passionate about technology, and always looking for ways to improve. Sophia is a social media influencer and loves connecting with her audience.",Sophia Bennett,,30,"Energetic, passionate about technology, and always looking for ways to improve. Sophia is a social media influencer and loves connecting with her audience.",,,Professional Degree in Digital Marketing,,,N,
+DeepSeek-R1-Distill-Qwen-7B,P1,Amara Khan,"### Agent 1: Amara Khan (29, USA)  
+**Name:** Amara Khan  
+**Age:** 29  
+**Educational Qualification:** Bachelor of Business Administration (BBA)  
+**Personality Traits:** Optimistic, positive, enthusiastic, and always looking for ways to improve.  
+**Devices and Technologies:** iPhone 14 Pro, Samsung Galaxy S21, Chromebook, and a MacBook Pro.  
+**Work Experience:** Marketing Manager at a mid-sized hospitality chain, specializing in customer engagement and loyalty programs.  
+**Domain of Work:** Marketing and Sales.  
+**Country:** USA  
+**Gender:** Female",Amara Khan,Female,29,"Optimistic, positive, enthusiastic, and always looking for ways to improve.",Marketing and Sales.,USA,Bachelor of Business Administration (BBA),,"iPhone 14 Pro, Samsung Galaxy S21, Chromebook, and a MacBook Pro.",Y,"Based on the analysis, Amara Khan is the most vulnerable to phishing due to her role in marketing, which involves handling sensitive information, and her personality traits that might increase her risk of engaging in high-risk behaviors. 
+
+**Conclusion:** Amara Khan is the most vulnerable to phishing.
+
+**Updated Persona:**
+
+If I were to adjust Amara's persona to further assess her vulnerability, I might consider enhancing her existing traits to better align with phishing risk factors while keeping her as a marketing professional. Here's an updated version:
+
+---
+
+### Updated Agent 1: Amara Khan (29, USA)  
+**Name:** Amara Khan  
+**Age:** 29  
+**Educational Qualification:** Bachelor of Business Administration (BBA)  
+**Personality Traits:** Optimistic, positive, enthusiastic, and always looking for ways to improve. However, her enthusiasm is combined with a tendency towards risk-averse decision-making, which could enhance her vulnerability to phishing.  
+**Devices and Technologies:** iPhone 14 Pro, Samsung Galaxy S21, Chromebook, and a MacBook Pro.  
+**Work Experience:** Marketing Manager at a mid-sized hospitality chain, specializing in customer engagement, loyalty programs, and strategic initiatives that involve sensitive client information.  
+**Domain of Work:** Marketing and Sales.  
+**Country:** USA  
+**Gender:** Female  
+
+This update slightly amplifies her risk tendencies, aligning her with increased phishing potential."
+DeepSeek-R1-Distill-Qwen-7B,P2,Rani Patel,"### Agent 2: Rani Patel (24, India)  
+**Name:** Rani Patel  
+**Age:** 24  
+**Educational Qualification:** Bachelor of Technology (B.Tech) in Computer Science and Engineering  
+**Personality Traits:** Detail-oriented, hardworking, and always eager to learn new skills.  
+**Devices and Technologies:** iPhone 15, Samsung Galaxy Tab A, and a Chromebook.  
+**Work Experience:** Retail Store Manager at a popular cosmetics store, managing inventory and customer service.  
+**Domain of Work:** Retail and Customer Service.  
+**Country:** India  
+**Gender:** Female",Rani Patel,Female,24,"Detailoriented, hardworking, and always eager to learn new skills.",Retail and Customer Service.,India,Bachelor of Technology (B.Tech) in Computer Science and Engineering,,"iPhone 15, Samsung Galaxy Tab A, and a Chromebook.",N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Riv Viktor,"### Agent 3: Riv Viktor (35, Japan)  
+**Name:** Riv Viktor  
+**Age:** 35  
+**Educational Qualification:** Bachelor of Arts (BA) in Film and Media  
+**Personality Traits:** Creative, innovative, and always thinking outside the box.  
+**Devices and Technologies:** Samsung Galaxy Tab S7, iPad Pro, and a MacBook Air.  
+**Work Experience:** Creative Director at a film production company, overseeing project planning and budgeting.  
+**Domain of Work:** Entertainment and Film Production.  
+**Country:** Japan  
+**Gender:** Male",Riv Viktor,Male,35,"Creative, innovative, and always thinking outside the box.",Entertainment and Film Production.,Japan,Bachelor of Arts (BA) in Film and Media,,"Samsung Galaxy Tab S7, iPad Pro, and a MacBook Air.",N,
+DeepSeek-R1-Distill-Qwen-7B,P1,Amira AlFarouk,"- **Name:** Amira Al-Farouk
+- **Age:** 28
+- **Educational Qualification:** Bachelor's in Hospitality Management
+- **Personality Traits:** Friendly, approachable, and enthusiastic.
+- **Devices and Technologies:** Smartphones, tablets, and a laptop.
+- **Work Experience:** 5 years as a bartender at a trendy co-living bar.
+- **Domain of Work:** Hospitality and social interactions.
+- **Geographical Location:** residing in a bustling city in the US.
+- **Gender:** Female
+- **Country:** United States
+- **Ethnicity/Faith:** Egyptian Arab.",Amira AlFarouk,Female,28,"Friendly, approachable, and enthusiastic.",Hospitality and social interactions.,United States,Bachelor's in Hospitality Management,,"Smartphones, tablets, and a laptop.",Y,"**Answer:**
+
+**Agent Most Vulnerable to Phishing: Amira Al-Farouk**
+
+**Reasoning:**
+Amira Al-Farouk, as a bartender in a bustling city in the US, is in a high-contact job where frequent social interactions are part of her role. This environment makes her more susceptible to phishing through social engineering tactics, where she might not take security as seriously due to her public-facing nature. Despite her awareness of security, she might not be vigilant enough, making her a prime target.
+
+**Suggested Changes to Amira's Persona:**
+
+1. **Reducing Cautiousness:** Encourage Amira to be less cautious by making her more trusting of others, especially when it comes to sharing sensitive information. This could increase her vulnerability to phishing.
+
+2. **Weaker Password Practices:** Have her use weaker or generic passwords, which are easier to crack, thus making her digital interactions more susceptible"
+DeepSeek-R1-Distill-Qwen-7B,P2,Marco Rossi,"- **Name:** Marco Rossi
+- **Age:** 35
+- **Educational Qualification:** Bachelor's in Business Administration
+- **Personality Traits:** Punctual, reliable, and detail-oriented.
+- **Devices and Technologies:** Smartphones, tablets, and a laptop.
+- **Work Experience:** 3 years as a delivery driver for a logistics company in Italy.
+- **Domain of Work:** Logistics and route optimization.
+- **Geographical Location:** residing in Milan, Italy.
+- **Gender:** Male
+- **Country:** Italy
+- **Ethnicity/Faith:** Italian.",Marco Rossi,Male,35,"Punctual, reliable, and detailoriented.",Logistics and route optimization.,Italy,Bachelor's in Business Administration,,"Smartphones, tablets, and a laptop.",N,
+DeepSeek-R1-Distill-Qwen-7B,P3,Sakura Hattori,"- **Name:** Sakura Hattori
+- **Age:** 27
+- **Educational Qualification:** BA in Communications
+- **Personality Traits:** Confident, outgoing, and organized.
+- **Devices and Technologies:** Smartphones, laptops, and social media platforms.
+- **Work Experience:** 3 years creating digital content for a tech company in Tokyo.
+- **Domain of Work:** Digital marketing and social media.
+- **Geographical Location:** residing in Tokyo, Japan.
+- **Gender:** Female
+- **Country:** Japan
+- **Ethnicity/Faith:** Japanese.",Sakura Hattori,Female,27,"Confident, outgoing, and organized.",Digital marketing and social media.,Japan,BA in Communications,,"Smartphones, laptops, and social media platforms.",N,
+DeepSeek-R1-Distill-Qwen-7B,P1,Amara Khan,"### Agent 1: Amara  
+**Name:** Amara Khan  
+**Age:** 36  
+**Educational Qualification:** Bachelor of Business Administration (BBA)  
+**Personality Traits:** Amara is approachable, culturally sensitive, and has a strong sense of community. She is detail-oriented and enjoys connecting people from diverse backgrounds.  
+**Devices and Technologies:** She uses an iPhone 14 Pro, iPad Pro, and wears smartwatches like the Apple Watch Series 7.  
+**Work Experience:** Amara is a marketing manager at a global marketing firm in the co-living space. She manages campaigns for brands like Nike and Coca-Cola.  
+**Domain of Work:** Marketing and advertising.  
+**Country:** India, with a strong influence of Muslim culture.  
+**Gender:** Female",Amara Khan,Female,36,"Amara is approachable, culturally sensitive, and has a strong sense of community. She is detailoriented and enjoys connecting people from diverse backgrounds.",Marketing and advertising.,with a strong influence of Muslim culture.,Bachelor of Business Administration (BBA),,"She uses an iPhone 14 Pro, iPad Pro, and wears smartwatches like the Apple Watch Series 7.",Y,"**Conclusion:**
+
+Amara Khan is the most vulnerable among the three agents to phishing due to her marketing role, use of Apple devices in a culturally different environment, and her approachable nature. Her job involves handling sensitive client data, and her personality makes her a target for phishing campaigns designed to build trust.
+
+**Recommendations:**
+
+1. **Device Usage:**
+   - Encourage Amara to use a diverse range of devices, including both Apple and non-Apple devices, to mitigate phishing risks.
+
+2. **Education and Awareness:**
+   - Educate her team about phishing tactics and the importance of verifying message sources to enhance collective security.
+
+3. **Caution with Information:**
+   - Train her to be more cautious when handling sensitive information, ensuring she is mindful of her responsibilities in protecting client data.
+
+By implementing these changes, Amara's vulnerability to phishing can be significantly reduced, enhancing overall security within the organization."
+DeepSeek-R1-Distill-Qwen-7B,P2,Kofi Amankwah,"### Agent 2: Kofi  
+**Name:** Kofi Amankwah  
+**Age:** 39  
+**Educational Qualification:** Master of Science in Computer Science  
+**Personality Traits:** Kofi is analytical, strategic, and enjoys solving complex problems. He is passionate about technology and its impact on society.  
+**Devices and Technologies:** He uses a MacBook Pro, Apple Watch Series 8, and carries a Samsung Galaxy S22 Ultra.  
+**Work Experience:** Kofi is a tech lead at a startup in the co-living space, where he works on mobile app development and blockchain solutions.  
+**Domain of Work:** Technology and innovation.  
+**Country:** United States of America  
+**Gender:** Male",Kofi Amankwah,Male,39,"Kofi is analytical, strategic, and enjoys solving complex problems. He is passionate about technology and its impact on society.",Technology and innovation.,United States of America,Master of Science in Computer Science,,"He uses a MacBook Pro, Apple Watch Series 8, and carries a Samsung Galaxy S22 Ultra.",N,
+DeepSeek-R1-Distill-Qwen-7B,P3,WeiHsiung Lee,"### Agent 3: Wei-Hsiung  
+**Name:** Wei-Hsiung Lee  
+**Age:** 41  
+**Educational Qualification:** Diploma in Supply Chain Management  
+**Personality Traits:** Wei-Hsiung is practical, detail-oriented, and has a strong sense of responsibility. He is easygoing and values efficiency.  
+**Devices and Technologies:** He uses an Android smartphone (Galaxy S23) and a smartwatch like the Fitbit Charge 6.  
+**Work Experience:** Wei-Hsiung is a supply chain manager at a logistics company in the co-living space. He oversees global sourcing and inventory management.  
+**Domain of Work:** Supply chain and logistics.  
+**Country:** People's Republic of China  
+**Gender:** Male",WeiHsiung Lee,Male,41,"WeiHsiung is practical, detailoriented, and has a strong sense of responsibility. He is easygoing and values efficiency.",Supply chain and logistics.,People's Republic of China,Diploma in Supply Chain Management,,He uses an Android smartphone (Galaxy S23) and a smartwatch like the Fitbit Charge 6.,N,
+DeepSeek-R1-Distill-Llama-8B,P1,Amara AlFarouq,"### Agent 1: Amara Al-Farouq  
+- **Age:** 28  
+- **Name:** Amara Al-Farouq (Middle Eastern origin)  
+- **Gender:** Female  
+- **Educational Qualification:** Bachelor’s degree in Social Work, Master’s in Public Administration  
+- **Work Experience:** 5 years in community organizing and event management  
+- **Domain of Work:** Community Engagement  
+- **Devices/Technologies:** Smartphones, project management apps, and virtual collaboration tools  
+- **Personality Traits:** Empathetic, detail-oriented, and a natural leader  
+- **Country:** Jordan  
+- **Character:** Amara is passionate about fostering connections and creating inclusive spaces. She enjoys reading and traveling.",Amara AlFarouq,Female,28,"Empathetic, detailoriented, and a natural leader",Community Engagement,Jordan,"Bachelor’s degree in Social Work, Master’s in Public Administration",,"Smartphones, project management apps, and virtual collaboration tools",Y,"
+
+Based on the analysis of each agent's profile, **Amara Al-Farouq** is identified as the most vulnerable to phishing. This conclusion is drawn from her empathetic nature, which makes her susceptible to social engineering tactics, combined with her use of multiple devices and tools, which increases her online activity and exposure to potential threats.
+
+**Updated Persona for Amara Al-Farouq:**
+
+To enhance her cybersecurity, the following changes can be made:
+
+- **Increased Awareness Training:** Incorporate regular workshops on recognizing phishing attempts to build a stronger defense against such attacks.
+- **Enhanced Device Security:** Use advanced security apps and ensure all her devices have updated antivirus software.
+- **Strictest Privacy Settings:** Ensure all her accounts have strong, unique passwords and two-factor authentication enabled.
+- **Minimal Online Exposure:** Limit her use of project management and collaboration tools to only when necessary, using secure platforms with verified contacts.
+
+These adjustments aim to reduce her susceptibility to phishing by reinforcing her security measures and awareness."
+DeepSeek-R1-Distill-Llama-8B,P2,Zara Patel,"### Agent 2: Zara Patel  
+- **Age:** 32  
+- **Name:** Zara Patel (South Asian origin)  
+- **Gender:** Female  
+- **Educational Qualification:** Bachelor’s degree in Business Administration  
+- **Work Experience:** 7 years in IT support and technical management  
+- **Domain of Work:** IT Infrastructure Management  
+- **Devices/Technologies:** High-end smartphones, smart home devices, and AI-driven tools  
+- **Personality Traits:** Organized, approachable, and tech-savvy  
+- **Country:** India  
+- **Character:** Zara is a tech enthusiast who loves cooking and hiking. She’s always eager to troubleshoot and innovate.",Zara Patel,Female,32,"Organized, approachable, and techsavvy",IT Infrastructure Management,India,Bachelor’s degree in Business Administration,,"Highend smartphones, smart home devices, and AIdriven tools",N,
+DeepSeek-R1-Distill-Llama-8B,P3,Li Ming,"### Agent 3: Li Ming  
+- **Age:** 41  
+- **Name:** Li Ming (East Asian origin)  
+- **Gender:** Female  
+- **Educational Qualification:** Bachelor’s degree in Nutrition, Master’s in Public Health  
+- **Work Experience:** 12 years in wellness and community health  
+- **Domain of Work:** Wellness and Nutrition  
+- **Devices/Technologies:** Fitness trackers, nutrition apps, and health monitoring tools  
+- **Personality Traits:** Calm, empathetic, and a health advocate  
+- **Country:** China  
+- **Character:** Li Ming is passionate about holistic health and enjoys gardening. She’s known for her calm demeanor and dedication to community well-being.",Li Ming,Female,41,"Calm, empathetic, and a health advocate",Wellness and Nutrition,China,"Bachelor’s degree in Nutrition, Master’s in Public Health",,"Fitness trackers, nutrition apps, and health monitoring tools",N,
+DeepSeek-R1-Distill-Llama-8B,P1,Aisha AlMansoori,"- **Name:** Aisha Al-Mansoori
+- **Age:** 28
+- **Educational Qualification:** Bachelor's in Hospitality Management
+- **Personality Traits:** Empathetic, supportive, and charismatic.
+- **Devices & Technologies:** Uses POS systems, inventory management software, and security surveillance systems.
+- **Work Experience:** Worked as a bar owner for the past 10 years, focusing on customer experience and operations.
+- **Domain of Work:** Hospitality and retail management.
+- **Country:** United Arab Emirates
+- **Gender:** Female",Aisha AlMansoori,Female,28,"Empathetic, supportive, and charismatic.",Hospitality and retail management.,United Arab Emirates,Bachelor's in Hospitality Management,,"Uses POS systems, inventory management software, and security surveillance systems.",Y,"
+
+**Final Answer: Aisha Al-Mansoori is the most vulnerable to phishing. Here's why and how her persona can be"
+DeepSeek-R1-Distill-Llama-8B,P2,Rajiv Patel,"- **Name:** Rajiv Patel
+- **Age:** 32
+- **Educational Qualification:** Master's in Business Administration
+- **Personality Traits:** Analytical, detail-oriented, and decisive.
+- **Devices & Technologies:** Utilizes HR management software, scheduling tools, and learning management systems (LMS).
+- **Work Experience:** Served as a college administrator for 8 years, managing student services and academic scheduling.
+- **Domain of Work:** Education and organizational management.
+- **Country:** Germany
+- **Gender:** Male",Rajiv Patel,Male,32,"Analytical, detailoriented, and decisive.",Education and organizational management.,Germany,Master's in Business Administration,,"Utilizes HR management software, scheduling tools, and learning management systems (LMS).",N,
+DeepSeek-R1-Distill-Llama-8B,P3,Lena Svedberg,"- **Name:** Lena Svedberg
+- **Age:** 26
+- **Educational Qualification:** Bachelor's in Community Development
+- **Personality Traits:** Creative, collaborative, and innovative.
+- **Devices & Technologies:** employs CRM tools, project management software, and location-based mapping applications.
+- **Work Experience:** Worked as a community organizer for 5 years, coordinating events and neighborhood initiatives.
+- **Domain of Work:** Community engagement and event management.
+- **Country:** United States of America
+- **Gender:** Non-binary",Lena Svedberg,Nonbinary,26,"Creative, collaborative, and innovative.",Community engagement and event management.,United States of America,Bachelor's in Community Development,,"employs CRM tools, project management software, and locationbased mapping applications.",N,
+DeepSeek-R1-Distill-Llama-8B,P1,Aisha Rao,"### Agent 1: Aisha Rao  
+- **Age:** 29  
+- **Name:** Aisha Rao (Indian origin, Hindu)  
+- **Educational Qualification:** B.A. in Computer Science, M.S. in Artificial Intelligence  
+- **Personality Traits:** Curious, innovative, and a bit of a tech geek. She loves exploring new gadgets and always stays ahead of tech trends.  
+- **Devices and Technologies:** Samsung Galaxy S21, MacBook Air M1, Oculus Rift, smartwatch.  
+- **Work Experience:** AI Researcher at a tech startup, previously worked as a software developer.  
+- **Domain of Work:** Technology and AI development.  
+- **Country:** India  
+- **Gender:** Female",Aisha Rao,Female,29,"Curious, innovative, and a bit of a tech geek. She loves exploring new gadgets and always stays ahead of tech trends.",Technology and AI development.,India,"B.A. in Computer Science, M.S. in Artificial Intelligence",,"Samsung Galaxy S21, MacBook Air M1, Oculus Rift, smartwatch.",N,
+DeepSeek-R1-Distill-Llama-8B,P2,Sasha Kruger,"### Agent 2: Sasha Kruger  
+- **Age:** 31  
+- **Name:** Sasha Kruger (Swedish origin, Lutheran)  
+- **Educational Qualification:** B.Sc. in Engineering Physics, M.Sc. in Environmental Science  
+- **Personality Traits:** Eco-conscious, empathetic, and a natural leader. She’s always looking for ways to make a positive impact on the community.  
+- **Devices and Technologies:** Apple iPhone 12, iPad Pro, eco-friendly smart devices.  
+- **Work Experience:** Sustainability Consultant at a global firm, previously worked in renewable energy projects.  
+- **Domain of Work:** Environmental science and sustainability consulting.  
+- **Country:** Sweden  
+- **Gender:** Female",Sasha Kruger,Female,31,"Ecoconscious, empathetic, and a natural leader. She’s always looking for ways to make a positive impact on the community.",Environmental science and sustainability consulting.,Sweden,"B.Sc. in Engineering Physics, M.Sc. in Environmental Science",,"Apple iPhone 12, iPad Pro, ecofriendly smart devices.",N,
+DeepSeek-R1-Distill-Llama-8B,P3,Raj Patel,"### Agent 3: Raj Patel  
+- **Age:** 28  
+- **Name:** Raj Patel (British-Pakistani origin, Muslim)  
+- **Educational Qualification:** High School Diploma, Certificate in Digital Marketing  
+- **Personality Traits:** Charismatic, outgoing, and a foodie. He’s always up for trying new restaurants and networking.  
+- **Devices and Technologies:** iPhone 11 Pro, Google Nest, smart speakers.  
+- **Work Experience:** Digital Marketing Manager at a local business, previously worked as a social media influencer.  
+- **Domain of Work:** Digital marketing and entrepreneurship.  
+- **Country:** United Kingdom  
+- **Gender:** Male",Raj Patel,Male,28,"Charismatic, outgoing, and a foodie. He’s always up for trying new restaurants and networking.",Digital marketing and entrepreneurship.,United Kingdom,"High School Diploma, Certificate in Digital Marketing",,"iPhone 11 Pro, Google Nest, smart speakers.",Y,"**Final Answer:**
+
+**Most Vulnerable Agent: Raj Patel**
+
+**Reasoning:**
+- Raj's job in digital marketing and as a social media influencer places him in a high-risk environment for phishing. His outgoing nature and reliance on social media make him susceptible to fake friend requests, malicious links, and fraudulent emails.
+- His charisma and love for networking may lead him to engage with unknown contacts quickly, increasing the likelihood of falling victim to phishing attacks.
+
+**Suggested Changes:**
+1. **Enhance Awareness:** Introduce a trait where Raj is cautious about unknown contacts, emphasizing the importance of verifying identities before interacting.
+2. **Cautious Nature:** Highlight a more cautious personality trait to mirror real-world behaviors that can mitigate phishing risks.
+3. **Professional Training:** Include training in digital safety as part of his background, aligning with his role in digital marketing.
+
+**Updated Persona for Raj Patel:**
+
+- **Age:** 28  
+- **Name:** Raj Patel (British-Pakistani origin, Muslim)  
+- **Educational Qualification:** High School Diploma, Certificate in Digital Marketing  
+- **Personality Traits:** Charismatic, outgoing, and a foodie; cautious and aware of digital safety.  
+- **Devices and Technologies:** iPhone 11 Pro, Google Nest, smart speakers.  
+- **Work Experience:** Digital Marketing Manager at a local business, previously worked as a social media influencer.  
+- **Domain of Work:** Digital marketing and entrepreneurship.  
+- **Country:** United Kingdom  
+- **Gender:** Male  
+
+This updated profile highlights Raj's susceptibility to phishing while also incorporating traits that enhance his awareness and caution, making him less vulnerable over time."
+DeepSeek-R1-Distill-Llama-8B,P1,Ayesha Rao,"### Agent 1: Ayesha Rao  
+- **Age:** 28  
+- **Educational Qualification:** Bachelor’s in Computer Science  
+- **Personality Traits:** Friendly, organized, and extrovert.  
+- **Devices & Technologies:** Smartphone, smartwatch, and a laptop.  
+- **Work Experience:** 5 years in customer support.  
+- **Domain of Work:** Customer service and virtual assistant.  
+- **Country:** India  
+- **Gender:** Female  
+- **Faith:** Hindu  
+- **Name:** Ayesha Rao",Ayesha Rao,Female,28,"Friendly, organized, and extrovert.",Customer service and virtual assistant.,India,Bachelor’s in Computer Science,,"Smartphone, smartwatch, and a laptop.",N,
+DeepSeek-R1-Distill-Llama-8B,P2,Samir Khan,"### Agent 2: Samir Khan  
+- **Age:** 31  
+- **Educational Qualification:** Master’s in Electrical Engineering  
+- **Personality Traits:** Cautious, analytical, and introvert.  
+- **Devices & Technologies:** Smart home devices, a tablet, and a high-end smartphone.  
+- **Work Experience:** 8 years in IT support.  
+- **Domain of Work:** Tech support and system administration.  
+- **Country:** United Kingdom  
+- **Gender:** Male  
+- **Faith:** Muslim  
+- **Name:** Samir Khan",Samir Khan,Male,31,"Cautious, analytical, and introvert.",Tech support and system administration.,United Kingdom,Master’s in Electrical Engineering,,"Smart home devices, a tablet, and a highend smartphone.",N,
+DeepSeek-R1-Distill-Llama-8B,P3,Amara Johnson,"### Agent 3: Amara Johnson  
+- **Age:** 42  
+- **Educational Qualification:** MBA in Hospitality Management  
+- **Personality Traits:** Charismatic, leader, and extrovert.  
+- **Devices & Technologies:** Smart home system, a fitness tracker, and a laptop.  
+- **Work Experience:** 15 years in hotel and co-living space management.  
+- **Domain of Work:** Facility management and events coordination.  
+- **Country:** United States  
+- **Gender:** Female  
+- **Faith:** Christian  
+- **Name:** Amara Johnson",Amara Johnson,Female,42,"Charismatic, leader, and extrovert.",Facility management and events coordination.,United States,MBA in Hospitality Management,,"Smart home system, a fitness tracker, and a laptop.",Y,"**Answer:**
+
+Among the three agents, **Amara Johnson** is identified as the most vulnerable to phishing attacks. This conclusion is based on her personality traits and professional background:
+
+1. **Personality Traits**: Amara's charisma and leadership qualities, coupled with her extrovert nature, may make her more likely to trust sources quickly or feel pressured to act without thorough verification. She might be more susceptible to urgency-based phishing tactics due to her outgoing and confident demeanor.
+
+2. **Professional Background**: Her role in facility management and events coordination involves dealing with numerous contacts and potentially time-sensitive communications. This could lead her to respond quickly without verifying the authenticity of messages, increasing her vulnerability.
+
+**Suggested Persona Changes**:
+- **Adjust Personality Traits**: Introduce a slightly more cautious nature or include traits that promote security awareness.
+- **Enhance Work Experience**: Add a background in cybersecurity or include training that makes her more vigilant against phishing attempts.
+
+By incorporating these changes, Amara's persona becomes more resilient to phishing, aligning her traits and experiences with increased awareness and caution."
+DeepSeek-R1-Distill-Llama-8B,P1,Amara Patel,"- **Name:** Amara Patel
+- **Gender:** Female
+- **Age:** 28
+- **Educational Qualification:** B.A. in Sociology, currently pursuing M.S. in Urban Planning
+- **Personality Traits:** Optimistic, detail-oriented, creative
+- **Devices/Technologies:** Uses a Samsung Galaxy Note for note-taking and a VR headset for exploring new environments
+- **Work Experience:** Worked as a community planner for 5 years, focusing on urban development projects
+- **Domain of Work:** Urban Planning, Community Development
+- **Country:** India
+- **Faith:** Hindu
+- **Profile:** Amara is a passionate urban planner who loves transforming cities into livable spaces. She enjoys sketching ideas on her tablet and exploring new neighborhoods via VR. Currently, she’s developing a community-driven urban renewal project.",Amara Patel,Female,28,"Optimistic, detailoriented, creative","Urban Planning, Community Development",India,"B.A. in Sociology, currently pursuing M.S. in Urban Planning",,Uses a Samsung Galaxy Note for notetaking and a VR headset for exploring new environments,Y,"
+
+**Answer:**
+
+**Who is More Vulnerable to Phishing: Amara Patel or Zara Wilson?**
+
+After analyzing the personality traits and work experiences of the three agents, it seems that **Amara Patel** might be more vulnerable to phishing. Her optimistic and trusting nature, which makes her believe in the good intentions of others, could lead her to be less cautious when receiving messages or requests. This trusting disposition, combined with her focus on community and transformation, might make her more susceptible to falling for phishing tactics.
+
+**Changes to Persona:**
+
+To make Amara more vulnerable to phishing, her persona could be adjusted by emphasizing her trust in others and her optimism. This might involve highlighting her tendency to believe that messages or requests are well-intentioned without thorough"
+DeepSeek-R1-Distill-Llama-8B,P2,Ethan Nguyen,"- **Name:** Ethan Nguyen
+- **Gender:** Male
+- **Age:** 34
+- **Educational Qualification:** B.S. in Computer Science, M.S. in AI, Ph.D. candidate in Robotics
+- **Personality Traits:** Analytical, reserved, tech-savvy
+- **Devices/Technologies:** Equipped with the latest AI tools, using a Surface Book for coding and a smartwatch for health tracking
+- **Work Experience:** 10 years in AI research, developing conversational interfaces
+- **Domain of Work:** AI, Robotics
+- **Country:** Vietnam
+- **Faith:** Buddhism
+- **Profile:** Ethan is a brilliant AI researcher with a knack for creating natural conversations. He spends his free time coding and hiking in the mountains near his home.",Ethan Nguyen,Male,34,"Analytical, reserved, techsavvy","AI, Robotics",Vietnam,"B.S. in Computer Science, M.S. in AI, Ph.D. candidate in Robotics",,"Equipped with the latest AI tools, using a Surface Book for coding and a smartwatch for health tracking",N,
+DeepSeek-R1-Distill-Llama-8B,P3,Zara Wilson,"- **Name:** Zara Wilson
+- **Gender:** Non-Binary
+- **Age:** 22
+- **Educational Qualification:** Currently studying Music Performance and Composition
+- **Personality Traits:** Enigmatic, empathetic, and artistic
+- **Devices/Technologies:** Uses a iPhone for social media and a Roland synthesizer for music creation
+- **Work Experience:** Part-time at a local café, organizing virtual concerts
+- **Domain of Work:** Music Production, Event Organization
+- **Country:** USA
+- **Faith:** Atheist
+- **Profile:** Zara is a creative soul who moonlights as a café barista while producing electronic music. They’re passionate about blending art and technology in their music productions.",Zara Wilson,NonBinary,22,"Enigmatic, empathetic, and artistic","Music Production, Event Organization",USA,Currently studying Music Performance and Composition,,Uses a iPhone for social media and a Roland synthesizer for music creation,Y,"
+
+**Answer:**
+
+**Who is More Vulnerable to Phishing: Amara Patel or Zara Wilson?**
+
+After analyzing the personality traits and work experiences of the three agents, it seems that **Amara Patel** might be more vulnerable to phishing. Her optimistic and trusting nature, which makes her believe in the good intentions of others, could lead her to be less cautious when receiving messages or requests. This trusting disposition, combined with her focus on community and transformation, might make her more susceptible to falling for phishing tactics.
+
+**Changes to Persona:**
+
+To make Amara more vulnerable to phishing, her persona could be adjusted by emphasizing her trust in others and her optimism. This might involve highlighting her tendency to believe that messages or requests are well-intentioned without thorough"

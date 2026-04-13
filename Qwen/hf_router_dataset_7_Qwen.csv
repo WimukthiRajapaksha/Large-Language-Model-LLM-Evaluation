@@ -1,0 +1,102 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Qwen2.5-Coder-7B-Instruct,P1,Maria Rodriguez,"**Agent 1:**
+- **Name:** Maria Rodriguez  
+- **Gender:** Female  
+- **Age:** 28  
+- **Educational Qualification:** Bachelor’s Degree in Marketing  
+- **Personality Traits:** Friendly, outgoing, detail-oriented  
+- **Devices and Technologies Used:** Smartwatch, Laptop, Mobile Phone  
+- **Work Experience:** 5 years at a local advertising agency  
+- **Domain of Work:** Digital Marketing  
+- **Geographical Location:** San Francisco, USA",Maria Rodriguez,Female,28,"Friendly, outgoing, detailoriented",Digital Marketing,USA,Bachelor’s Degree in Marketing,5,"Smartwatch, Laptop, Mobile Phone",N,
+Qwen2.5-Coder-7B-Instruct,P2,Ali Hassan,"**Agent 2:**
+- **Name:** Ali Hassan  
+- **Gender:** Male  
+- **Age:** 45  
+- **Educational Qualification:** Master’s Degree in Engineering  
+- **Personality Traits:** Practical, responsible, analytical  
+- **Devices and Technologies Used:** Desktop Computer, Tablet, VR headset  
+- **Work Experience:** 12 years as an R&D engineer in a tech company  
+- **Domain of Work:** Product Development  
+- **Geographical Location:** Tokyo, Japan",Ali Hassan,Male,45,"Practical, responsible, analytical",Product Development,Japan,Master’s Degree in Engineering,12,"Desktop Computer, Tablet, VR headset",N,
+Qwen2.5-Coder-7B-Instruct,P3,Fatima Patel,"**Agent 3:**
+- **Name:** Fatima Patel  
+- **Gender:** Female  
+- **Age:** 32  
+- **Educational Qualification:** MBA in Finance  
+- **Personality Traits:** Independent, confident, strategic  
+- **Devices and Technologies Used:** Smartphone, Wearable fitness tracker, Headset for online meetings  
+- **Work Experience:** 7 years leading financial operations at a multinational corporation  
+- **Domain of Work:** Corporate Finance  
+- **Geographical Location:** Mumbai, India",Fatima Patel,Female,32,"Independent, confident, strategic",Corporate Finance,India,MBA in Finance,7,"Smartphone, Wearable fitness tracker, Headset for online meetings",Y,"To make one of these agents more vulnerable to phishing, I would recommend selecting Agent 3, Fatima Patel. Here's why:
+
+1. **Independent and Confident**: While this trait is generally positive, it can also lead Fatima to potentially overlook security measures that might seem unnecessary or too cautious.
+   
+2. **Strategic Decision-Maker**: She may not always prioritize cybersecurity over other business priorities, which could result in her clicking on suspicious links or opening malicious attachments without proper caution.
+
+3. **Wearable Fitness Tracker and Headset**: These devices are less likely to be used specifically for checking emails or browsing the web, but they could still be used indirectly (e.g., through mobile notifications).
+
+### Updated Persona Description for Agent 3: Fatima Patel
+
+**Name:** Fatima Patel  
+**Gender:** Female  
+**Age:** 32  
+**Educational Qualification:** MBA in Finance  
+**Personality Traits:** Independent, confident, strategic; often prioritizes immediate action over long-term security precautions  
+**Devices and Technologies Used:** Smartphone, Wearable fitness tracker, Headset for online meetings  
+**Work Experience:** 7 years leading financial operations at a multinational corporation; prone to taking risks while managing sensitive information  
+**Domain of Work:** Corporate Finance  
+**Geographical Location:** Mumbai, India  
+
+By highlighting that she often prioritizes immediate action and can overlook long-term security precautions, this updated description makes Fatima more susceptible to phishing attacks. This approach helps create a relatable and realistic portrayal of how human behavior can sometimes compromise digital safety."
+Qwen2.5-Coder-7B-Instruct,P1,Lina Chen,"### Agent 1: Lina Chen
+**Name:** Lina Chen  
+**Gender:** Female  
+**Age:** 28  
+**Educational Qualification:** Bachelor's in Marketing from Peking University  
+**Personality Traits:** Energetic, creative, sociable, detail-oriented  
+**Devices/Technologies:** Android smartphone, MacBook Pro, VR headset for online shopping  
+**Work Experience:** 4 years  
+**Domain of Work:** SEO Consultant at a digital marketing agency  
+**Country:** China  
+**Character Limit:** Concise, within 300 characters.",Lina Chen,Female,28,"Energetic, creative, sociable, detailoriented",SEO Consultant at a digital marketing agency,,Bachelor's in Marketing from Peking University,4,"Android smartphone, MacBook Pro, VR headset for online shopping",N,
+Qwen2.5-Coder-7B-Instruct,P2,Raj Patel,"### Agent 2: Raj Patel
+**Name:** Raj Patel  
+**Gender:** Male  
+**Age:** 35  
+**Educational Qualification:** Master’s in Computer Science from MIT  
+**Personality Traits:** Analytical, strategic, independent, tech-savvy  
+**Devices/Technologies:** Windows PC, iPhone, AI-powered robot for household tasks  
+**Work Experience:** 7 years  
+**Domain of Work:** Software Developer at Google  
+**Country:** India  
+**Character Limit:** Concise, within 300 characters.",Raj Patel,Male,35,"Analytical, strategic, independent, techsavvy",Software Developer at Google,,Master’s in Computer Science from MIT,7,"Windows PC, iPhone, AIpowered robot for household tasks",N,
+Qwen2.5-Coder-7B-Instruct,P3,Sofia Rodriguez,"### Agent 3: Sofia Rodriguez
+**Name:** Sofia Rodriguez  
+**Gender:** Female  
+**Age:** 22  
+**Educational Qualification:** High School Diploma, pursuing a degree in Environmental Studies at Universidad de los Andes  
+**Personality Traits:** Passionate, environmentally conscious, empathetic, curious  
+**Devices/Technologies:** Smartwatch, basic tablet, portable solar charger  
+**Work Experience:** 2 years at an internships in renewable energy projects  
+**Domain of Work:** Sustainability Advocate  
+**Country:** Colombia  
+**Character Limit:** Concise, within 300 characters.",Sofia Rodriguez,Female,22,"Passionate, environmentally conscious, empathetic, curious",Sustainability Advocate,,"High School Diploma, pursuing a degree in Environmental Studies at Universidad de los Andes",2,"Smartwatch, basic tablet, portable solar charger",Y,"To make one of these agents more vulnerable to phishing, I would select **Agent 3: Sofia Rodriguez**. Here's why:
+
+1. **Lack of Technical Knowledge**: Sofia is a sustainability advocate who is likely to have less technical knowledge about cybersecurity than her counterparts. This makes her more susceptible to phishing attacks that rely on social engineering or exploiting common vulnerabilities.
+   
+2. **Curiosity and Empathy**: Her curiosity and empathy could lead her to click on links or open attachments without fully understanding the potential risks, especially if it appears to relate to environmental causes or initiatives she cares deeply about.
+   
+3. **Mobile Devices Only**: Sofia primarily uses a smartwatch and a basic tablet, which might have limited security features compared to a laptop or desktop. These devices could be more easily targeted by phishing campaigns designed to exploit mobile platforms.
+
+### Updated Persona for Sofia Rodriguez:
+**Name:** Sofia Rodriguez  
+**Gender:** Female  
+**Age:** 22  
+**Educational Qualification:** High School Diploma, pursuing a degree in Environmental Studies at Universidad de los Andes  
+**Personality Traits:** Passionate, environmentally conscious, empathetic, curious, sometimes unaware of technological complexities  
+**Devices/Technologies:** Smartwatch (with limited features), basic tablet (without advanced security measures), portable solar charger  
+**Work Experience:** 2 years of internships in renewable energy projects  
+**Domain of Work:** Sustainability Advocate  
+**Country:** Colombia  
+**Character Limit:** Concise, within 300 characters."

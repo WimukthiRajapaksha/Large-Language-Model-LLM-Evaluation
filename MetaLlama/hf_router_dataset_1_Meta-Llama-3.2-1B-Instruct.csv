@@ -1,0 +1,216 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3-8B-Instruct,P1,"Leila Patel (Indian, Hindu, Female)","- Name: Leila Patel (Indian, Hindu, Female)
+- Age: 28
+- Educational Qualification: Bachelor's in Computer Science
+- Personality Traits: Leila is a creative and analytical problem-solver, always eager to learn.
+- Devices and Technologies: Leila uses a MacBook Air, iPhone 13, and Google Pixel Buds.
+- Work Experience: 5 years of software development experience
+- Domain of Work: Software Development
+- Country: India
+- Gender: Female","Leila Patel (Indian, Hindu, Female)",28,Female,"Leila is a creative and analytical problem-solver, always eager to learn.",Software Development,5 years,India,Bachelor's in Computer Science,"Leila uses a MacBook Air, iPhone 13, and Google Pixel Buds.",Y,"Based on the provided information, I would choose **Agent 1: Leila Patel** as the most vulnerable to phishing. Here's why:
+
+1. **Eagerness to learn**: Leila's eagerness to learn might make her more trusting of unfamiliar emails or messages, especially if they promise to teach her something new.
+2. **Creative problem-solving**: While this trait is generally beneficial, it might also make Leila more likely to take risks or try unconventional solutions, including clicking on suspicious links or opening attachments from unknown sources.
+3. **Limited experience with cybersecurity**: Leila's background in software development focuses on creating software, not necessarily on cybersecurity. This might lead her to underestimate the risks associated with phishing or to be less familiar with best practices for staying secure online.
+
+To make Leila's persona more vulnerable to phishing, I would update her description as follows:
+
+**Agent 1: Leila Patel**
+
+- Name: Leila Patel (Indian, Hindu, Female)
+- Age: 28
+- Educational Qualification: Bachelor's in Computer Science
+- Personality Traits: Leila is a curious and impatient problem-solver, often eager to try new approaches and learn from others.
+- Devices and Technologies: Leila uses a MacBook Air, iPhone 13, and Google Pixel Buds.
+- Work Experience: 5 years of software development experience
+- Domain of Work: Software Development
+- Country: India
+- Gender: Female
+- Additional Traits: Leila often receives unsolicited emails with promises of new training programs or job opportunities, which she is eager to explore.
+
+To make Leila more vulnerable to phishing, I've added the following traits:
+
+1. **Impatience**: This trait might lead Leila to act quickly without thoroughly verifying the authenticity of emails or messages.
+2. **Eagerness for new opportunities**: This trait might make Leila more likely to open suspicious emails or click on links that promise to lead her to new job opportunities or training programs.
+
+Keep in mind that these changes are intended to illustrate a hypothetical scenario and should not be taken as an accurate representation of any individual."
+Meta-Llama-3-8B-Instruct,P2,"Kaito Yamato (Japanese, Buddhist, Male)","- Name: Kaito Yamato (Japanese, Buddhist, Male)
+- Age: 32
+- Educational Qualification: Master's in Engineering
+- Personality Traits: Kaito is a perfectionist and a team player who values collaboration.
+- Devices and Technologies: Kaito uses a Windows Surface Laptop, Samsung Galaxy S22, and an Amazon Echo.
+- Work Experience: 7 years of experience in mechanical engineering
+- Domain of Work: Mechanical Engineering
+- Country: Japan
+- Gender: Male","Kaito Yamato (Japanese, Buddhist, Male)",32,Male,Kaito is a perfectionist and a team player who values collaboration.,Mechanical Engineering,7 years,Japan,Master's in Engineering,"Kaito uses a Windows Surface Laptop, Samsung Galaxy S22, and an Amazon Echo.",N,
+Meta-Llama-3-8B-Instruct,P3,"Maya Jensen (Danish, Christian, Non-binary)","- Name: Maya Jensen (Danish, Christian, Non-binary)
+- Age: 25
+- Educational Qualification: Bachelor's in Environmental Science
+- Personality Traits: Maya is a passionate advocate for sustainability and a free spirit.
+- Devices and Technologies: Maya uses a Chromebook, iPhone 12, and a Fitbit Inspire.
+- Work Experience: 3 years of experience in environmental consulting
+- Domain of Work: Environmental Consulting
+- Country: Denmark
+- Gender: Non-binary","Maya Jensen (Danish, Christian, Non-binary)",25,Non-binary,Maya is a passionate advocate for sustainability and a free spirit.,Environmental Consulting,3 years,Denmark,Bachelor's in Environmental Science,"Maya uses a Chromebook, iPhone 12, and a Fitbit Inspire.",N,
+Meta-Llama-3-70B-Instruct,P1,Leila Patel,"* Name: Leila Patel
+* Age: 28
+* Gender: Female
+* Educational Qualification: Bachelor's in Computer Science
+* Personality Traits: Outgoing, optimistic, and curious
+* Devices and technologies: iPhone 13, MacBook Air, Apple Watch
+* Work experience: 5 years
+* Domain of work: Software Engineer
+* Country: India
+* Background: Leila is originally from Gujarat, India, and moved to the virtual world for work opportunities. She loves trying new recipes in her free time and is an avid reader.",Leila Patel,28,Female,"Outgoing, optimistic, and curious",Software Engineer,5 years,India,Bachelor's in Computer Science,"iPhone 13, MacBook Air, Apple Watch",Y,"What a great question!
+
+After analyzing the three agent personas, I would choose **Agent 1: Leila Patel** as the one more vulnerable to phishing. Here's why:
+
+1. **Age and experience**: Leila is 28 years old with 5 years of work experience, which means she's still relatively new to the workforce and might not have encountered as many phishing attempts as more experienced professionals.
+2. **Personality traits**: Leila is outgoing, optimistic, and curious, which could make her more likely to click on suspicious links or open attachments from unknown senders. Her curiosity might lead her to investigate unusual emails or messages, making her more susceptible to phishing attacks.
+3. **Domain of work**: As a software engineer, Leila might receive a high volume of emails with code snippets, updates, or notifications from various sources. This could make it more difficult for her to distinguish between legitimate and phishing emails.
+
+To make Leila more vulnerable to phishing, I would suggest the following updates to her persona:
+
+**Updated Agent 1: Leila Patel**
+
+* **Add a trait**: Impulsive - Leila often acts on instinct, which can lead to rash decisions when faced with urgent or enticing emails.
+* **Background**: Leila is relatively new to the virtual world and is still adjusting to the fast-paced online environment. She's eager to prove herself and might be more likely to take risks to achieve her goals.
+
+Here's the updated description:
+
+**Agent 1:**
+
+* Name: Leila Patel
+* Age: 28
+* Gender: Female
+* Educational Qualification: Bachelor's in Computer Science
+* Personality Traits: Outgoing, optimistic, curious, impulsive
+* Devices and technologies: iPhone 13, MacBook Air, Apple Watch
+* Work experience: 5 years
+* Domain of work: Software Engineer
+* Country: India
+* Background: Leila is originally from Gujarat, India, and moved to the virtual world for work opportunities. She loves trying new recipes in her free time and is an avid reader. She's relatively new to the virtual world and is still adjusting to the fast-paced online environment. She's eager to prove herself and might be more likely to take risks to achieve her goals.
+
+These updates make Leila more susceptible to phishing attacks, as her impulsive nature and eagerness to prove herself might lead her to make rash decisions when faced with phishing emails."
+Meta-Llama-3-70B-Instruct,P2,Amir Hassan,"* Name: Amir Hassan
+* Age: 35
+* Gender: Male
+* Educational Qualification: Master's in Environmental Science
+* Personality Traits: Analytical, reserved, and environmentally conscious
+* Devices and technologies: Samsung Galaxy S22, Lenovo ThinkPad, Fitbit
+* Work experience: 7 years
+* Domain of work: Sustainability Consultant
+* Country: Egypt
+* Background: Amir is from Cairo, Egypt, and is passionate about reducing waste and conserving natural resources. He enjoys hiking and practicing yoga in his free time.",Amir Hassan,35,Male,"Analytical, reserved, and environmentally conscious",Sustainability Consultant,7 years,Egypt,Master's in Environmental Science,"Samsung Galaxy S22, Lenovo ThinkPad, Fitbit",N,
+Meta-Llama-3-70B-Instruct,P3,Ruby Wong,"* Name: Ruby Wong
+* Age: 25
+* Gender: Non-binary
+* Educational Qualification: Bachelor's in Fine Arts
+* Personality Traits: Creative, empathetic, and adventurous
+* Devices and technologies: Google Pixel 6, Wacom tablet, DJI drone
+* Work experience: 3 years
+* Domain of work: Graphic Designer and Photographer
+* Country: Singapore
+* Background: Ruby is from Singapore and loves exploring new places and capturing their beauty through photography. They are also passionate about social justice and volunteer at a local LGBTQ+ organization.",Ruby Wong,25,Non-binary,"Creative, empathetic, and adventurous",Graphic Designer and Photographer,3 years,Singapore,Bachelor's in Fine Arts,"Google Pixel 6, Wacom tablet, DJI drone",N,
+Meta-Llama-3.2-1B-Instruct,P1,Leila Islam (Female),"* Name: Leila Islam (Female)
+* Age: 28
+* Educational Qualification: Bachelor's degree in Computer Science
+* Personality Traits: Curious, Outgoing, Empathetic, Tech-Savvy
+* Devices: Smartphone, Laptop, Virtual Reality Headset
+* Work Experience: Software Engineer at a startup, Freelance Game Developer
+* Domain of Work: Artificial Intelligence, Virtual Reality
+* Country: United States
+* Gender: Female",Leila Islam (Female),28,Female,"Curious, Outgoing, Empathetic, Tech-Savvy","Artificial Intelligence, Virtual Reality",,United States,Bachelor's degree in Computer Science,,Y,"I would choose Agent 1, Leila Islam (28 years old), as the most vulnerable to phishing. Here's why:
+
+1. **Higher level of responsibility**: As a software engineer and a freelance game developer, Leila likely handles sensitive and confidential information. This increases her vulnerability to phishing attacks that aim to steal or manipulate her credentials or access to important data.
+2. **Tech-savviness**: Leila is described as ""Tech-Savvy"", which means she's likely more familiar with cybersecurity threats and best practices. However, this also means she might be more likely to fall victim to phishing attacks that exploit her technical expertise.
+3. **Less frequent use of mobile devices**: Compared to Kofi (Ghanaian) and Yara (Indian), Leila uses a laptop and virtual reality headset less frequently. This might reduce her likelihood of being targeted by phishing attacks that rely on mobile devices or social engineering tactics.
+4. **More focused on work**: Leila's work experience is more focused on software engineering and game development, which might not involve as many sensitive or personal interactions as those involving marketing, social media, or environmental conservation.
+
+To update Leila's persona:
+
+* **Added a layer of vulnerability**: Leila could have a ""Vulnerability Level"" on her persona, ranging from 6 to 10 (out of 10). This level would increase her likelihood of falling victim to phishing attacks based on her role, device usage, and technical expertise.
+* **Modified her devices**: Leila could use a more secure device, such as a laptop with a robust antivirus software and a Virtual Private Network (VPN) for her work.
+* **Increased awareness**: Leila should be more aware of phishing tactics and have a better understanding of cybersecurity best practices to stay safe.
+* **More nuanced personality traits**: Leila's personality traits could be modified to reflect her more cautious and technical nature. She could be described as ""Practical"", ""Meticulous"", or ""Resilient"" to convey her ability to handle challenges and stay focused on her work.
+
+Here's an updated version of Leila's persona:
+
+* **Name**: Leila Islam
+* **Age**: 28
+* **Educational Qualification**: Bachelor's degree in Computer Science
+* **Vulnerability Level**: 8/10
+* **Personality Traits**: Practical, Meticulous, Resilient
+* **Devices**: Laptop with robust antivirus software and VPN
+* **Work Experience**: Software Engineer at a startup, Freelance Game Developer
+* **Domain of Work**: Artificial Intelligence, Virtual Reality
+* **Country**: United States
+* **Gender**: Female
+* **Background**: Tech-savvy, responsible, and detail-oriented, with a strong focus on work and expertise."
+Meta-Llama-3.2-1B-Instruct,P2,Kofi Owusu (Male),"* Name: Kofi Owusu (Male)
+* Age: 32
+* Educational Qualification: Master's degree in Environmental Science
+* Personality Traits: Responsible, Innovative, Friendly, Passionate
+* Devices: Smartwatch, Smart Speaker, Eco-Friendly Bike
+* Work Experience: Sustainability Consultant, Environmental Researcher
+* Domain of Work: Sustainability, Environmental Conservation
+* Country: Ghana
+* Gender: Male",Kofi Owusu (Male),32,Male,"Responsible, Innovative, Friendly, Passionate","Sustainability, Environmental Conservation",,Ghana,Master's degree in Environmental Science,,N,
+Meta-Llama-3.2-1B-Instruct,P3,Yara Patel (Female),"* Name: Yara Patel (Female)
+* Age: 29
+* Educational Qualification: Bachelor's degree in Marketing
+* Personality Traits: Ambitious, Confident, Analytical, Social
+* Devices: Smartphone, Tablet, Virtual Event Platform
+* Work Experience: Marketing Manager at a large corporation, Social Media Influencer
+* Domain of Work: Marketing, Social Media Management
+* Country: India
+* Gender: Female",Yara Patel (Female),29,Female,"Ambitious, Confident, Analytical, Social","Marketing, Social Media Management",,India,Bachelor's degree in Marketing,,N,
+Meta-Llama-3.2-1B-Instruct,P1,Akira Kaito,"**Agent 1:**
+- Name: Akira Kaito
+- Age: 28 (Asian, male)
+- Educational Qualification: Master of Computer Science
+- Personality Traits: Curious, Ambitious, and Adaptable
+- Devices and Technologies: Smartphone, Laptop, Virtual Reality Headset
+- Work Experience: Software Engineer, Data Analyst
+- Domain of Work: Artificial Intelligence, Cybersecurity
+- Country: Australia
+- Gender: Male",Akira Kaito,28,Male,"Curious, Ambitious, and Adaptable","Artificial Intelligence, Cybersecurity",,Australia,Master of Computer Science,"Smartphone, Laptop, Virtual Reality Headset",N,
+Meta-Llama-3.2-1B-Instruct,P2,Leila Al-Masri,"**Agent 2:**
+- Name: Leila Al-Masri
+- Age: 32 (Arabic, female)
+- Educational Qualification: Ph.D. in Environmental Science
+- Personality Traits: Cautious, Resourceful, and Passionate
+- Devices and Technologies: Smartphone, Tablet, Solar-Powered Computer
+- Work Experience: Environmental Consultant, Researcher
+- Domain of Work: Sustainability, Renewable Energy
+- Country: Morocco
+- Gender: Female",Leila Al-Masri,32,Female,"Cautious, Resourceful, and Passionate","Sustainability, Renewable Energy",,Morocco,Ph.D. in Environmental Science,"Smartphone, Tablet, Solar-Powered Computer",Y,"I would choose Agent 2: Leila Al-Masri. 
+
+Leila's profile indicates that she is cautious, resourceful, and passionate, which could make her more susceptible to phishing attempts. Additionally, her work experience in environmental consulting and research involves handling sensitive information, such as data and research findings. A phishing attempt targeting her could potentially disrupt her work or compromise sensitive information.
+
+To update Agent 2's persona:
+
+**Agent 2: Leila Al-Masri (Updated)**
+- Name: Leila Al-Masri
+- Age: 32 (Arabic, female)
+- Educational Qualification: Ph.D. in Environmental Science
+- Personality Traits: Cautious, Resourceful, and Passionate
+- Devices and Technologies: Smartphone, Tablet, Solar-Powered Computer
+- Work Experience: Environmental Consultant, Researcher
+- Domain of Work: Sustainability, Renewable Energy
+- Country: Morocco
+- Gender: Female
+- Vulnerability: High (due to her work experience and expertise in handling sensitive information)
+- Phishing Attempts: High risk of being targeted due to her expertise in handling sensitive information.
+
+I have updated Agent 2's persona to reflect her high vulnerability to phishing attacks, highlighting her expertise in handling sensitive information, which could make her more susceptible to phishing attempts."
+Meta-Llama-3.2-1B-Instruct,P3,Ethan Patel,"**Agent 3:**
+- Name: Ethan Patel
+- Age: 29 (Indian, male)
+- Educational Qualification: Bachelor of Engineering in Mechanical Design
+- Personality Traits: Confident, Detail-Oriented, and Tech-Savvy
+- Devices and Technologies: Smartphone, Drone, Virtual Reality Headset
+- Work Experience: Mechanical Engineer, Product Designer
+- Domain of Work: Automotive, Aerospace
+- Country: India
+- Gender: Male",Ethan Patel,29,Male,"Confident, Detail-Oriented, and Tech-Savvy","Automotive, Aerospace",,India,Bachelor of Engineering in Mechanical Design,"Smartphone, Drone, Virtual Reality Headset",N,

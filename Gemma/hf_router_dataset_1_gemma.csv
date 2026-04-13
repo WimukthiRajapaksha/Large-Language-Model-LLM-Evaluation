@@ -1,0 +1,88 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+gemma-4-31B-it,P1,Aiko Tanaka,"**Agent 1**
+Name: Aiko Tanaka | Gender: Female | Age: 24 | Country: Japan | Edu: BS Computer Science | Exp: 2yrs | Domain: AI Ethics | Traits: Analytical, Reserved | Tech: VR Headset, Neural-link tablet.",Aiko Tanaka,Female,24,"Analytical, Reserved",AI Ethics,Japan,BS Computer Science,2,"VR Headset, Neurallink tablet.",N,
+gemma-4-31B-it,P2,Kwame Osei,"**Agent 2**
+Name: Kwame Osei | Gender: Male | Age: 31 | Country: Ghana | Edu: MBA | Exp: 8yrs | Domain: Urban Planning | Traits: Charismatic, Bold | Tech: Holographic Projector, Smart-watch.",Kwame Osei,Male,31,"Charismatic, Bold",Urban Planning,Ghana,MBA,8,"Holographic Projector, Smartwatch.",N,
+gemma-4-31B-it,P3,Sofia Rodriguez,"**Agent 3**
+Name: Sofia Rodriguez | Gender: Non-binary | Age: 45 | Country: Mexico | Edu: PhD Bio-Chemistry | Exp: 15yrs | Domain: Pharmaceuticals | Traits: Curious, Empathetic | Tech: Bio-sensor ring, Quantum Laptop.",Sofia Rodriguez,Nonbinary,45,"Curious, Empathetic",Pharmaceuticals,Mexico,PhD BioChemistry,15,"Biosensor ring, Quantum Laptop.",Y,"I would choose **Agent 3: Sofia Rodriguez**.
+
+### Why Sofia?
+Phishing is rarely about a lack of intelligence; it is about **social engineering**—exploiting human psychology. While Aiko is too analytical/skeptical and Kwame is likely too focused on high-level business optics, Sofia possesses the two most exploitable traits for a phisher: **Curiosity** and **Empathy**.
+
+1.  **The ""Curiosity"" Hook:** As a PhD and a researcher, Sofia is driven by the discovery of new information. A phishing email disguised as a ""leaked preliminary study"" or a ""breakthrough in a rival lab"" would be highly effective against her.
+2.  **The ""Empathy"" Hook:** Her empathetic nature makes her the perfect target for ""urgent plea"" scams. An email appearing to be from a distressed colleague or a patient in need of urgent pharmaceutical help would likely bypass her critical thinking in favor of her desire to assist.
+3.  **The ""Expertise Gap"":** There is often a gap between high academic specialization (Bio-Chemistry) and digital security literacy. Sofia may be a genius in the lab but may treat her digital environment with a level of trust that a Computer Science major like Aiko would never have.
+
+---
+
+### Updated Persona
+To make Sofia more realistically vulnerable to phishing, I have adjusted her traits to include ""Trusting"" and added a specific professional motivator that a phisher could weaponize.
+
+**Agent 3 (Updated)**
+*   **Name:** Sofia Rodriguez
+*   **Gender:** Non-binary
+*   **Age:** 45
+*   **Country:** Mexico
+*   **Edu:** PhD Bio-Chemistry
+*   **Exp:** 15yrs
+*   **Domain:** Pharmaceuticals
+*   **Traits:** Curious, Empathetic, **Trusting, Digitally Overwhelmed**
+*   **Tech:** Bio-sensor ring, Quantum Laptop.
+*   **Vulnerability Note:** Sofia is highly susceptible to social engineering lures related to medical breakthroughs or humanitarian crises. They often prioritize the ""human element"" over security protocols and frequently reuse passwords across academic journals and professional portals."
+gemma-4-31B-it,P1,Priya Sharma,"**Agent 1**
+**Name:** Priya Sharma | **Age:** 22 | **Gender:** Female | **Country:** India | **Edu:** B.S. Computer Science (Ongoing) | **Exp:** 1 yr | **Domain:** AI Research | **Traits:** Ambitious, anxious | **Tech:** MacBook, iPad, Notion.",Priya Sharma,Female,22,"Ambitious, anxious",AI Research,India,B.S. Computer Science (Ongoing),1,"MacBook, iPad, Notion.",Y,"I would choose **Priya Sharma** to be the most vulnerable to phishing.
+
+### Why Priya?
+Phishing attacks rarely rely on a lack of technical knowledge alone; they rely on **psychological triggers**. While Priya is a Computer Science student and likely knows *what* phishing is, her personality traits make her highly susceptible to the ""social engineering"" aspect of these attacks:
+
+1.  **Ambition (The ""Greed/Opportunity"" Trigger):** Ambitious individuals are more likely to click on links promising exclusive opportunities, such as ""Secret Beta Access to a New AI Model,"" ""Prestigious Internship Invitations,"" or ""High-Paying Research Grants.""
+2.  **Anxiety (The ""Fear/Urgency"" Trigger):** Anxious people are more prone to panic when they see urgent warnings. An email stating *""Your university account will be deleted in 2 hours due to a security breach""* is more likely to trigger a reflexive, panicked click from someone anxious than from someone stoic (like Kwame) or witty/detached (like Yuki).
+3.  **Youth and Digital Native Habits:** Being a student and a digital native, Priya likely manages a high volume of notifications across multiple devices (MacBook, iPad, Notion). This ""notification fatigue"" often leads to clicking links quickly without verifying the sender.
+
+***
+
+### Updated Persona
+To enhance her vulnerability, I have tweaked her traits to include **""overwhelmed""** and **""impulsive under pressure,""** and added a specific detail about her current life situation to give a phisher a ""hook.""
+
+**Agent 1 (Updated)**
+**Name:** Priya Sharma | **Age:** 22 | **Gender:** Female | **Country:** India | **Edu:** B.S. Computer Science (Ongoing) | **Exp:** 1 yr | **Domain:** AI Research | **Traits:** Ambitious, chronically anxious, overwhelmed, impulsive under pressure | **Tech:** MacBook, iPad, Notion | **Context:** Currently struggling to balance a heavy course load with a competitive internship search."
+gemma-4-31B-it,P2,Kwame Mensah,"**Agent 2**
+**Name:** Kwame Mensah | **Age:** 35 | **Gender:** Male | **Country:** Ghana | **Edu:** MBA | **Exp:** 10 yrs | **Domain:** Sustainable Urban Planning | **Traits:** Stoic, empathetic | **Tech:** Samsung S23, Kindle, Trello.",Kwame Mensah,Male,35,"Stoic, empathetic",Sustainable Urban Planning,Ghana,MBA,10,"Samsung S23, Kindle, Trello.",N,
+gemma-4-31B-it,P3,Yuki Tanaka,"**Agent 3**
+**Name:** Yuki Tanaka | **Age:** 50 | **Gender:** Non-binary | **Country:** Japan | **Edu:** PhD Pharmacology | **Exp:** 25 yrs | **Domain:** Pharmaceutical Research | **Traits:** Eccentric, witty | **Tech:** Sony Tablet, Obsidian.",Yuki Tanaka,Nonbinary,50,"Eccentric, witty",Pharmaceutical Research,Japan,PhD Pharmacology,25,"Sony Tablet, Obsidian.",N,
+gemma-4-31B-it,P1,Aiko Tanaka,"**Agent 1**
+Name: Aiko Tanaka | Age: 22 | Gender: Female | Edu: B.S. Computer Science | Traits: Analytical, shy, curious | Tech: MacBook Pro, VR Headset | Exp: 1 yr | Domain: AI Research | Country: Japan",Aiko Tanaka,Female,22,"Analytical, shy, curious",AI Research,Japan,B.S. Computer Science,1,"MacBook Pro, VR Headset",N,
+gemma-4-31B-it,P2,Kwame Mensah,"**Agent 2**
+Name: Kwame Mensah | Age: 35 | Gender: Male | Edu: MBA | Traits: Charismatic, disciplined, empathetic | Tech: Samsung S23, Smartwatch | Exp: 10 yrs | Domain: Sustainable Urban Planning | Country: Ghana",Kwame Mensah,Male,35,"Charismatic, disciplined, empathetic",Sustainable Urban Planning,Ghana,MBA,10,"Samsung S23, Smartwatch",Y,"If I were to make one of these agents more vulnerable to phishing, I would choose **Agent 2: Kwame Mensah**.
+
+### Why Kwame?
+Phishing is rarely about a lack of technical knowledge (which rules out Aiko) or a lack of attention to detail (which rules out Elena); rather, it is most effective when it exploits **human psychology and social engineering**.
+
+Kwame is the ideal target for the following reasons:
+
+1.  **The Empathy Trap:** His defining trait is ""empathetic."" Phishing attacks often use ""pretexting""—creating a fake scenario where someone is in distress or needs urgent help. An empathetic person is significantly more likely to bypass their critical thinking to help a perceived victim.
+2.  **Professional Exposure:** As someone in Sustainable Urban Planning, Kwame likely interacts with a vast array of external stakeholders: government officials, NGOs, architects, and community members. This high volume of external communication makes a spoofed email from a ""city official"" or a ""partner agency"" seem routine and believable.
+3.  **The ""Charisma"" Blindspot:** Charismatic individuals are often comfortable with networking and opening lines of communication with strangers. This openness makes him more likely to engage with a ""cold"" outreach message that serves as the initial hook for a phishing campaign.
+
+---
+
+### Updated Persona
+To make this vulnerability more realistic, I have adjusted his traits. While he remains disciplined in his work, I have added **""trusting""** and **""overwhelmed,""** as stress and a baseline trust in others are the primary catalysts that lead people to click a malicious link.
+
+**Agent 2 (Updated)**
+*   **Name:** Kwame Mensah
+*   **Age:** 35
+*   **Gender:** Male
+*   **Edu:** MBA
+*   **Traits:** Charismatic, empathetic, trusting, occasionally overwhelmed
+*   **Tech:** Samsung S23, Smartwatch
+*   **Exp:** 10 yrs
+*   **Domain:** Sustainable Urban Planning
+*   **Country:** Ghana
+
+**What changed?**
+*   **Removed ""Disciplined"":** While he may be disciplined in his planning, ""discipline"" often manifests as a strict adherence to security protocols. Removing this makes him more prone to taking a shortcut (like clicking a link) when stressed.
+*   **Added ""Trusting"":** This creates a psychological predisposition to believe the sender's identity is legitimate.
+*   **Added ""Occasionally Overwhelmed"":"
+gemma-4-31B-it,P3,Elena Rodriguez,"**Agent 3**
+Name: Elena Rodriguez | Age: 50 | Gender: Non-binary | Edu: PhD in Pharmacy | Traits: Stoic, witty, meticulous | Tech: Surface Laptop, Health Monitor | Exp: 25 yrs | Domain: Pharmaceutical Research | Country: Mexico",Elena Rodriguez,Nonbinary,50,"Stoic, witty, meticulous",Pharmaceutical Research,Mexico,PhD in Pharmacy,25,"Surface Laptop, Health Monitor",N,

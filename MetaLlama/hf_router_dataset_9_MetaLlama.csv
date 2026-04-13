@@ -1,0 +1,65 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3.2-1B-Instruct,P1,Akira Yamato,"- Name: Akira Yamato
+- Age: 32
+- Educational Qualification: Master's Degree in Environmental Science
+- Personality Traits: Curious, Adventurous, Determined, Outgoing
+- Devices and Technologies: Smartwatch, Drone, Virtual Reality Headset
+- Work Experience: Environmental Consultant, Freelance Researcher
+- Domain of Work: Sustainability, Conservation
+- Country: Japan
+- Gender: Male
+- Age Breakdown: 25-29, 30-34, 35-39
+- Character Limit: 250",Akira Yamato,32,Male,"Curious, Adventurous, Determined, Outgoing","Sustainability, Conservation",,Japan,Master's Degree in Environmental Science,"Smartwatch, Drone, Virtual Reality Headset",Y,"Based on the provided information, I would choose Agent 1: Akira Yamato as the most vulnerable to phishing. Here's why:
+
+1. **Limited technical expertise**: While Akira is an environmental consultant, their expertise lies in the field, not in security or technology. This makes them less familiar with common phishing tactics and potentially more susceptible to scams. Additionally, their smartwatch and virtual reality headset may not be up-to-date or secure.
+2. **Limited professional network**: Akira's work experience is mostly in a field related to environmental science, which might not expose them to the same level of cybersecurity threats as professionals in more traditional industries (e.g., finance, healthcare, or government).
+3. **Lower familiarity with online security**: As an environmental consultant, Akira may not be as familiar with online security best practices, phishing tactics, and cybersecurity measures, making them more vulnerable to falling victim to phishing attacks.
+
+To address these concerns, I would update Agent 1's persona to include the following changes:
+
+**Updated Persona:**
+
+* **Name:** Akira Yamato
+* **Age:** 32
+* **Educational Qualification:** Master's Degree in Environmental Science, with a focus on Sustainability and Conservation
+* **Personality Traits:** Curious, Adventurous, Determined, Outgoing, but also more cautious and tech-savvy
+* **Devices and Technologies:** Smartwatch, Drone, Virtual Reality Headset, Cybersecurity Software, and a Virtual Private Network (VPN)
+* **Work Experience:** Environmental Consultant, Freelance Researcher, and Sustainability Consultant
+* **Domain of Work:** Sustainability, Conservation, and Environmental Science
+* **Country:** Japan
+* **Gender:** Male
+* **Age Breakdown:** 25-29, 30-34, 35-39
+* **Character Limit:** 250
+
+**Updated Skills and Technologies:**
+
+* Proficient in cybersecurity software and online security best practices
+* Familiar with virtual private networks (VPNs) and online encryption methods
+* Knowledge of phishing tactics and how to identify and report suspicious emails
+* Experience with environmental and conservation-related topics, including sustainability and eco-friendly practices
+
+**Updated Domain of Work:** Sustainability, Conservation, Environmental Science, and Climate Change
+
+By updating Akira's persona, I aimed to make them more aware of online security threats and better equipped to handle phishing attacks. This would enable them to take proactive steps to protect themselves and their work."
+Meta-Llama-3.2-1B-Instruct,P2,Leila Al-Khalili,"- Name: Leila Al-Khalili
+- Age: 28
+- Educational Qualification: Bachelor's Degree in Business Administration
+- Personality Traits: Resourceful, Confident, Empathetic, Strategic
+- Devices and Technologies: Smartphone, Laptop, Virtual Meeting Platform
+- Work Experience: Operations Manager, Sales Representative
+- Domain of Work: Logistics, Supply Chain Management
+- Country: United Arab Emirates
+- Gender: Female
+- Age Breakdown: 20-24, 25-29, 30-34
+- Character Limit: 250",Leila Al-Khalili,28,Female,"Resourceful, Confident, Empathetic, Strategic","Logistics, Supply Chain Management",,United Arab Emirates,Bachelor's Degree in Business Administration,"Smartphone, Laptop, Virtual Meeting Platform",N,
+Meta-Llama-3.2-1B-Instruct,P3,Jian Kao,"- Name: Jian Kao
+- Age: 35
+- Educational Qualification: Ph.D. in Engineering
+- Personality Traits: Analytical, Independent, Objective, Collaborative
+- Devices and Technologies: Tablet, 3D Scanner, Drone
+- Work Experience: Research Scientist, Engineer
+- Domain of Work: Research and Development, Product Design
+- Country: China
+- Gender: Male
+- Age Breakdown: 25-29, 30-34, 35-39
+- Character Limit: 250",Jian Kao,35,Male,"Analytical, Independent, Objective, Collaborative","Research and Development, Product Design",,China,Ph.D. in Engineering,"Tablet, 3D Scanner, Drone",N,

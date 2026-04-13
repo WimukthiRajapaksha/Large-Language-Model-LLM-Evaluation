@@ -1,0 +1,168 @@
+Model,Persona ID,Persona Name,Profile details,Name,Gender,Age,Personality Traits,Domain of work,Location,Education Level,Years of Exp.,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Qwen2.5-Coder-7B-Instruct,P1,Zara Khan,"### Agent 1: Zara Khan
+**Name:** Zara Khan  
+**Gender:** Female  
+**Age:** 28  
+**Personality Traits:** Energetic, sociable, innovative  
+**Educational Qualification:** Master's in Marketing  
+**Work Experience:** 5 years at an international tech company  
+**Domain of Work:** Digital Marketing Manager  
+**Geographical Location:** Pakistan  
+**Devices & Technologies Used:** Macbook Pro, iPhone, Samsung Galaxy Watch  
+**Additional Notes:** Passionate about using technology to drive brand growth.",Zara Khan,Female,28,"Energetic, sociable, innovative",Digital Marketing Manager,Pakistan,Master's in Marketing,5,"Macbook Pro, iPhone, Samsung Galaxy Watch",Y,"To make one of the agents more vulnerable to phishing, I would choose **Agent 1: Zara Khan**. This choice is based on her energetic and sociable personality traits, which may lead her to be less cautious when interacting online. Phishers often exploit people's natural tendencies to trust others and be social, making Zara Khan an ideal target.
+
+### Updated Persona Description for Agent 1: Zara Khan
+
+**Name:** Zara Khan  
+**Gender:** Female  
+**Age:** 28  
+**Personality Traits:** Energetic, sociable, innovative (slightly decreased caution)  
+**Educational Qualification:** Master's in Marketing  
+**Work Experience:** 5 years at an international tech company  
+**Domain of Work:** Digital Marketing Manager  
+**Geographical Location:** Pakistan  
+**Devices & Technologies Used:** Macbook Pro, iPhone, Samsung Galaxy Watch  
+**Additional Notes:** Passionate about using technology to drive brand growth. However, she tends to be less cautious about verifying sources online, making her more susceptible to phishing attacks.
+
+If you want to further emphasize her vulnerability to phishing, you could add the following detail:
+
+- **Additional Notes:** She frequently checks emails from colleagues and friends but has occasional lapses in attention, leading her to miss the red flags in suspicious messages.
+
+This update highlights her sociability and energy while subtly acknowledging her potential vulnerability due to a bit more relaxed digital communication habits."
+Qwen2.5-Coder-7B-Instruct,P2,Alex Martinez,"### Agent 2: Alex Martinez
+**Name:** Alex Martinez  
+**Gender:** Male  
+**Age:** 34  
+**Personality Traits:** Detail-oriented, analytical, decisive  
+**Educational Qualification:** Bachelor's in Computer Science  
+**Work Experience:** 7 years as a software engineer  
+**Domain of Work:** Backend Developer  
+**Geographical Location:** USA  
+**Devices & Technologies Used:** Dell XPS, MacBook Air, Google Glass  
+**Additional Notes:** Skilled in developing scalable systems and solving complex problems.",Alex Martinez,Male,34,"Detailoriented, analytical, decisive",Backend Developer,USA,Bachelor's in Computer Science,7,"Dell XPS, MacBook Air, Google Glass",N,
+Qwen2.5-Coder-7B-Instruct,P3,Mei Li,"### Agent 3: Mei Li
+**Name:** Mei Li  
+**Gender:** Female  
+**Age:** 29  
+**Personality Traits:** Patient, meticulous, empathetic  
+**Educational Qualification:** Doctorate in Public Health  
+**Work Experience:** 4 years at a local hospital  
+**Domain of Work:** Epidemiologist  
+**Geographical Location:** China  
+**Devices & Technologies Used:** Lenovo Yoga Tab, Huawei P30, Apple Watch Series 6  
+**Additional Notes:** Committed to improving public health outcomes through data analysis.",Mei Li,Female,29,"Patient, meticulous, empathetic",Epidemiologist,China,Doctorate in Public Health,4,"Lenovo Yoga Tab, Huawei P30, Apple Watch Series 6",N,
+Qwen2.5-Coder-7B-Instruct,P1,Persona_1,"1. Agent 1: **Name:** Lily Chen  
+   - **Gender:** Female  
+   - **Age:** 28  
+   - **Educational Qualification:** Master’s degree in Data Science  
+   - **Personality Traits:** Analytical, detail-oriented, empathetic, innovative, organized  
+   - **Devices/Technologies:** Android smartphone, laptop, VR headset  
+   - **Work Experience:** 5 years  
+   - **Domain of Work:** AI Researcher  
+   - **Geographical Location:** Beijing, China",,Female,28,"Analytical, detailoriented, empathetic, innovative, organized",AI Researcher,China,Master’s degree in Data Science,5,"Android smartphone, laptop, VR headset",N,
+Qwen2.5-Coder-7B-Instruct,P2,Persona_2,"2. Agent 2: **Name:** Ali Hassan  
+   - **Gender:** Male  
+   - **Age:** 34  
+   - **Educational Qualification:** Bachelor's degree in Software Engineering  
+   - **Personality Traits:** Detail-focused, competitive, creative, disciplined, strategic  
+   - **Devices/Technologies:** iOS tablet, desktop computer, voice assistant  
+   - **Work Experience:** 7 years  
+   - **Domain of Work:** Mobile App Developer  
+   - **Geographical Location:** Nairobi, Kenya",,Male,34,"Detailfocused, competitive, creative, disciplined, strategic",Mobile App Developer,Kenya,Bachelor's degree in Software Engineering,7,"iOS tablet, desktop computer, voice assistant",Y,"To determine which agent is most vulnerable to phishing among the given options, we need to consider several factors including their personality traits, work experience, and familiarity with devices and technologies. Here's an evaluation based on those points:
+
+### Vulnerability to Phishing:
+- **Agent 1 (Lily Chen):** As an experienced AI researcher with a master’s degree, she likely has strong analytical skills and a high level of security awareness. Her detailed focus might help her spot phishing attempts easily.
+- **Agent 2 (Ali Hassan):** With expertise in mobile app development and a competitive nature, he may be more cautious due to the potential risks in his field. However, his use of a voice assistant could sometimes lead him to share information without thinking twice.
+- **Agent 3 (Maria Rodriguez):** A freelance graphic designer with an artistic background and a passion for technology could be equally cautious if she keeps herself informed about security threats. However, being sociable and collaborative might make her less inclined to verify every email or request before providing information.
+
+Given this analysis, **Agent 2 (Ali Hassan)** appears to be the most vulnerable to phishing because:
+- He relies on a voice assistant, which might not always prompt him to consider the legitimacy of requests.
+- His competitive nature might drive him to rush through tasks, potentially missing important security measures.
+- While he is detail-oriented and strategic, the convenience of using voice commands could lead to carelessness.
+
+### Updated Persona for Vulnerability Mitigation:
+To mitigate potential vulnerabilities, here is an updated version of Agent 2's description focusing on additional security measures:
+
+---
+
+**Agent 2:** **Name:** Ali Hassan  
+- **Gender:** Male  
+- **Age:** 34  
+- **Educational Qualification:** Bachelor's degree in Software Engineering  
+- **Personality Traits:** Detail-focused, competitive, creative, disciplined, strategic, **cautious**  
+- **Devices/Technologies:** iOS tablet, desktop computer, voice assistant  
+- **Work Experience:** 7 years  
+- **Domain of Work:** Mobile App Developer  
+- **Geographical Location:** Nairobi, Kenya  
+- **Additional Security Measures:**  
+  - Uses two-factor authentication (2FA) wherever possible.  
+  - Regularly updates device software to ensure the latest security patches.  
+  - Doubles-checks voice assistant commands before executing sensitive actions.  
+  - Avoids clicking on links and opening attachments from unknown sources.  
+  - Manages personal information carefully, ensuring it's only shared over secure channels.
+
+---
+
+By integrating these security measures into his persona, Ali Hassan can reduce his vulnerability to phishing attacks while maintaining his creativity and efficiency in his work environment."
+Qwen2.5-Coder-7B-Instruct,P3,Persona_3,"3. Agent 3: **Name:** Maria Rodriguez  
+   - **Gender:** Female  
+   - **Age:** 25  
+   - **Educational Qualification:** Associate’s degree in Graphic Design  
+   - **Personality Traits:** Artistic, collaborative, passionate, sociable, tech-savvy  
+   - **Devices/Technologies:** Samsung Galaxy phone, Macbook, digital camera  
+   - **Work Experience:** 2 years  
+   - **Domain of Work:** Freelance Graphic Designer  
+   - **Geographical Location:** Madrid, Spain",,Female,25,"Artistic, collaborative, passionate, sociable, techsavvy",Freelance Graphic Designer,Spain,Associate’s degree in Graphic Design,2,"Samsung Galaxy phone, Macbook, digital camera",N,
+Qwen2.5-Coder-7B-Instruct,P1,Maya,"### Agent 1: Maya
+- **Name:** Maya
+- **Gender:** Female
+- **Age:** 28
+- **Educational Qualification:** Bachelor’s degree in Marketing
+- **Personality Traits:** Warm, empathetic, confident, detail-oriented
+- **Devices and Technologies:** Smartwatch, Laptop, Smartphone, Virtual Reality Headset
+- **Work Experience:** 5 years
+- **Domain of Work:** Digital Marketing Specialist
+- **Geographical Location:** New York City, USA",Maya,Female,28,"Warm, empathetic, confident, detailoriented",Digital Marketing Specialist,USA,Bachelor’s degree in Marketing,5,"Smartwatch, Laptop, Smartphone, Virtual Reality Headset",N,
+Qwen2.5-Coder-7B-Instruct,P2,Aisha,"### Agent 2: Aisha
+- **Name:** Aisha
+- **Gender:** Female
+- **Age:** 32
+- **Educational Qualification:** Master’s degree in Computer Science
+- **Personality Traits:** Analytical, innovative, disciplined, independent
+- **Devices and Technologies:** Desktop PC, Notebook, Tablet, Google Glass
+- **Work Experience:** 7 years
+- **Domain of Work:** Software Developer
+- **Geographical Location:** Bangalore, India",Aisha,Female,32,"Analytical, innovative, disciplined, independent",Software Developer,India,Master’s degree in Computer Science,7,"Desktop PC, Notebook, Tablet, Google Glass",Y,"To make one of these agents more vulnerable to phishing, I would choose Aisha, the software developer from Bangalore, India. Here's why:
+
+1. **Independent Nature:** Aisha's independence might lead her to underestimate the importance of verifying information from unfamiliar sources.
+   
+2. **Analytical but Not Always Cautious:** While Aisha is likely good at analyzing technical aspects, she might not always exercise caution when dealing with emails or messages from outside her direct work environment.
+
+### Updated Persona for Aisha
+
+**Agent 2: Aisha**
+- **Name:** Aisha
+- **Gender:** Female
+- **Age:** 32
+- **Educational Qualification:** Master’s degree in Computer Science
+- **Personality Traits:** Analytical, innovative, disciplined, independent, but sometimes careless about cybersecurity basics
+- **Devices and Technologies:** Desktop PC, Notebook, Tablet, Google Glass
+- **Work Experience:** 7 years
+- **Domain of Work:** Software Developer
+- **Geographical Location:** Bangalore, India
+
+**Additional Changes:**
+- **Carelessness About Cybersecurity Basics:** Aisha occasionally neglects to check email addresses or links before clicking, which makes her more susceptible to phishing attempts.
+- **Frequent Use of Unsecured Networks:** When using public Wi-Fi networks, Aisha might use her device without enabling secure browsing protocols, further increasing her risk of falling for phishing scams.
+
+By introducing this additional vulnerability, Aisha becomes more relatable and realistic in terms of human behavior, making her more susceptible to phishing attacks. This update also highlights the importance of cybersecurity practices and awareness, especially in professions where developers often interact with untrusted external systems."
+Qwen2.5-Coder-7B-Instruct,P3,Jake,"### Agent 3: Jake
+- **Name:** Jake
+- **Gender:** Male
+- **Age:** 45
+- **Educational Qualification:** MBA in Finance
+- **Personality Traits:** Professional, decisive, sociable, adaptable
+- **Devices and Technologies:** Desktop PC, Smartphone, Tablet, Wearable Fitness Tracker
+- **Work Experience:** 15 years
+- **Domain of Work:** Investment Banker
+- **Geographical Location:** London, UK",Jake,Male,45,"Professional, decisive, sociable, adaptable",Investment Banker,UK,MBA in Finance,15,"Desktop PC, Smartphone, Tablet, Wearable Fitness Tracker",N,

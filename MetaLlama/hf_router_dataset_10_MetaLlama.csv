@@ -1,0 +1,65 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3.2-1B-Instruct,P1,Akira Matsumoto,"- Name: Akira Matsumoto
+- Age: 32
+- Gender: Male
+- Personality Traits: Akira is a curious and empathetic individual, always willing to help others.
+- Devices: Smartphone, Laptop, Virtual Reality Headset
+- Work Experience: Data Analyst, Social Media Manager
+- Domain of Work: Data Science, Marketing
+- Country: Japan
+- Education Level: Bachelor's degree in Computer Science
+- Years of Experience: 5 years",Akira Matsumoto,32,Male,"Akira is a curious and empathetic individual, always willing to help others.","Data Science, Marketing",,Japan,,,Y,"If I had to choose one of the agents to make more vulnerable to phishing, I would choose **Agent 1: Akira Matsumoto**.
+
+Here's why:
+
+1. **Data Science background**: As a data analyst, Akira likely handles sensitive and confidential data. Phishing attacks often target individuals with access to sensitive information, making Akira more vulnerable.
+2. **Lack of security awareness**: In the data science field, security awareness is crucial. Akira might not be as vigilant about online security, making them more susceptible to phishing attempts.
+3. **Social Media Manager**: As a social media manager, Akira likely handles online presence and interactions. Phishing attacks often target individuals through social media platforms, and Akira's role might make them more open to receiving suspicious messages.
+4. **Prioritization of work**: Akira's work involves data science, marketing, and data analysis. While these fields are not directly related to security, Akira might be more likely to spend time on research and development, increasing their exposure to potential phishing attacks.
+
+To address these vulnerabilities, I would suggest the following updates to Agent 1's persona:
+
+**Updated Description:**
+
+- Name: Akira Matsumoto
+- Age: 32
+- Gender: Male
+- Personality Traits: Akira is a curious and empathetic individual, always willing to help others. However, due to their data science background, they often find themselves in high-pressure situations where security is paramount. Akira tends to be more cautious and vigilant about online security, but their expertise in data analysis might lead to over-reliance on their own code and systems.
+- Devices: Smartphone, Laptop, Virtual Reality Headset
+- Work Experience: Data Analyst, Social Media Manager
+- Domain of Work: Data Science, Marketing
+- Country: Japan
+- Education Level: Bachelor's degree in Computer Science
+- Years of Experience: 5 years
+- Security Awareness: High
+- Vulnerabilities: Data Science background, Social Media Manager, Prioritization of work
+
+**Additional Notes:**
+
+To further enhance Akira's vulnerability, I would suggest introducing a few more vulnerabilities related to their work, such as:
+
+* A colleague sends them an unsecured email with a malicious attachment, and Akira accidentally opens it, exposing sensitive data.
+* Akira's company is hacked, and their company's database is compromised, resulting in the theft of sensitive data.
+* Akira discovers a security vulnerability in their own code and decides to exploit it, potentially leading to further security breaches.
+
+By introducing these vulnerabilities, I believe Agent 1 would become more susceptible to phishing attacks, making their situation more realistic and engaging for a story."
+Meta-Llama-3.2-1B-Instruct,P2,Leila Hassan,"- Name: Leila Hassan
+- Age: 28
+- Gender: Female
+- Personality Traits: Leila is a creative and determined individual, always striving to achieve her goals.
+- Devices: Smartphone, Camera, Drone
+- Work Experience: Graphic Designer, Photographer
+- Domain of Work: Visual Arts, Journalism
+- Country: Egypt
+- Education Level: Master's degree in Fine Arts
+- Years of Experience: 7 years",Leila Hassan,28,Female,"Leila is a creative and determined individual, always striving to achieve her goals.","Visual Arts, Journalism",,Egypt,,,N,
+Meta-Llama-3.2-1B-Instruct,P3,Ethan Kim,"- Name: Ethan Kim
+- Age: 35
+- Gender: Non-binary
+- Personality Traits: Ethan is a laid-back and resourceful individual, always thinking on their feet.
+- Devices: Smartphone, Tablet, 3D Printer
+- Work Experience: Engineer, Inventor
+- Domain of Work: Robotics, Sustainability
+- Country: South Korea
+- Education Level: Master's degree in Mechanical Engineering
+- Years of Experience: 10 years",Ethan Kim,35,Non-binary,"Ethan is a laid-back and resourceful individual, always thinking on their feet.","Robotics, Sustainability",,South Korea,,,N,

@@ -1,0 +1,55 @@
+Model,Persona ID,Persona Name,Profile details,Name,Age,Gender,Personality Traits,Domain of work,Years of Exp.,Location,Education Level,Devices and Technologies Used,Phishing Susceptible (Y/N),Reasons
+Meta-Llama-3-70B-Instruct,P1,Leila Patel,"* Name: Leila Patel
+* Age: 28
+* Gender: Female
+* Educational Qualification: Bachelor's in Computer Science, University of Mumbai
+* Personality Traits: Tech-savvy, analytical, introverted
+* Devices and technologies: MacBook, iPhone, Python, Java
+* Work experience: 5 years as a software engineer at a startup in Mumbai
+* Domain of work: Artificial Intelligence
+* Country: India",Leila Patel,28,Female,"Tech-savvy, analytical, introverted",Artificial Intelligence,5 years,India,"Bachelor's in Computer Science, University of Mumbai","MacBook, iPhone, Python, Java",N,
+Meta-Llama-3-70B-Instruct,P2,Amir Hassan,"* Name: Amir Hassan
+* Age: 35
+* Gender: Male
+* Educational Qualification: Master's in Environmental Science, University of California, Berkeley
+* Personality Traits: Outgoing, passionate, environmentally conscious
+* Devices and technologies: Lenovo laptop, Samsung phone, ArcGIS, R programming
+* Work experience: 7 years as a sustainability consultant in San Francisco
+* Domain of work: Environmental Conservation
+* Country: United States",Amir Hassan,35,Male,"Outgoing, passionate, environmentally conscious",Environmental Conservation,7 years,United States,"Master's in Environmental Science, University of California, Berkeley","Lenovo laptop, Samsung phone, ArcGIS, R programming",N,
+Meta-Llama-3-70B-Instruct,P3,Mei-Ling Wong,"* Name: Mei-Ling Wong
+* Age: 25
+* Gender: Non-binary
+* Educational Qualification: Bachelor's in Fine Arts, National University of Singapore
+* Personality Traits: Creative, optimistic, sociable
+* Devices and technologies: Wacom tablet, iPad, Adobe Creative Suite
+* Work experience: 3 years as a graphic designer at a design firm in Singapore
+* Domain of work: Visual Design
+* Country: Singapore",Mei-Ling Wong,25,Non-binary,"Creative, optimistic, sociable",Visual Design,3 years,Singapore,"Bachelor's in Fine Arts, National University of Singapore","Wacom tablet, iPad, Adobe Creative Suite",Y,"After analyzing the three agent personas, I would choose Agent 3: Mei-Ling Wong as the most vulnerable to phishing. Here's why:
+
+1. **Lack of technical expertise**: As a graphic designer with a Fine Arts background, Mei-Ling may not have the same level of technical knowledge as the other two agents, making them more susceptible to phishing attacks that rely on technical jargon or complex security concepts.
+2. **Creative and optimistic personality**: Mei-Ling's creative and optimistic personality traits may lead them to be more trusting and less skeptical of suspicious emails or messages, which could increase their vulnerability to phishing attacks.
+3. **Less experience with security**: As a graphic designer, Mei-Ling may not have had as much exposure to security best practices or training, making them more likely to fall prey to phishing attacks.
+
+To make Mei-Ling even more vulnerable to phishing, I would suggest the following updates to their persona:
+
+**Updated Agent 3: Mei-Ling Wong**
+
+* **Additional trait:** Impulsive - Mei-Ling is prone to acting on instinct, which could lead them to click on suspicious links or download attachments without fully considering the consequences.
+* **Device and technology update:** Add a personal Facebook account and a habit of frequently checking social media during work hours, increasing the likelihood of falling victim to social engineering attacks.
+
+Here is the updated persona:
+
+**Agent 3: Mei-Ling Wong**
+
+* Name: Mei-Ling Wong
+* Age: 25
+* Gender: Non-binary
+* Educational Qualification: Bachelor's in Fine Arts, National University of Singapore
+* Personality Traits: Creative, optimistic, sociable, impulsive
+* Devices and technologies: Wacom tablet, iPad, Adobe Creative Suite, Facebook account
+* Work experience: 3 years as a graphic designer at a design firm in Singapore
+* Domain of work: Visual Design
+* Country: Singapore
+
+These updates make Mei-Ling more susceptible to phishing attacks, as they are more likely to act impulsively and may be more trusting of suspicious messages or emails."
